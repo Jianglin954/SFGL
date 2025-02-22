@@ -52,29 +52,21 @@ class LM_PL_Trainer():
         ### self.output_dir = f'output/{self.dataset_name}{self.use_gpt_str}{self.orign_data_split}/{self.model_name}-seed{self.seed}-labels{self.ratio}-lr{self.lr}-manhattan'
         ### self.ckpt_dir = f'prt_lm/{self.dataset_name}{self.use_gpt_str}{self.orign_data_split}/{self.model_name}-seed{self.seed}-labels{self.ratio}-lr{self.lr}-manhattan'
         ### print("------------manhattan---------")
-        ### print("------------manhattan---------")
-        ### print("------------manhattan---------")
 
         ### print("------------euclidean---------")
         ### self.output_dir = f'output/{self.dataset_name}{self.use_gpt_str}{self.orign_data_split}/{self.model_name}-seed{self.seed}-labels{self.ratio}-lr{self.lr}-euclidean'
         ### self.ckpt_dir = f'prt_lm/{self.dataset_name}{self.use_gpt_str}{self.orign_data_split}/{self.model_name}-seed{self.seed}-labels{self.ratio}-lr{self.lr}-euclidean'
         ### print("------------euclidean---------")
-        ### print("------------euclidean---------")
-        ### print("------------euclidean---------")
-
-
 
         ### print("------------ SAGE ---------")
         ### self.output_dir = f'output/{self.dataset_name}{self.use_gpt_str}{self.orign_data_split}/{self.model_name}-seed{self.seed}-labels{self.ratio}-lr{self.lr}-SAGE'
         ### self.ckpt_dir = f'prt_lm/{self.dataset_name}{self.use_gpt_str}{self.orign_data_split}/{self.model_name}-seed{self.seed}-labels{self.ratio}-lr{self.lr}-SAGE'
-        ### print("------------SAGE---------")
         ### print("------------SAGE---------")
 
 
         print("------------ GAT ---------")
         self.output_dir = f'output/{self.dataset_name}{self.use_gpt_str}{self.orign_data_split}/{self.model_name}-seed{self.seed}-labels{self.ratio}-lr{self.lr}-GAT'
         self.ckpt_dir = f'prt_lm/{self.dataset_name}{self.use_gpt_str}{self.orign_data_split}/{self.model_name}-seed{self.seed}-labels{self.ratio}-lr{self.lr}-GAT'
-        print("------------GAT---------")
         print("------------GAT---------")
 
         print(f'\n hyper params: {self.output_dir} \n')
@@ -258,8 +250,7 @@ class LM_Text_Encoder_Trainer():
         self.output_dir = f'output/{self.dataset_name}{self.use_gpt_str}{self.orign_data_split}/{self.model_name}-seed{self.seed}-labels{self.ratio}-lr{self.lr}-textencode'
         self.ckpt_dir = f'prt_lm/{self.dataset_name}{self.use_gpt_str}{self.orign_data_split}/{self.model_name}-seed{self.seed}-labels{self.ratio}-lr{self.lr}-textencode'
         print("------------text encoder---------")
-        print("------------text encoder---------")
-        print("------------text encoder---------")
+
 
         print(f'\n hyper params: {self.output_dir} \n')
         #self.output_dir = f'output/{self.dataset_name}{self.use_gpt_str}{self.orign_data_split}/{self.model_name}-seed{self.seed}-ratio{self.ratio}'
