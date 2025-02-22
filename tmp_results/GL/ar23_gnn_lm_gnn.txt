@@ -1,0 +1,2290 @@
+An import exception occurred
+Before Check, remove_indices in train_mask:  27668
+Before Check, remove_indices in val_mask:  0
+Before Check, remove_indices in test_mask:  0
+Labeled samping in training set: 50/46198, ratio: 50%!!
+Check remove_indices in train_mask: 0
+Check remove_indices in val_mask: 0
+Check remove_indices in test_mask: 0
+Before pseudo labling, labeled samples in training set: 50/46198, ratio: 50%!!
+Loading pretrained LM features (title and abstract) ...
+LM_emb_path: prt_lm/arxiv_2023_#_train_LMs_pls/microsoft/deberta-base-seed0-labels50-lr2e-05.emb
+Constructing a large graph ...
+Finished large graph construction!...
+
+Number of parameters: 103848
+Start running train at 11-21 23:54:57
+Epoch: 0, Time: 0.0752, Loss: 3.9380, TrainAcc: 0.0200, ValAcc: 0.3167, ES: 00/500 | BestVal=0.3167@E0
+Epoch: 10, Time: 0.0353, Loss: 0.2927, TrainAcc: 0.9600, ValAcc: 0.4146, ES: 00/500 | BestVal=0.4146@E10
+Epoch: 20, Time: 0.0277, Loss: 0.1103, TrainAcc: 1.0000, ValAcc: 0.4280, ES: 04/500 | BestVal=0.4389@E16
+Epoch: 30, Time: 0.0277, Loss: 0.0371, TrainAcc: 1.0000, ValAcc: 0.4268, ES: 14/500 | BestVal=0.4389@E16
+Epoch: 40, Time: 0.0277, Loss: 0.0186, TrainAcc: 1.0000, ValAcc: 0.4180, ES: 24/500 | BestVal=0.4389@E16
+Epoch: 50, Time: 0.0277, Loss: 0.0083, TrainAcc: 1.0000, ValAcc: 0.4108, ES: 34/500 | BestVal=0.4389@E16
+Epoch: 60, Time: 0.0276, Loss: 0.0056, TrainAcc: 1.0000, ValAcc: 0.4194, ES: 44/500 | BestVal=0.4389@E16
+Epoch: 70, Time: 0.0277, Loss: 0.0054, TrainAcc: 1.0000, ValAcc: 0.4128, ES: 54/500 | BestVal=0.4389@E16
+Epoch: 80, Time: 0.0277, Loss: 0.0036, TrainAcc: 1.0000, ValAcc: 0.4139, ES: 64/500 | BestVal=0.4389@E16
+Epoch: 90, Time: 0.0277, Loss: 0.0022, TrainAcc: 1.0000, ValAcc: 0.4102, ES: 74/500 | BestVal=0.4389@E16
+Epoch: 100, Time: 0.0276, Loss: 0.0020, TrainAcc: 1.0000, ValAcc: 0.4120, ES: 84/500 | BestVal=0.4389@E16
+Epoch: 110, Time: 0.0277, Loss: 0.0020, TrainAcc: 1.0000, ValAcc: 0.4111, ES: 94/500 | BestVal=0.4389@E16
+Epoch: 120, Time: 0.0277, Loss: 0.0042, TrainAcc: 1.0000, ValAcc: 0.4106, ES: 104/500 | BestVal=0.4389@E16
+Epoch: 130, Time: 0.0277, Loss: 0.0014, TrainAcc: 1.0000, ValAcc: 0.4080, ES: 114/500 | BestVal=0.4389@E16
+Epoch: 140, Time: 0.0277, Loss: 0.0009, TrainAcc: 1.0000, ValAcc: 0.4092, ES: 124/500 | BestVal=0.4389@E16
+Epoch: 150, Time: 0.0276, Loss: 0.0014, TrainAcc: 1.0000, ValAcc: 0.4104, ES: 134/500 | BestVal=0.4389@E16
+Epoch: 160, Time: 0.0277, Loss: 0.0010, TrainAcc: 1.0000, ValAcc: 0.4092, ES: 144/500 | BestVal=0.4389@E16
+Epoch: 170, Time: 0.0277, Loss: 0.0018, TrainAcc: 1.0000, ValAcc: 0.4097, ES: 154/500 | BestVal=0.4389@E16
+Epoch: 180, Time: 0.0277, Loss: 0.0008, TrainAcc: 1.0000, ValAcc: 0.4082, ES: 164/500 | BestVal=0.4389@E16
+Epoch: 190, Time: 0.0277, Loss: 0.0008, TrainAcc: 1.0000, ValAcc: 0.4080, ES: 174/500 | BestVal=0.4389@E16
+Finished running train at 11-21 23:55:03, running time = 6.45s.
+[TA] ValAcc: 0.4389, TestAcc: 0.4425
+
+Before Check, remove_indices in train_mask:  27668
+Before Check, remove_indices in val_mask:  0
+Before Check, remove_indices in test_mask:  0
+Labeled samping in training set: 50/46198, ratio: 50%!!
+Check remove_indices in train_mask: 0
+Check remove_indices in val_mask: 0
+Check remove_indices in test_mask: 0
+Before pseudo labling, labeled samples in training set: 50/46198, ratio: 50%!!
+Loading pretrained LM features (title and abstract) ...
+LM_emb_path: prt_lm/arxiv_2023_#_train_LMs_pls/microsoft/deberta-base-seed1-labels50-lr2e-05.emb
+Constructing a large graph ...
+Finished large graph construction!...
+
+Number of parameters: 103848
+Start running train at 11-21 23:55:05
+Epoch: 0, Time: 0.0354, Loss: 4.4753, TrainAcc: 0.0000, ValAcc: 0.1415, ES: 00/500 | BestVal=0.1415@E0
+Epoch: 10, Time: 0.0340, Loss: 0.4654, TrainAcc: 0.9000, ValAcc: 0.3747, ES: 00/500 | BestVal=0.3747@E10
+Epoch: 20, Time: 0.0277, Loss: 0.1569, TrainAcc: 1.0000, ValAcc: 0.3855, ES: 08/500 | BestVal=0.3893@E12
+Epoch: 30, Time: 0.0277, Loss: 0.0632, TrainAcc: 1.0000, ValAcc: 0.3688, ES: 05/500 | BestVal=0.3902@E25
+Epoch: 40, Time: 0.0276, Loss: 0.0226, TrainAcc: 1.0000, ValAcc: 0.3818, ES: 15/500 | BestVal=0.3902@E25
+Epoch: 50, Time: 0.0277, Loss: 0.0142, TrainAcc: 1.0000, ValAcc: 0.3848, ES: 25/500 | BestVal=0.3902@E25
+Epoch: 60, Time: 0.0276, Loss: 0.0058, TrainAcc: 1.0000, ValAcc: 0.3792, ES: 35/500 | BestVal=0.3902@E25
+Epoch: 70, Time: 0.0277, Loss: 0.0047, TrainAcc: 1.0000, ValAcc: 0.3712, ES: 45/500 | BestVal=0.3902@E25
+Epoch: 80, Time: 0.0276, Loss: 0.0034, TrainAcc: 1.0000, ValAcc: 0.3681, ES: 55/500 | BestVal=0.3902@E25
+Epoch: 90, Time: 0.0276, Loss: 0.0032, TrainAcc: 1.0000, ValAcc: 0.3683, ES: 65/500 | BestVal=0.3902@E25
+Epoch: 100, Time: 0.0277, Loss: 0.0023, TrainAcc: 1.0000, ValAcc: 0.3694, ES: 75/500 | BestVal=0.3902@E25
+Epoch: 110, Time: 0.0276, Loss: 0.0015, TrainAcc: 1.0000, ValAcc: 0.3647, ES: 85/500 | BestVal=0.3902@E25
+Epoch: 120, Time: 0.0277, Loss: 0.0022, TrainAcc: 1.0000, ValAcc: 0.3677, ES: 95/500 | BestVal=0.3902@E25
+Epoch: 130, Time: 0.0276, Loss: 0.0021, TrainAcc: 1.0000, ValAcc: 0.3705, ES: 105/500 | BestVal=0.3902@E25
+Epoch: 140, Time: 0.0276, Loss: 0.0014, TrainAcc: 1.0000, ValAcc: 0.3653, ES: 115/500 | BestVal=0.3902@E25
+Epoch: 150, Time: 0.0276, Loss: 0.0012, TrainAcc: 1.0000, ValAcc: 0.3665, ES: 125/500 | BestVal=0.3902@E25
+Epoch: 160, Time: 0.0277, Loss: 0.0010, TrainAcc: 1.0000, ValAcc: 0.3667, ES: 135/500 | BestVal=0.3902@E25
+Epoch: 170, Time: 0.0276, Loss: 0.0015, TrainAcc: 1.0000, ValAcc: 0.3667, ES: 145/500 | BestVal=0.3902@E25
+Epoch: 180, Time: 0.0276, Loss: 0.0009, TrainAcc: 1.0000, ValAcc: 0.3667, ES: 155/500 | BestVal=0.3902@E25
+Epoch: 190, Time: 0.0276, Loss: 0.0008, TrainAcc: 1.0000, ValAcc: 0.3667, ES: 165/500 | BestVal=0.3902@E25
+Finished running train at 11-21 23:55:10, running time = 5.61s.
+[TA] ValAcc: 0.3902, TestAcc: 0.3870
+
+Before Check, remove_indices in train_mask:  27668
+Before Check, remove_indices in val_mask:  0
+Before Check, remove_indices in test_mask:  0
+Labeled samping in training set: 50/46198, ratio: 50%!!
+Check remove_indices in train_mask: 0
+Check remove_indices in val_mask: 0
+Check remove_indices in test_mask: 0
+Before pseudo labling, labeled samples in training set: 50/46198, ratio: 50%!!
+Loading pretrained LM features (title and abstract) ...
+LM_emb_path: prt_lm/arxiv_2023_#_train_LMs_pls/microsoft/deberta-base-seed2-labels50-lr2e-05.emb
+Constructing a large graph ...
+Finished large graph construction!...
+
+Number of parameters: 103848
+Start running train at 11-21 23:55:12
+Epoch: 0, Time: 0.0350, Loss: 3.7785, TrainAcc: 0.0200, ValAcc: 0.3527, ES: 00/500 | BestVal=0.3527@E0
+Epoch: 10, Time: 0.0344, Loss: 0.1898, TrainAcc: 1.0000, ValAcc: 0.4452, ES: 00/500 | BestVal=0.4452@E10
+Epoch: 20, Time: 0.0347, Loss: 0.0453, TrainAcc: 1.0000, ValAcc: 0.4455, ES: 00/500 | BestVal=0.4455@E20
+Epoch: 30, Time: 0.0342, Loss: 0.0161, TrainAcc: 1.0000, ValAcc: 0.4567, ES: 00/500 | BestVal=0.4567@E30
+Epoch: 40, Time: 0.0277, Loss: 0.0068, TrainAcc: 1.0000, ValAcc: 0.4604, ES: 01/500 | BestVal=0.4610@E39
+Epoch: 50, Time: 0.0277, Loss: 0.0041, TrainAcc: 1.0000, ValAcc: 0.4589, ES: 11/500 | BestVal=0.4610@E39
+Epoch: 60, Time: 0.0277, Loss: 0.0033, TrainAcc: 1.0000, ValAcc: 0.4584, ES: 21/500 | BestVal=0.4610@E39
+Epoch: 70, Time: 0.0277, Loss: 0.0021, TrainAcc: 1.0000, ValAcc: 0.4587, ES: 31/500 | BestVal=0.4610@E39
+Epoch: 80, Time: 0.0277, Loss: 0.0020, TrainAcc: 1.0000, ValAcc: 0.4582, ES: 41/500 | BestVal=0.4610@E39
+Epoch: 90, Time: 0.0276, Loss: 0.0014, TrainAcc: 1.0000, ValAcc: 0.4580, ES: 51/500 | BestVal=0.4610@E39
+Epoch: 100, Time: 0.0277, Loss: 0.0020, TrainAcc: 1.0000, ValAcc: 0.4581, ES: 61/500 | BestVal=0.4610@E39
+Epoch: 110, Time: 0.0277, Loss: 0.0017, TrainAcc: 1.0000, ValAcc: 0.4580, ES: 71/500 | BestVal=0.4610@E39
+Epoch: 120, Time: 0.0277, Loss: 0.0018, TrainAcc: 1.0000, ValAcc: 0.4578, ES: 81/500 | BestVal=0.4610@E39
+Epoch: 130, Time: 0.0277, Loss: 0.0009, TrainAcc: 1.0000, ValAcc: 0.4582, ES: 91/500 | BestVal=0.4610@E39
+Epoch: 140, Time: 0.0277, Loss: 0.0009, TrainAcc: 1.0000, ValAcc: 0.4577, ES: 101/500 | BestVal=0.4610@E39
+Epoch: 150, Time: 0.0276, Loss: 0.0008, TrainAcc: 1.0000, ValAcc: 0.4587, ES: 111/500 | BestVal=0.4610@E39
+Epoch: 160, Time: 0.0277, Loss: 0.0007, TrainAcc: 1.0000, ValAcc: 0.4585, ES: 121/500 | BestVal=0.4610@E39
+Epoch: 170, Time: 0.0277, Loss: 0.0006, TrainAcc: 1.0000, ValAcc: 0.4573, ES: 131/500 | BestVal=0.4610@E39
+Epoch: 180, Time: 0.0277, Loss: 0.0006, TrainAcc: 1.0000, ValAcc: 0.4573, ES: 141/500 | BestVal=0.4610@E39
+Epoch: 190, Time: 0.0277, Loss: 0.0006, TrainAcc: 1.0000, ValAcc: 0.4575, ES: 151/500 | BestVal=0.4610@E39
+Finished running train at 11-21 23:55:17, running time = 5.74s.
+[TA] ValAcc: 0.4610, TestAcc: 0.4528
+
+Before Check, remove_indices in train_mask:  27668
+Before Check, remove_indices in val_mask:  0
+Before Check, remove_indices in test_mask:  0
+Labeled samping in training set: 50/46198, ratio: 50%!!
+Check remove_indices in train_mask: 0
+Check remove_indices in val_mask: 0
+Check remove_indices in test_mask: 0
+Before pseudo labling, labeled samples in training set: 50/46198, ratio: 50%!!
+Loading pretrained LM features (title and abstract) ...
+LM_emb_path: prt_lm/arxiv_2023_#_train_LMs_pls/microsoft/deberta-base-seed3-labels50-lr2e-05.emb
+Constructing a large graph ...
+Finished large graph construction!...
+
+Number of parameters: 103848
+Start running train at 11-21 23:55:19
+Epoch: 0, Time: 0.0354, Loss: 4.1182, TrainAcc: 0.0600, ValAcc: 0.3120, ES: 00/500 | BestVal=0.3120@E0
+Epoch: 10, Time: 0.0277, Loss: 0.0753, TrainAcc: 1.0000, ValAcc: 0.4438, ES: 01/500 | BestVal=0.4444@E9
+Epoch: 20, Time: 0.0277, Loss: 0.0172, TrainAcc: 1.0000, ValAcc: 0.4421, ES: 11/500 | BestVal=0.4444@E9
+Epoch: 30, Time: 0.0277, Loss: 0.0065, TrainAcc: 1.0000, ValAcc: 0.4423, ES: 21/500 | BestVal=0.4444@E9
+Epoch: 40, Time: 0.0277, Loss: 0.0041, TrainAcc: 1.0000, ValAcc: 0.4413, ES: 31/500 | BestVal=0.4444@E9
+Epoch: 50, Time: 0.0277, Loss: 0.0024, TrainAcc: 1.0000, ValAcc: 0.4402, ES: 41/500 | BestVal=0.4444@E9
+Epoch: 60, Time: 0.0277, Loss: 0.0023, TrainAcc: 1.0000, ValAcc: 0.4411, ES: 51/500 | BestVal=0.4444@E9
+Epoch: 70, Time: 0.0276, Loss: 0.0021, TrainAcc: 1.0000, ValAcc: 0.4419, ES: 61/500 | BestVal=0.4444@E9
+Epoch: 80, Time: 0.0277, Loss: 0.0011, TrainAcc: 1.0000, ValAcc: 0.4425, ES: 71/500 | BestVal=0.4444@E9
+Epoch: 90, Time: 0.0277, Loss: 0.0012, TrainAcc: 1.0000, ValAcc: 0.4429, ES: 81/500 | BestVal=0.4444@E9
+Epoch: 100, Time: 0.0277, Loss: 0.0014, TrainAcc: 1.0000, ValAcc: 0.4412, ES: 91/500 | BestVal=0.4444@E9
+Epoch: 110, Time: 0.0277, Loss: 0.0012, TrainAcc: 1.0000, ValAcc: 0.4405, ES: 101/500 | BestVal=0.4444@E9
+Epoch: 120, Time: 0.0276, Loss: 0.0009, TrainAcc: 1.0000, ValAcc: 0.4397, ES: 111/500 | BestVal=0.4444@E9
+Epoch: 130, Time: 0.0277, Loss: 0.0008, TrainAcc: 1.0000, ValAcc: 0.4409, ES: 121/500 | BestVal=0.4444@E9
+Epoch: 140, Time: 0.0276, Loss: 0.0007, TrainAcc: 1.0000, ValAcc: 0.4413, ES: 131/500 | BestVal=0.4444@E9
+Epoch: 150, Time: 0.0277, Loss: 0.0003, TrainAcc: 1.0000, ValAcc: 0.4419, ES: 141/500 | BestVal=0.4444@E9
+Epoch: 160, Time: 0.0277, Loss: 0.0006, TrainAcc: 1.0000, ValAcc: 0.4416, ES: 151/500 | BestVal=0.4444@E9
+Epoch: 170, Time: 0.0277, Loss: 0.0005, TrainAcc: 1.0000, ValAcc: 0.4408, ES: 161/500 | BestVal=0.4444@E9
+Epoch: 180, Time: 0.0277, Loss: 0.0004, TrainAcc: 1.0000, ValAcc: 0.4408, ES: 171/500 | BestVal=0.4444@E9
+Epoch: 190, Time: 0.0277, Loss: 0.0004, TrainAcc: 1.0000, ValAcc: 0.4408, ES: 181/500 | BestVal=0.4444@E9
+Finished running train at 11-21 23:55:24, running time = 5.60s.
+[TA] ValAcc: 0.4444, TestAcc: 0.4399
+
+Before Check, remove_indices in train_mask:  27668
+Before Check, remove_indices in val_mask:  0
+Before Check, remove_indices in test_mask:  0
+Labeled samping in training set: 50/46198, ratio: 50%!!
+Check remove_indices in train_mask: 0
+Check remove_indices in val_mask: 0
+Check remove_indices in test_mask: 0
+Before pseudo labling, labeled samples in training set: 50/46198, ratio: 50%!!
+Loading pretrained LM features (title and abstract) ...
+LM_emb_path: prt_lm/arxiv_2023_#_train_LMs_pls/microsoft/deberta-base-seed4-labels50-lr2e-05.emb
+Constructing a large graph ...
+Finished large graph construction!...
+
+Number of parameters: 103848
+Start running train at 11-21 23:55:26
+Epoch: 0, Time: 0.0359, Loss: 3.9847, TrainAcc: 0.0000, ValAcc: 0.1460, ES: 00/500 | BestVal=0.1460@E0
+Epoch: 10, Time: 0.0338, Loss: 0.2627, TrainAcc: 0.9600, ValAcc: 0.4378, ES: 00/500 | BestVal=0.4378@E10
+Epoch: 20, Time: 0.0276, Loss: 0.0763, TrainAcc: 1.0000, ValAcc: 0.4241, ES: 07/500 | BestVal=0.4408@E13
+Epoch: 30, Time: 0.0277, Loss: 0.0324, TrainAcc: 1.0000, ValAcc: 0.4126, ES: 17/500 | BestVal=0.4408@E13
+Epoch: 40, Time: 0.0277, Loss: 0.0106, TrainAcc: 1.0000, ValAcc: 0.4162, ES: 27/500 | BestVal=0.4408@E13
+Epoch: 50, Time: 0.0276, Loss: 0.0058, TrainAcc: 1.0000, ValAcc: 0.4098, ES: 37/500 | BestVal=0.4408@E13
+Epoch: 60, Time: 0.0276, Loss: 0.0030, TrainAcc: 1.0000, ValAcc: 0.4105, ES: 47/500 | BestVal=0.4408@E13
+Epoch: 70, Time: 0.0276, Loss: 0.0036, TrainAcc: 1.0000, ValAcc: 0.4116, ES: 57/500 | BestVal=0.4408@E13
+Epoch: 80, Time: 0.0276, Loss: 0.0027, TrainAcc: 1.0000, ValAcc: 0.4146, ES: 67/500 | BestVal=0.4408@E13
+Epoch: 90, Time: 0.0276, Loss: 0.0016, TrainAcc: 1.0000, ValAcc: 0.4113, ES: 77/500 | BestVal=0.4408@E13
+Epoch: 100, Time: 0.0276, Loss: 0.0014, TrainAcc: 1.0000, ValAcc: 0.4123, ES: 87/500 | BestVal=0.4408@E13
+Epoch: 110, Time: 0.0276, Loss: 0.0017, TrainAcc: 1.0000, ValAcc: 0.4144, ES: 97/500 | BestVal=0.4408@E13
+Epoch: 120, Time: 0.0277, Loss: 0.0010, TrainAcc: 1.0000, ValAcc: 0.4127, ES: 107/500 | BestVal=0.4408@E13
+Epoch: 130, Time: 0.0276, Loss: 0.0009, TrainAcc: 1.0000, ValAcc: 0.4127, ES: 117/500 | BestVal=0.4408@E13
+Epoch: 140, Time: 0.0276, Loss: 0.0010, TrainAcc: 1.0000, ValAcc: 0.4131, ES: 127/500 | BestVal=0.4408@E13
+Epoch: 150, Time: 0.0276, Loss: 0.0009, TrainAcc: 1.0000, ValAcc: 0.4115, ES: 137/500 | BestVal=0.4408@E13
+Epoch: 160, Time: 0.0276, Loss: 0.0010, TrainAcc: 1.0000, ValAcc: 0.4106, ES: 147/500 | BestVal=0.4408@E13
+Epoch: 170, Time: 0.0276, Loss: 0.0006, TrainAcc: 1.0000, ValAcc: 0.4115, ES: 157/500 | BestVal=0.4408@E13
+Epoch: 180, Time: 0.0276, Loss: 0.0005, TrainAcc: 1.0000, ValAcc: 0.4119, ES: 167/500 | BestVal=0.4408@E13
+Epoch: 190, Time: 0.0276, Loss: 0.0004, TrainAcc: 1.0000, ValAcc: 0.4121, ES: 177/500 | BestVal=0.4408@E13
+Finished running train at 11-21 23:55:31, running time = 5.62s.
+[TA] ValAcc: 0.4408, TestAcc: 0.4390
+
+[TA] ValACC: 0.4350 ± 0.0266, TestAcc: 0.4323 ± 0.0259
+dataset: arxiv_2023
+device: 0
+gnn:
+  model:
+    hidden_dim: 128
+    name: GCN
+    num_layers: 2
+  train:
+    K: 25
+    dropout: 0.5
+    early_stop: 500
+    epochs: 200
+    feature_type: TA
+    lr: 0.01
+    use_dgl: False
+    wd: 0.0
+    weight_decay: 0.0005
+lm:
+  model:
+    feat_shrink: 
+    name: microsoft/deberta-base
+  train:
+    GSL_data_split: True
+    att_dropout: 0.1
+    batch_size: 9
+    cla_dropout: 0.4
+    dropout: 0.3
+    epochs: 4
+    eval_patience: 50000
+    grad_acc_steps: 1
+    lr: 0.0001
+    use_gpt: False
+    warmup_epochs: 0.6
+    weight_decay: 0.0
+ratio: 50
+runs: 5
+seed: 4
+An import exception occurred
+Before Check, remove_indices in train_mask:  27618
+Before Check, remove_indices in val_mask:  0
+Before Check, remove_indices in test_mask:  0
+Labeled samping in training set: 100/46198, ratio: 100%!!
+Check remove_indices in train_mask: 0
+Check remove_indices in val_mask: 0
+Check remove_indices in test_mask: 0
+Before pseudo labling, labeled samples in training set: 100/46198, ratio: 100%!!
+Loading pretrained LM features (title and abstract) ...
+LM_emb_path: prt_lm/arxiv_2023_#_train_LMs_pls/microsoft/deberta-base-seed0-labels100-lr2e-05.emb
+Constructing a large graph ...
+Finished large graph construction!...
+
+Number of parameters: 103848
+Start running train at 11-21 23:55:46
+Epoch: 0, Time: 0.0606, Loss: 4.0007, TrainAcc: 0.0000, ValAcc: 0.3523, ES: 00/500 | BestVal=0.3523@E0
+Epoch: 10, Time: 0.0339, Loss: 0.3272, TrainAcc: 0.9300, ValAcc: 0.5063, ES: 00/500 | BestVal=0.5063@E10
+Epoch: 20, Time: 0.0277, Loss: 0.1242, TrainAcc: 0.9800, ValAcc: 0.5074, ES: 08/500 | BestVal=0.5098@E12
+Epoch: 30, Time: 0.0277, Loss: 0.0568, TrainAcc: 1.0000, ValAcc: 0.5006, ES: 07/500 | BestVal=0.5111@E23
+Epoch: 40, Time: 0.0277, Loss: 0.0250, TrainAcc: 1.0000, ValAcc: 0.5015, ES: 17/500 | BestVal=0.5111@E23
+Epoch: 50, Time: 0.0276, Loss: 0.0125, TrainAcc: 1.0000, ValAcc: 0.4960, ES: 27/500 | BestVal=0.5111@E23
+Epoch: 60, Time: 0.0277, Loss: 0.0077, TrainAcc: 1.0000, ValAcc: 0.4945, ES: 37/500 | BestVal=0.5111@E23
+Epoch: 70, Time: 0.0277, Loss: 0.0058, TrainAcc: 1.0000, ValAcc: 0.4942, ES: 47/500 | BestVal=0.5111@E23
+Epoch: 80, Time: 0.0277, Loss: 0.0045, TrainAcc: 1.0000, ValAcc: 0.4944, ES: 57/500 | BestVal=0.5111@E23
+Epoch: 90, Time: 0.0277, Loss: 0.0036, TrainAcc: 1.0000, ValAcc: 0.4931, ES: 67/500 | BestVal=0.5111@E23
+Epoch: 100, Time: 0.0277, Loss: 0.0033, TrainAcc: 1.0000, ValAcc: 0.4931, ES: 77/500 | BestVal=0.5111@E23
+Epoch: 110, Time: 0.0277, Loss: 0.0028, TrainAcc: 1.0000, ValAcc: 0.4931, ES: 87/500 | BestVal=0.5111@E23
+Epoch: 120, Time: 0.0277, Loss: 0.0026, TrainAcc: 1.0000, ValAcc: 0.4931, ES: 97/500 | BestVal=0.5111@E23
+Epoch: 130, Time: 0.0277, Loss: 0.0018, TrainAcc: 1.0000, ValAcc: 0.4924, ES: 107/500 | BestVal=0.5111@E23
+Epoch: 140, Time: 0.0277, Loss: 0.0017, TrainAcc: 1.0000, ValAcc: 0.4912, ES: 117/500 | BestVal=0.5111@E23
+Epoch: 150, Time: 0.0277, Loss: 0.0014, TrainAcc: 1.0000, ValAcc: 0.4913, ES: 127/500 | BestVal=0.5111@E23
+Epoch: 160, Time: 0.0277, Loss: 0.0018, TrainAcc: 1.0000, ValAcc: 0.4938, ES: 137/500 | BestVal=0.5111@E23
+Epoch: 170, Time: 0.0277, Loss: 0.0014, TrainAcc: 1.0000, ValAcc: 0.4925, ES: 147/500 | BestVal=0.5111@E23
+Epoch: 180, Time: 0.0277, Loss: 0.0012, TrainAcc: 1.0000, ValAcc: 0.4910, ES: 157/500 | BestVal=0.5111@E23
+Epoch: 190, Time: 0.0277, Loss: 0.0012, TrainAcc: 1.0000, ValAcc: 0.4909, ES: 167/500 | BestVal=0.5111@E23
+Finished running train at 11-21 23:55:51, running time = 5.88s.
+[TA] ValAcc: 0.5111, TestAcc: 0.5149
+
+Before Check, remove_indices in train_mask:  27618
+Before Check, remove_indices in val_mask:  0
+Before Check, remove_indices in test_mask:  0
+Labeled samping in training set: 100/46198, ratio: 100%!!
+Check remove_indices in train_mask: 0
+Check remove_indices in val_mask: 0
+Check remove_indices in test_mask: 0
+Before pseudo labling, labeled samples in training set: 100/46198, ratio: 100%!!
+Loading pretrained LM features (title and abstract) ...
+LM_emb_path: prt_lm/arxiv_2023_#_train_LMs_pls/microsoft/deberta-base-seed1-labels100-lr2e-05.emb
+Constructing a large graph ...
+Finished large graph construction!...
+
+Number of parameters: 103848
+Start running train at 11-21 23:55:53
+Epoch: 0, Time: 0.0357, Loss: 4.1501, TrainAcc: 0.0100, ValAcc: 0.3281, ES: 00/500 | BestVal=0.3281@E0
+Epoch: 10, Time: 0.0277, Loss: 0.5134, TrainAcc: 0.8700, ValAcc: 0.4732, ES: 06/500 | BestVal=0.4823@E4
+Epoch: 20, Time: 0.0377, Loss: 0.1909, TrainAcc: 0.9700, ValAcc: 0.4883, ES: 00/500 | BestVal=0.4883@E20
+Epoch: 30, Time: 0.0277, Loss: 0.0822, TrainAcc: 0.9900, ValAcc: 0.5012, ES: 01/500 | BestVal=0.5015@E29
+Epoch: 40, Time: 0.0277, Loss: 0.0343, TrainAcc: 1.0000, ValAcc: 0.4917, ES: 11/500 | BestVal=0.5015@E29
+Epoch: 50, Time: 0.0277, Loss: 0.0181, TrainAcc: 1.0000, ValAcc: 0.4866, ES: 21/500 | BestVal=0.5015@E29
+Epoch: 60, Time: 0.0277, Loss: 0.0111, TrainAcc: 1.0000, ValAcc: 0.4774, ES: 31/500 | BestVal=0.5015@E29
+Epoch: 70, Time: 0.0277, Loss: 0.0059, TrainAcc: 1.0000, ValAcc: 0.4768, ES: 41/500 | BestVal=0.5015@E29
+Epoch: 80, Time: 0.0277, Loss: 0.0047, TrainAcc: 1.0000, ValAcc: 0.4735, ES: 51/500 | BestVal=0.5015@E29
+Epoch: 90, Time: 0.0277, Loss: 0.0045, TrainAcc: 1.0000, ValAcc: 0.4746, ES: 61/500 | BestVal=0.5015@E29
+Epoch: 100, Time: 0.0277, Loss: 0.0034, TrainAcc: 1.0000, ValAcc: 0.4709, ES: 71/500 | BestVal=0.5015@E29
+Epoch: 110, Time: 0.0277, Loss: 0.0032, TrainAcc: 1.0000, ValAcc: 0.4729, ES: 81/500 | BestVal=0.5015@E29
+Epoch: 120, Time: 0.0277, Loss: 0.0026, TrainAcc: 1.0000, ValAcc: 0.4707, ES: 91/500 | BestVal=0.5015@E29
+Epoch: 130, Time: 0.0277, Loss: 0.0018, TrainAcc: 1.0000, ValAcc: 0.4683, ES: 101/500 | BestVal=0.5015@E29
+Epoch: 140, Time: 0.0277, Loss: 0.0026, TrainAcc: 1.0000, ValAcc: 0.4688, ES: 111/500 | BestVal=0.5015@E29
+Epoch: 150, Time: 0.0277, Loss: 0.0021, TrainAcc: 1.0000, ValAcc: 0.4681, ES: 121/500 | BestVal=0.5015@E29
+Epoch: 160, Time: 0.0277, Loss: 0.0017, TrainAcc: 1.0000, ValAcc: 0.4644, ES: 131/500 | BestVal=0.5015@E29
+Epoch: 170, Time: 0.0277, Loss: 0.0010, TrainAcc: 1.0000, ValAcc: 0.4688, ES: 141/500 | BestVal=0.5015@E29
+Epoch: 180, Time: 0.0277, Loss: 0.0012, TrainAcc: 1.0000, ValAcc: 0.4694, ES: 151/500 | BestVal=0.5015@E29
+Epoch: 190, Time: 0.0277, Loss: 0.0010, TrainAcc: 1.0000, ValAcc: 0.4655, ES: 161/500 | BestVal=0.5015@E29
+Finished running train at 11-21 23:55:58, running time = 5.64s.
+[TA] ValAcc: 0.5015, TestAcc: 0.4973
+
+Before Check, remove_indices in train_mask:  27618
+Before Check, remove_indices in val_mask:  0
+Before Check, remove_indices in test_mask:  0
+Labeled samping in training set: 100/46198, ratio: 100%!!
+Check remove_indices in train_mask: 0
+Check remove_indices in val_mask: 0
+Check remove_indices in test_mask: 0
+Before pseudo labling, labeled samples in training set: 100/46198, ratio: 100%!!
+Loading pretrained LM features (title and abstract) ...
+LM_emb_path: prt_lm/arxiv_2023_#_train_LMs_pls/microsoft/deberta-base-seed2-labels100-lr2e-05.emb
+Constructing a large graph ...
+Finished large graph construction!...
+
+Number of parameters: 103848
+Start running train at 11-21 23:56:00
+Epoch: 0, Time: 0.0364, Loss: 3.8364, TrainAcc: 0.0300, ValAcc: 0.4365, ES: 00/500 | BestVal=0.4365@E0
+Epoch: 10, Time: 0.0337, Loss: 0.4628, TrainAcc: 0.8500, ValAcc: 0.5106, ES: 00/500 | BestVal=0.5106@E10
+Epoch: 20, Time: 0.0277, Loss: 0.1703, TrainAcc: 0.9800, ValAcc: 0.5095, ES: 06/500 | BestVal=0.5161@E14
+Epoch: 30, Time: 0.0277, Loss: 0.0720, TrainAcc: 0.9900, ValAcc: 0.5136, ES: 16/500 | BestVal=0.5161@E14
+Epoch: 40, Time: 0.0277, Loss: 0.0356, TrainAcc: 1.0000, ValAcc: 0.5161, ES: 02/500 | BestVal=0.5181@E38
+Epoch: 50, Time: 0.0277, Loss: 0.0228, TrainAcc: 1.0000, ValAcc: 0.5139, ES: 12/500 | BestVal=0.5181@E38
+Epoch: 60, Time: 0.0277, Loss: 0.0099, TrainAcc: 1.0000, ValAcc: 0.5144, ES: 22/500 | BestVal=0.5181@E38
+Epoch: 70, Time: 0.0277, Loss: 0.0061, TrainAcc: 1.0000, ValAcc: 0.5111, ES: 32/500 | BestVal=0.5181@E38
+Epoch: 80, Time: 0.0277, Loss: 0.0077, TrainAcc: 1.0000, ValAcc: 0.5115, ES: 42/500 | BestVal=0.5181@E38
+Epoch: 90, Time: 0.0277, Loss: 0.0049, TrainAcc: 1.0000, ValAcc: 0.5103, ES: 52/500 | BestVal=0.5181@E38
+Epoch: 100, Time: 0.0277, Loss: 0.0038, TrainAcc: 1.0000, ValAcc: 0.5113, ES: 62/500 | BestVal=0.5181@E38
+Epoch: 110, Time: 0.0277, Loss: 0.0034, TrainAcc: 1.0000, ValAcc: 0.5136, ES: 72/500 | BestVal=0.5181@E38
+Epoch: 120, Time: 0.0277, Loss: 0.0029, TrainAcc: 1.0000, ValAcc: 0.5123, ES: 82/500 | BestVal=0.5181@E38
+Epoch: 130, Time: 0.0277, Loss: 0.0023, TrainAcc: 1.0000, ValAcc: 0.5122, ES: 92/500 | BestVal=0.5181@E38
+Epoch: 140, Time: 0.0277, Loss: 0.0030, TrainAcc: 1.0000, ValAcc: 0.5108, ES: 102/500 | BestVal=0.5181@E38
+Epoch: 150, Time: 0.0277, Loss: 0.0031, TrainAcc: 1.0000, ValAcc: 0.5135, ES: 112/500 | BestVal=0.5181@E38
+Epoch: 160, Time: 0.0277, Loss: 0.0016, TrainAcc: 1.0000, ValAcc: 0.5107, ES: 122/500 | BestVal=0.5181@E38
+Epoch: 170, Time: 0.0277, Loss: 0.0015, TrainAcc: 1.0000, ValAcc: 0.5115, ES: 132/500 | BestVal=0.5181@E38
+Epoch: 180, Time: 0.0277, Loss: 0.0014, TrainAcc: 1.0000, ValAcc: 0.5104, ES: 142/500 | BestVal=0.5181@E38
+Epoch: 190, Time: 0.0278, Loss: 0.0095, TrainAcc: 0.9900, ValAcc: 0.5168, ES: 152/500 | BestVal=0.5181@E38
+Finished running train at 11-21 23:56:05, running time = 5.66s.
+[TA] ValAcc: 0.5181, TestAcc: 0.5118
+
+Before Check, remove_indices in train_mask:  27618
+Before Check, remove_indices in val_mask:  0
+Before Check, remove_indices in test_mask:  0
+Labeled samping in training set: 100/46198, ratio: 100%!!
+Check remove_indices in train_mask: 0
+Check remove_indices in val_mask: 0
+Check remove_indices in test_mask: 0
+Before pseudo labling, labeled samples in training set: 100/46198, ratio: 100%!!
+Loading pretrained LM features (title and abstract) ...
+LM_emb_path: prt_lm/arxiv_2023_#_train_LMs_pls/microsoft/deberta-base-seed3-labels100-lr2e-05.emb
+Constructing a large graph ...
+Finished large graph construction!...
+
+Number of parameters: 103848
+Start running train at 11-21 23:56:07
+Epoch: 0, Time: 0.0359, Loss: 4.0628, TrainAcc: 0.0200, ValAcc: 0.3210, ES: 00/500 | BestVal=0.3210@E0
+Epoch: 10, Time: 0.0277, Loss: 0.5005, TrainAcc: 0.8700, ValAcc: 0.4674, ES: 06/500 | BestVal=0.4904@E4
+Epoch: 20, Time: 0.0277, Loss: 0.2155, TrainAcc: 0.9600, ValAcc: 0.4738, ES: 16/500 | BestVal=0.4904@E4
+Epoch: 30, Time: 0.0277, Loss: 0.1018, TrainAcc: 0.9800, ValAcc: 0.4626, ES: 26/500 | BestVal=0.4904@E4
+Epoch: 40, Time: 0.0277, Loss: 0.0497, TrainAcc: 1.0000, ValAcc: 0.4626, ES: 36/500 | BestVal=0.4904@E4
+Epoch: 50, Time: 0.0277, Loss: 0.0323, TrainAcc: 1.0000, ValAcc: 0.4642, ES: 46/500 | BestVal=0.4904@E4
+Epoch: 60, Time: 0.0277, Loss: 0.0191, TrainAcc: 1.0000, ValAcc: 0.4624, ES: 56/500 | BestVal=0.4904@E4
+Epoch: 70, Time: 0.0277, Loss: 0.0114, TrainAcc: 1.0000, ValAcc: 0.4588, ES: 66/500 | BestVal=0.4904@E4
+Epoch: 80, Time: 0.0277, Loss: 0.0076, TrainAcc: 1.0000, ValAcc: 0.4603, ES: 76/500 | BestVal=0.4904@E4
+Epoch: 90, Time: 0.0277, Loss: 0.0054, TrainAcc: 1.0000, ValAcc: 0.4626, ES: 86/500 | BestVal=0.4904@E4
+Epoch: 100, Time: 0.0277, Loss: 0.0064, TrainAcc: 1.0000, ValAcc: 0.4568, ES: 96/500 | BestVal=0.4904@E4
+Epoch: 110, Time: 0.0277, Loss: 0.0054, TrainAcc: 1.0000, ValAcc: 0.4558, ES: 106/500 | BestVal=0.4904@E4
+Epoch: 120, Time: 0.0277, Loss: 0.0042, TrainAcc: 1.0000, ValAcc: 0.4573, ES: 116/500 | BestVal=0.4904@E4
+Epoch: 130, Time: 0.0277, Loss: 0.0028, TrainAcc: 1.0000, ValAcc: 0.4581, ES: 126/500 | BestVal=0.4904@E4
+Epoch: 140, Time: 0.0277, Loss: 0.0026, TrainAcc: 1.0000, ValAcc: 0.4544, ES: 136/500 | BestVal=0.4904@E4
+Epoch: 150, Time: 0.0277, Loss: 0.0020, TrainAcc: 1.0000, ValAcc: 0.4580, ES: 146/500 | BestVal=0.4904@E4
+Epoch: 160, Time: 0.0277, Loss: 0.0030, TrainAcc: 1.0000, ValAcc: 0.4567, ES: 156/500 | BestVal=0.4904@E4
+Epoch: 170, Time: 0.0277, Loss: 0.0036, TrainAcc: 1.0000, ValAcc: 0.4532, ES: 166/500 | BestVal=0.4904@E4
+Epoch: 180, Time: 0.0277, Loss: 0.0048, TrainAcc: 1.0000, ValAcc: 0.4557, ES: 176/500 | BestVal=0.4904@E4
+Epoch: 190, Time: 0.0277, Loss: 0.0012, TrainAcc: 1.0000, ValAcc: 0.4592, ES: 186/500 | BestVal=0.4904@E4
+Finished running train at 11-21 23:56:12, running time = 5.58s.
+[TA] ValAcc: 0.4904, TestAcc: 0.4885
+
+Before Check, remove_indices in train_mask:  27618
+Before Check, remove_indices in val_mask:  0
+Before Check, remove_indices in test_mask:  0
+Labeled samping in training set: 100/46198, ratio: 100%!!
+Check remove_indices in train_mask: 0
+Check remove_indices in val_mask: 0
+Check remove_indices in test_mask: 0
+Before pseudo labling, labeled samples in training set: 100/46198, ratio: 100%!!
+Loading pretrained LM features (title and abstract) ...
+LM_emb_path: prt_lm/arxiv_2023_#_train_LMs_pls/microsoft/deberta-base-seed4-labels100-lr2e-05.emb
+Constructing a large graph ...
+Finished large graph construction!...
+
+Number of parameters: 103848
+Start running train at 11-21 23:56:14
+Epoch: 0, Time: 0.0371, Loss: 4.0563, TrainAcc: 0.0400, ValAcc: 0.3091, ES: 00/500 | BestVal=0.3091@E0
+Epoch: 10, Time: 0.0353, Loss: 0.3407, TrainAcc: 0.8900, ValAcc: 0.4824, ES: 00/500 | BestVal=0.4824@E10
+Epoch: 20, Time: 0.0277, Loss: 0.1475, TrainAcc: 0.9600, ValAcc: 0.4917, ES: 04/500 | BestVal=0.4953@E16
+Epoch: 30, Time: 0.0277, Loss: 0.0552, TrainAcc: 1.0000, ValAcc: 0.4943, ES: 14/500 | BestVal=0.4953@E16
+Epoch: 40, Time: 0.0277, Loss: 0.0293, TrainAcc: 1.0000, ValAcc: 0.4904, ES: 24/500 | BestVal=0.4953@E16
+Epoch: 50, Time: 0.0277, Loss: 0.0175, TrainAcc: 1.0000, ValAcc: 0.4898, ES: 34/500 | BestVal=0.4953@E16
+Epoch: 60, Time: 0.0277, Loss: 0.0106, TrainAcc: 1.0000, ValAcc: 0.4904, ES: 44/500 | BestVal=0.4953@E16
+Epoch: 70, Time: 0.0277, Loss: 0.0067, TrainAcc: 1.0000, ValAcc: 0.4886, ES: 54/500 | BestVal=0.4953@E16
+Epoch: 80, Time: 0.0276, Loss: 0.0051, TrainAcc: 1.0000, ValAcc: 0.4927, ES: 64/500 | BestVal=0.4953@E16
+Epoch: 90, Time: 0.0277, Loss: 0.0038, TrainAcc: 1.0000, ValAcc: 0.4885, ES: 74/500 | BestVal=0.4953@E16
+Epoch: 100, Time: 0.0277, Loss: 0.0033, TrainAcc: 1.0000, ValAcc: 0.4871, ES: 84/500 | BestVal=0.4953@E16
+Epoch: 110, Time: 0.0277, Loss: 0.0031, TrainAcc: 1.0000, ValAcc: 0.4908, ES: 94/500 | BestVal=0.4953@E16
+Epoch: 120, Time: 0.0277, Loss: 0.0040, TrainAcc: 1.0000, ValAcc: 0.4907, ES: 104/500 | BestVal=0.4953@E16
+Epoch: 130, Time: 0.0277, Loss: 0.0025, TrainAcc: 1.0000, ValAcc: 0.4907, ES: 114/500 | BestVal=0.4953@E16
+Epoch: 140, Time: 0.0277, Loss: 0.0023, TrainAcc: 1.0000, ValAcc: 0.4843, ES: 124/500 | BestVal=0.4953@E16
+Epoch: 150, Time: 0.0277, Loss: 0.0021, TrainAcc: 1.0000, ValAcc: 0.4916, ES: 134/500 | BestVal=0.4953@E16
+Epoch: 160, Time: 0.0277, Loss: 0.0018, TrainAcc: 1.0000, ValAcc: 0.4899, ES: 144/500 | BestVal=0.4953@E16
+Epoch: 170, Time: 0.0277, Loss: 0.0010, TrainAcc: 1.0000, ValAcc: 0.4878, ES: 154/500 | BestVal=0.4953@E16
+Epoch: 180, Time: 0.0277, Loss: 0.0011, TrainAcc: 1.0000, ValAcc: 0.4876, ES: 164/500 | BestVal=0.4953@E16
+Epoch: 190, Time: 0.0276, Loss: 0.0009, TrainAcc: 1.0000, ValAcc: 0.4899, ES: 174/500 | BestVal=0.4953@E16
+Finished running train at 11-21 23:56:20, running time = 5.78s.
+[TA] ValAcc: 0.4953, TestAcc: 0.4886
+
+[TA] ValACC: 0.5033 ± 0.0113, TestAcc: 0.5002 ± 0.0125
+dataset: arxiv_2023
+device: 0
+gnn:
+  model:
+    hidden_dim: 128
+    name: GCN
+    num_layers: 2
+  train:
+    K: 25
+    dropout: 0.5
+    early_stop: 500
+    epochs: 200
+    feature_type: TA
+    lr: 0.01
+    use_dgl: False
+    wd: 0.0
+    weight_decay: 0.0005
+lm:
+  model:
+    feat_shrink: 
+    name: microsoft/deberta-base
+  train:
+    GSL_data_split: True
+    att_dropout: 0.1
+    batch_size: 9
+    cla_dropout: 0.4
+    dropout: 0.3
+    epochs: 4
+    eval_patience: 50000
+    grad_acc_steps: 1
+    lr: 0.0001
+    use_gpt: False
+    warmup_epochs: 0.6
+    weight_decay: 0.0
+ratio: 100
+runs: 5
+seed: 4
+An import exception occurred
+Before Check, remove_indices in train_mask:  27568
+Before Check, remove_indices in val_mask:  0
+Before Check, remove_indices in test_mask:  0
+Labeled samping in training set: 150/46198, ratio: 150%!!
+Check remove_indices in train_mask: 0
+Check remove_indices in val_mask: 0
+Check remove_indices in test_mask: 0
+Before pseudo labling, labeled samples in training set: 150/46198, ratio: 150%!!
+Loading pretrained LM features (title and abstract) ...
+LM_emb_path: prt_lm/arxiv_2023_#_train_LMs_pls/microsoft/deberta-base-seed0-labels150-lr2e-05.emb
+Constructing a large graph ...
+Finished large graph construction!...
+
+Number of parameters: 103848
+Start running train at 11-21 23:56:36
+Epoch: 0, Time: 0.0707, Loss: 4.0388, TrainAcc: 0.0133, ValAcc: 0.3823, ES: 00/500 | BestVal=0.3823@E0
+Epoch: 10, Time: 0.0277, Loss: 0.5711, TrainAcc: 0.8400, ValAcc: 0.5211, ES: 07/500 | BestVal=0.5282@E3
+Epoch: 20, Time: 0.0277, Loss: 0.2583, TrainAcc: 0.9533, ValAcc: 0.5205, ES: 17/500 | BestVal=0.5282@E3
+Epoch: 30, Time: 0.0277, Loss: 0.1205, TrainAcc: 0.9933, ValAcc: 0.5160, ES: 27/500 | BestVal=0.5282@E3
+Epoch: 40, Time: 0.0277, Loss: 0.0564, TrainAcc: 1.0000, ValAcc: 0.5179, ES: 37/500 | BestVal=0.5282@E3
+Epoch: 50, Time: 0.0277, Loss: 0.0280, TrainAcc: 1.0000, ValAcc: 0.5153, ES: 47/500 | BestVal=0.5282@E3
+Epoch: 60, Time: 0.0277, Loss: 0.0160, TrainAcc: 1.0000, ValAcc: 0.5080, ES: 57/500 | BestVal=0.5282@E3
+Epoch: 70, Time: 0.0277, Loss: 0.0101, TrainAcc: 1.0000, ValAcc: 0.5069, ES: 67/500 | BestVal=0.5282@E3
+Epoch: 80, Time: 0.0277, Loss: 0.0101, TrainAcc: 1.0000, ValAcc: 0.5068, ES: 77/500 | BestVal=0.5282@E3
+Epoch: 90, Time: 0.0277, Loss: 0.0060, TrainAcc: 1.0000, ValAcc: 0.5054, ES: 87/500 | BestVal=0.5282@E3
+Epoch: 100, Time: 0.0277, Loss: 0.0063, TrainAcc: 1.0000, ValAcc: 0.5060, ES: 97/500 | BestVal=0.5282@E3
+Epoch: 110, Time: 0.0277, Loss: 0.0061, TrainAcc: 1.0000, ValAcc: 0.5057, ES: 107/500 | BestVal=0.5282@E3
+Epoch: 120, Time: 0.0277, Loss: 0.0048, TrainAcc: 1.0000, ValAcc: 0.5079, ES: 117/500 | BestVal=0.5282@E3
+Epoch: 130, Time: 0.0277, Loss: 0.0035, TrainAcc: 1.0000, ValAcc: 0.5029, ES: 127/500 | BestVal=0.5282@E3
+Epoch: 140, Time: 0.0277, Loss: 0.0049, TrainAcc: 1.0000, ValAcc: 0.5025, ES: 137/500 | BestVal=0.5282@E3
+Epoch: 150, Time: 0.0277, Loss: 0.0033, TrainAcc: 1.0000, ValAcc: 0.5066, ES: 147/500 | BestVal=0.5282@E3
+Epoch: 160, Time: 0.0277, Loss: 0.0025, TrainAcc: 1.0000, ValAcc: 0.5057, ES: 157/500 | BestVal=0.5282@E3
+Epoch: 170, Time: 0.0277, Loss: 0.0032, TrainAcc: 1.0000, ValAcc: 0.5073, ES: 167/500 | BestVal=0.5282@E3
+Epoch: 180, Time: 0.0277, Loss: 0.0024, TrainAcc: 1.0000, ValAcc: 0.5062, ES: 177/500 | BestVal=0.5282@E3
+Epoch: 190, Time: 0.0277, Loss: 0.0020, TrainAcc: 1.0000, ValAcc: 0.5045, ES: 187/500 | BestVal=0.5282@E3
+Finished running train at 11-21 23:56:42, running time = 5.97s.
+[TA] ValAcc: 0.5282, TestAcc: 0.5192
+
+Before Check, remove_indices in train_mask:  27568
+Before Check, remove_indices in val_mask:  0
+Before Check, remove_indices in test_mask:  0
+Labeled samping in training set: 150/46198, ratio: 150%!!
+Check remove_indices in train_mask: 0
+Check remove_indices in val_mask: 0
+Check remove_indices in test_mask: 0
+Before pseudo labling, labeled samples in training set: 150/46198, ratio: 150%!!
+Loading pretrained LM features (title and abstract) ...
+LM_emb_path: prt_lm/arxiv_2023_#_train_LMs_pls/microsoft/deberta-base-seed1-labels150-lr2e-05.emb
+Constructing a large graph ...
+Finished large graph construction!...
+
+Number of parameters: 103848
+Start running train at 11-21 23:56:44
+Epoch: 0, Time: 0.0368, Loss: 4.3881, TrainAcc: 0.0200, ValAcc: 0.2122, ES: 00/500 | BestVal=0.2122@E0
+Epoch: 10, Time: 0.0342, Loss: 0.8032, TrainAcc: 0.7600, ValAcc: 0.4754, ES: 00/500 | BestVal=0.4754@E10
+Epoch: 20, Time: 0.0277, Loss: 0.4284, TrainAcc: 0.8600, ValAcc: 0.5092, ES: 02/500 | BestVal=0.5117@E18
+Epoch: 30, Time: 0.0277, Loss: 0.2379, TrainAcc: 0.9467, ValAcc: 0.5110, ES: 12/500 | BestVal=0.5117@E18
+Epoch: 40, Time: 0.0277, Loss: 0.1172, TrainAcc: 0.9800, ValAcc: 0.5136, ES: 02/500 | BestVal=0.5173@E38
+Epoch: 50, Time: 0.0277, Loss: 0.0537, TrainAcc: 1.0000, ValAcc: 0.5071, ES: 12/500 | BestVal=0.5173@E38
+Epoch: 60, Time: 0.0277, Loss: 0.0310, TrainAcc: 1.0000, ValAcc: 0.5176, ES: 02/500 | BestVal=0.5179@E58
+Epoch: 70, Time: 0.0342, Loss: 0.0189, TrainAcc: 1.0000, ValAcc: 0.5207, ES: 00/500 | BestVal=0.5207@E70
+Epoch: 80, Time: 0.0277, Loss: 0.0138, TrainAcc: 1.0000, ValAcc: 0.5093, ES: 10/500 | BestVal=0.5207@E70
+Epoch: 90, Time: 0.0277, Loss: 0.0096, TrainAcc: 1.0000, ValAcc: 0.5107, ES: 20/500 | BestVal=0.5207@E70
+Epoch: 100, Time: 0.0277, Loss: 0.0063, TrainAcc: 1.0000, ValAcc: 0.4985, ES: 30/500 | BestVal=0.5207@E70
+Epoch: 110, Time: 0.0277, Loss: 0.0048, TrainAcc: 1.0000, ValAcc: 0.5111, ES: 40/500 | BestVal=0.5207@E70
+Epoch: 120, Time: 0.0277, Loss: 0.0038, TrainAcc: 1.0000, ValAcc: 0.5052, ES: 50/500 | BestVal=0.5207@E70
+Epoch: 130, Time: 0.0277, Loss: 0.0041, TrainAcc: 1.0000, ValAcc: 0.5040, ES: 60/500 | BestVal=0.5207@E70
+Epoch: 140, Time: 0.0277, Loss: 0.0031, TrainAcc: 1.0000, ValAcc: 0.4985, ES: 70/500 | BestVal=0.5207@E70
+Epoch: 150, Time: 0.0277, Loss: 0.0034, TrainAcc: 1.0000, ValAcc: 0.5075, ES: 80/500 | BestVal=0.5207@E70
+Epoch: 160, Time: 0.0277, Loss: 0.0027, TrainAcc: 1.0000, ValAcc: 0.5039, ES: 90/500 | BestVal=0.5207@E70
+Epoch: 170, Time: 0.0277, Loss: 0.0020, TrainAcc: 1.0000, ValAcc: 0.5024, ES: 100/500 | BestVal=0.5207@E70
+Epoch: 180, Time: 0.0277, Loss: 0.0015, TrainAcc: 1.0000, ValAcc: 0.5001, ES: 110/500 | BestVal=0.5207@E70
+Epoch: 190, Time: 0.0277, Loss: 0.0019, TrainAcc: 1.0000, ValAcc: 0.5031, ES: 120/500 | BestVal=0.5207@E70
+Finished running train at 11-21 23:56:49, running time = 5.70s.
+[TA] ValAcc: 0.5207, TestAcc: 0.5187
+
+Before Check, remove_indices in train_mask:  27568
+Before Check, remove_indices in val_mask:  0
+Before Check, remove_indices in test_mask:  0
+Labeled samping in training set: 150/46198, ratio: 150%!!
+Check remove_indices in train_mask: 0
+Check remove_indices in val_mask: 0
+Check remove_indices in test_mask: 0
+Before pseudo labling, labeled samples in training set: 150/46198, ratio: 150%!!
+Loading pretrained LM features (title and abstract) ...
+LM_emb_path: prt_lm/arxiv_2023_#_train_LMs_pls/microsoft/deberta-base-seed2-labels150-lr2e-05.emb
+Constructing a large graph ...
+Finished large graph construction!...
+
+Number of parameters: 103848
+Start running train at 11-21 23:56:51
+Epoch: 0, Time: 0.0414, Loss: 3.8265, TrainAcc: 0.0400, ValAcc: 0.4872, ES: 00/500 | BestVal=0.4872@E0
+Epoch: 10, Time: 0.0361, Loss: 0.5552, TrainAcc: 0.8333, ValAcc: 0.5368, ES: 00/500 | BestVal=0.5368@E10
+Epoch: 20, Time: 0.0277, Loss: 0.2818, TrainAcc: 0.9267, ValAcc: 0.5319, ES: 10/500 | BestVal=0.5368@E10
+Epoch: 30, Time: 0.0277, Loss: 0.1347, TrainAcc: 0.9867, ValAcc: 0.5312, ES: 20/500 | BestVal=0.5368@E10
+Epoch: 40, Time: 0.0277, Loss: 0.0728, TrainAcc: 0.9933, ValAcc: 0.5282, ES: 30/500 | BestVal=0.5368@E10
+Epoch: 50, Time: 0.0277, Loss: 0.0406, TrainAcc: 1.0000, ValAcc: 0.5245, ES: 40/500 | BestVal=0.5368@E10
+Epoch: 60, Time: 0.0277, Loss: 0.0222, TrainAcc: 1.0000, ValAcc: 0.5255, ES: 50/500 | BestVal=0.5368@E10
+Epoch: 70, Time: 0.0277, Loss: 0.0179, TrainAcc: 1.0000, ValAcc: 0.5229, ES: 60/500 | BestVal=0.5368@E10
+Epoch: 80, Time: 0.0277, Loss: 0.0086, TrainAcc: 1.0000, ValAcc: 0.5201, ES: 70/500 | BestVal=0.5368@E10
+Epoch: 90, Time: 0.0277, Loss: 0.0076, TrainAcc: 1.0000, ValAcc: 0.5206, ES: 80/500 | BestVal=0.5368@E10
+Epoch: 100, Time: 0.0277, Loss: 0.0059, TrainAcc: 1.0000, ValAcc: 0.5206, ES: 90/500 | BestVal=0.5368@E10
+Epoch: 110, Time: 0.0277, Loss: 0.0054, TrainAcc: 1.0000, ValAcc: 0.5197, ES: 100/500 | BestVal=0.5368@E10
+Epoch: 120, Time: 0.0278, Loss: 0.0037, TrainAcc: 1.0000, ValAcc: 0.5205, ES: 110/500 | BestVal=0.5368@E10
+Epoch: 130, Time: 0.0278, Loss: 0.0034, TrainAcc: 1.0000, ValAcc: 0.5213, ES: 120/500 | BestVal=0.5368@E10
+Epoch: 140, Time: 0.0277, Loss: 0.0031, TrainAcc: 1.0000, ValAcc: 0.5208, ES: 130/500 | BestVal=0.5368@E10
+Epoch: 150, Time: 0.0277, Loss: 0.0022, TrainAcc: 1.0000, ValAcc: 0.5206, ES: 140/500 | BestVal=0.5368@E10
+Epoch: 160, Time: 0.0277, Loss: 0.0023, TrainAcc: 1.0000, ValAcc: 0.5199, ES: 150/500 | BestVal=0.5368@E10
+Epoch: 170, Time: 0.0278, Loss: 0.0024, TrainAcc: 1.0000, ValAcc: 0.5181, ES: 160/500 | BestVal=0.5368@E10
+Epoch: 180, Time: 0.0277, Loss: 0.0016, TrainAcc: 1.0000, ValAcc: 0.5194, ES: 170/500 | BestVal=0.5368@E10
+Epoch: 190, Time: 0.0277, Loss: 0.0016, TrainAcc: 1.0000, ValAcc: 0.5215, ES: 180/500 | BestVal=0.5368@E10
+Finished running train at 11-21 23:56:56, running time = 5.63s.
+[TA] ValAcc: 0.5368, TestAcc: 0.5338
+
+Before Check, remove_indices in train_mask:  27568
+Before Check, remove_indices in val_mask:  0
+Before Check, remove_indices in test_mask:  0
+Labeled samping in training set: 150/46198, ratio: 150%!!
+Check remove_indices in train_mask: 0
+Check remove_indices in val_mask: 0
+Check remove_indices in test_mask: 0
+Before pseudo labling, labeled samples in training set: 150/46198, ratio: 150%!!
+Loading pretrained LM features (title and abstract) ...
+LM_emb_path: prt_lm/arxiv_2023_#_train_LMs_pls/microsoft/deberta-base-seed3-labels150-lr2e-05.emb
+Constructing a large graph ...
+Finished large graph construction!...
+
+Number of parameters: 103848
+Start running train at 11-21 23:56:58
+Epoch: 0, Time: 0.0377, Loss: 4.1904, TrainAcc: 0.0133, ValAcc: 0.2930, ES: 00/500 | BestVal=0.2930@E0
+Epoch: 10, Time: 0.0277, Loss: 0.6544, TrainAcc: 0.8267, ValAcc: 0.4800, ES: 02/500 | BestVal=0.4903@E8
+Epoch: 20, Time: 0.0277, Loss: 0.3609, TrainAcc: 0.8867, ValAcc: 0.5116, ES: 01/500 | BestVal=0.5123@E19
+Epoch: 30, Time: 0.0277, Loss: 0.2027, TrainAcc: 0.9533, ValAcc: 0.5104, ES: 11/500 | BestVal=0.5123@E19
+Epoch: 40, Time: 0.0277, Loss: 0.1154, TrainAcc: 0.9800, ValAcc: 0.4937, ES: 21/500 | BestVal=0.5123@E19
+Epoch: 50, Time: 0.0277, Loss: 0.0551, TrainAcc: 1.0000, ValAcc: 0.4842, ES: 31/500 | BestVal=0.5123@E19
+Epoch: 60, Time: 0.0277, Loss: 0.0254, TrainAcc: 1.0000, ValAcc: 0.4853, ES: 41/500 | BestVal=0.5123@E19
+Epoch: 70, Time: 0.0277, Loss: 0.0187, TrainAcc: 1.0000, ValAcc: 0.4847, ES: 51/500 | BestVal=0.5123@E19
+Epoch: 80, Time: 0.0277, Loss: 0.0113, TrainAcc: 1.0000, ValAcc: 0.4814, ES: 61/500 | BestVal=0.5123@E19
+Epoch: 90, Time: 0.0277, Loss: 0.0071, TrainAcc: 1.0000, ValAcc: 0.4801, ES: 71/500 | BestVal=0.5123@E19
+Epoch: 100, Time: 0.0277, Loss: 0.0070, TrainAcc: 1.0000, ValAcc: 0.4800, ES: 81/500 | BestVal=0.5123@E19
+Epoch: 110, Time: 0.0277, Loss: 0.0058, TrainAcc: 1.0000, ValAcc: 0.4823, ES: 91/500 | BestVal=0.5123@E19
+Epoch: 120, Time: 0.0277, Loss: 0.0047, TrainAcc: 1.0000, ValAcc: 0.4785, ES: 101/500 | BestVal=0.5123@E19
+Epoch: 130, Time: 0.0277, Loss: 0.0032, TrainAcc: 1.0000, ValAcc: 0.4785, ES: 111/500 | BestVal=0.5123@E19
+Epoch: 140, Time: 0.0277, Loss: 0.0036, TrainAcc: 1.0000, ValAcc: 0.4799, ES: 121/500 | BestVal=0.5123@E19
+Epoch: 150, Time: 0.0277, Loss: 0.0026, TrainAcc: 1.0000, ValAcc: 0.4787, ES: 131/500 | BestVal=0.5123@E19
+Epoch: 160, Time: 0.0277, Loss: 0.0023, TrainAcc: 1.0000, ValAcc: 0.4799, ES: 141/500 | BestVal=0.5123@E19
+Epoch: 170, Time: 0.0277, Loss: 0.0020, TrainAcc: 1.0000, ValAcc: 0.4810, ES: 151/500 | BestVal=0.5123@E19
+Epoch: 180, Time: 0.0277, Loss: 0.0019, TrainAcc: 1.0000, ValAcc: 0.4775, ES: 161/500 | BestVal=0.5123@E19
+Epoch: 190, Time: 0.0277, Loss: 0.0018, TrainAcc: 1.0000, ValAcc: 0.4799, ES: 171/500 | BestVal=0.5123@E19
+Finished running train at 11-21 23:57:03, running time = 5.64s.
+[TA] ValAcc: 0.5123, TestAcc: 0.5078
+
+Before Check, remove_indices in train_mask:  27568
+Before Check, remove_indices in val_mask:  0
+Before Check, remove_indices in test_mask:  0
+Labeled samping in training set: 150/46198, ratio: 150%!!
+Check remove_indices in train_mask: 0
+Check remove_indices in val_mask: 0
+Check remove_indices in test_mask: 0
+Before pseudo labling, labeled samples in training set: 150/46198, ratio: 150%!!
+Loading pretrained LM features (title and abstract) ...
+LM_emb_path: prt_lm/arxiv_2023_#_train_LMs_pls/microsoft/deberta-base-seed4-labels150-lr2e-05.emb
+Constructing a large graph ...
+Finished large graph construction!...
+
+Number of parameters: 103848
+Start running train at 11-21 23:57:05
+Epoch: 0, Time: 0.0365, Loss: 4.0274, TrainAcc: 0.0133, ValAcc: 0.2877, ES: 00/500 | BestVal=0.2877@E0
+Epoch: 10, Time: 0.0361, Loss: 0.4628, TrainAcc: 0.8733, ValAcc: 0.4589, ES: 00/500 | BestVal=0.4589@E10
+Epoch: 20, Time: 0.0277, Loss: 0.2247, TrainAcc: 0.9400, ValAcc: 0.4909, ES: 03/500 | BestVal=0.4953@E17
+Epoch: 30, Time: 0.0277, Loss: 0.1136, TrainAcc: 0.9800, ValAcc: 0.4966, ES: 01/500 | BestVal=0.4974@E29
+Epoch: 40, Time: 0.0276, Loss: 0.0623, TrainAcc: 1.0000, ValAcc: 0.4991, ES: 04/500 | BestVal=0.5001@E36
+Epoch: 50, Time: 0.0276, Loss: 0.0361, TrainAcc: 1.0000, ValAcc: 0.4990, ES: 14/500 | BestVal=0.5001@E36
+Epoch: 60, Time: 0.0277, Loss: 0.0212, TrainAcc: 1.0000, ValAcc: 0.4991, ES: 07/500 | BestVal=0.5017@E53
+Epoch: 70, Time: 0.0276, Loss: 0.0113, TrainAcc: 1.0000, ValAcc: 0.4986, ES: 17/500 | BestVal=0.5017@E53
+Epoch: 80, Time: 0.0277, Loss: 0.0157, TrainAcc: 1.0000, ValAcc: 0.5012, ES: 27/500 | BestVal=0.5017@E53
+Epoch: 90, Time: 0.0277, Loss: 0.0083, TrainAcc: 1.0000, ValAcc: 0.4973, ES: 37/500 | BestVal=0.5017@E53
+Epoch: 100, Time: 0.0277, Loss: 0.0074, TrainAcc: 1.0000, ValAcc: 0.4978, ES: 47/500 | BestVal=0.5017@E53
+Epoch: 110, Time: 0.0277, Loss: 0.0053, TrainAcc: 1.0000, ValAcc: 0.4965, ES: 57/500 | BestVal=0.5017@E53
+Epoch: 120, Time: 0.0276, Loss: 0.0060, TrainAcc: 1.0000, ValAcc: 0.4984, ES: 67/500 | BestVal=0.5017@E53
+Epoch: 130, Time: 0.0276, Loss: 0.0036, TrainAcc: 1.0000, ValAcc: 0.4978, ES: 05/500 | BestVal=0.5018@E125
+Epoch: 140, Time: 0.0276, Loss: 0.0024, TrainAcc: 1.0000, ValAcc: 0.4972, ES: 15/500 | BestVal=0.5018@E125
+Epoch: 150, Time: 0.0277, Loss: 0.0029, TrainAcc: 1.0000, ValAcc: 0.4990, ES: 25/500 | BestVal=0.5018@E125
+Epoch: 160, Time: 0.0276, Loss: 0.0016, TrainAcc: 1.0000, ValAcc: 0.4971, ES: 35/500 | BestVal=0.5018@E125
+Epoch: 170, Time: 0.0276, Loss: 0.0029, TrainAcc: 1.0000, ValAcc: 0.4957, ES: 45/500 | BestVal=0.5018@E125
+Epoch: 180, Time: 0.0276, Loss: 0.0012, TrainAcc: 1.0000, ValAcc: 0.5000, ES: 55/500 | BestVal=0.5018@E125
+Epoch: 190, Time: 0.0276, Loss: 0.0013, TrainAcc: 1.0000, ValAcc: 0.4971, ES: 65/500 | BestVal=0.5018@E125
+Finished running train at 11-21 23:57:10, running time = 5.70s.
+[TA] ValAcc: 0.5018, TestAcc: 0.5004
+
+[TA] ValACC: 0.5200 ± 0.0136, TestAcc: 0.5160 ± 0.0127
+dataset: arxiv_2023
+device: 0
+gnn:
+  model:
+    hidden_dim: 128
+    name: GCN
+    num_layers: 2
+  train:
+    K: 25
+    dropout: 0.5
+    early_stop: 500
+    epochs: 200
+    feature_type: TA
+    lr: 0.01
+    use_dgl: False
+    wd: 0.0
+    weight_decay: 0.0005
+lm:
+  model:
+    feat_shrink: 
+    name: microsoft/deberta-base
+  train:
+    GSL_data_split: True
+    att_dropout: 0.1
+    batch_size: 9
+    cla_dropout: 0.4
+    dropout: 0.3
+    epochs: 4
+    eval_patience: 50000
+    grad_acc_steps: 1
+    lr: 0.0001
+    use_gpt: False
+    warmup_epochs: 0.6
+    weight_decay: 0.0
+ratio: 150
+runs: 5
+seed: 4
+An import exception occurred
+Before Check, remove_indices in train_mask:  27418
+Before Check, remove_indices in val_mask:  0
+Before Check, remove_indices in test_mask:  0
+Labeled samping in training set: 300/46198, ratio: 300%!!
+Check remove_indices in train_mask: 0
+Check remove_indices in val_mask: 0
+Check remove_indices in test_mask: 0
+Before pseudo labling, labeled samples in training set: 300/46198, ratio: 300%!!
+Loading pretrained LM features (title and abstract) ...
+LM_emb_path: prt_lm/arxiv_2023_#_train_LMs_pls/microsoft/deberta-base-seed0-labels300-lr2e-05.emb
+Constructing a large graph ...
+Finished large graph construction!...
+
+Number of parameters: 103848
+Start running train at 11-21 23:57:23
+Epoch: 0, Time: 0.0630, Loss: 4.0690, TrainAcc: 0.0067, ValAcc: 0.3889, ES: 00/500 | BestVal=0.3889@E0
+Epoch: 10, Time: 0.0277, Loss: 0.9420, TrainAcc: 0.7167, ValAcc: 0.5654, ES: 02/500 | BestVal=0.5669@E8
+Epoch: 20, Time: 0.0346, Loss: 0.6894, TrainAcc: 0.7767, ValAcc: 0.5736, ES: 00/500 | BestVal=0.5736@E20
+Epoch: 30, Time: 0.0277, Loss: 0.4929, TrainAcc: 0.8367, ValAcc: 0.5634, ES: 10/500 | BestVal=0.5736@E20
+Epoch: 40, Time: 0.0277, Loss: 0.3491, TrainAcc: 0.9000, ValAcc: 0.5529, ES: 20/500 | BestVal=0.5736@E20
+Epoch: 50, Time: 0.0277, Loss: 0.2238, TrainAcc: 0.9467, ValAcc: 0.5578, ES: 30/500 | BestVal=0.5736@E20
+Epoch: 60, Time: 0.0277, Loss: 0.1450, TrainAcc: 0.9800, ValAcc: 0.5552, ES: 40/500 | BestVal=0.5736@E20
+Epoch: 70, Time: 0.0277, Loss: 0.0939, TrainAcc: 0.9867, ValAcc: 0.5481, ES: 50/500 | BestVal=0.5736@E20
+Epoch: 80, Time: 0.0277, Loss: 0.0700, TrainAcc: 0.9967, ValAcc: 0.5383, ES: 60/500 | BestVal=0.5736@E20
+Epoch: 90, Time: 0.0277, Loss: 0.0448, TrainAcc: 0.9933, ValAcc: 0.5320, ES: 70/500 | BestVal=0.5736@E20
+Epoch: 100, Time: 0.0277, Loss: 0.0333, TrainAcc: 0.9967, ValAcc: 0.5313, ES: 80/500 | BestVal=0.5736@E20
+Epoch: 110, Time: 0.0277, Loss: 0.0249, TrainAcc: 0.9933, ValAcc: 0.5140, ES: 90/500 | BestVal=0.5736@E20
+Epoch: 120, Time: 0.0277, Loss: 0.0182, TrainAcc: 1.0000, ValAcc: 0.5307, ES: 100/500 | BestVal=0.5736@E20
+Epoch: 130, Time: 0.0277, Loss: 0.0145, TrainAcc: 1.0000, ValAcc: 0.5234, ES: 110/500 | BestVal=0.5736@E20
+Epoch: 140, Time: 0.0278, Loss: 0.0108, TrainAcc: 1.0000, ValAcc: 0.5221, ES: 120/500 | BestVal=0.5736@E20
+Epoch: 150, Time: 0.0277, Loss: 0.0117, TrainAcc: 1.0000, ValAcc: 0.5298, ES: 130/500 | BestVal=0.5736@E20
+Epoch: 160, Time: 0.0277, Loss: 0.0089, TrainAcc: 1.0000, ValAcc: 0.5294, ES: 140/500 | BestVal=0.5736@E20
+Epoch: 170, Time: 0.0277, Loss: 0.0065, TrainAcc: 1.0000, ValAcc: 0.5267, ES: 150/500 | BestVal=0.5736@E20
+Epoch: 180, Time: 0.0277, Loss: 0.0064, TrainAcc: 1.0000, ValAcc: 0.5225, ES: 160/500 | BestVal=0.5736@E20
+Epoch: 190, Time: 0.0277, Loss: 0.0128, TrainAcc: 0.9967, ValAcc: 0.5203, ES: 170/500 | BestVal=0.5736@E20
+Finished running train at 11-21 23:57:29, running time = 5.90s.
+[TA] ValAcc: 0.5736, TestAcc: 0.5705
+
+Before Check, remove_indices in train_mask:  27418
+Before Check, remove_indices in val_mask:  0
+Before Check, remove_indices in test_mask:  0
+Labeled samping in training set: 300/46198, ratio: 300%!!
+Check remove_indices in train_mask: 0
+Check remove_indices in val_mask: 0
+Check remove_indices in test_mask: 0
+Before pseudo labling, labeled samples in training set: 300/46198, ratio: 300%!!
+Loading pretrained LM features (title and abstract) ...
+LM_emb_path: prt_lm/arxiv_2023_#_train_LMs_pls/microsoft/deberta-base-seed1-labels300-lr2e-05.emb
+Constructing a large graph ...
+Finished large graph construction!...
+
+Number of parameters: 103848
+Start running train at 11-21 23:57:30
+Epoch: 0, Time: 0.0358, Loss: 4.3004, TrainAcc: 0.0033, ValAcc: 0.4345, ES: 00/500 | BestVal=0.4345@E0
+Epoch: 10, Time: 0.0277, Loss: 1.0313, TrainAcc: 0.7100, ValAcc: 0.4814, ES: 08/500 | BestVal=0.5228@E2
+Epoch: 20, Time: 0.0340, Loss: 0.7350, TrainAcc: 0.7733, ValAcc: 0.5500, ES: 00/500 | BestVal=0.5500@E20
+Epoch: 30, Time: 0.0352, Loss: 0.5489, TrainAcc: 0.8200, ValAcc: 0.5765, ES: 00/500 | BestVal=0.5765@E30
+Epoch: 40, Time: 0.0277, Loss: 0.3998, TrainAcc: 0.8733, ValAcc: 0.5650, ES: 10/500 | BestVal=0.5765@E30
+Epoch: 50, Time: 0.0277, Loss: 0.2576, TrainAcc: 0.9300, ValAcc: 0.5685, ES: 20/500 | BestVal=0.5765@E30
+Epoch: 60, Time: 0.0277, Loss: 0.1689, TrainAcc: 0.9533, ValAcc: 0.5580, ES: 30/500 | BestVal=0.5765@E30
+Epoch: 70, Time: 0.0277, Loss: 0.1031, TrainAcc: 0.9867, ValAcc: 0.5560, ES: 40/500 | BestVal=0.5765@E30
+Epoch: 80, Time: 0.0277, Loss: 0.0930, TrainAcc: 0.9833, ValAcc: 0.5581, ES: 50/500 | BestVal=0.5765@E30
+Epoch: 90, Time: 0.0277, Loss: 0.0571, TrainAcc: 0.9900, ValAcc: 0.5422, ES: 60/500 | BestVal=0.5765@E30
+Epoch: 100, Time: 0.0277, Loss: 0.0521, TrainAcc: 0.9900, ValAcc: 0.5472, ES: 70/500 | BestVal=0.5765@E30
+Epoch: 110, Time: 0.0277, Loss: 0.0318, TrainAcc: 0.9967, ValAcc: 0.5337, ES: 80/500 | BestVal=0.5765@E30
+Epoch: 120, Time: 0.0277, Loss: 0.0253, TrainAcc: 0.9967, ValAcc: 0.5175, ES: 90/500 | BestVal=0.5765@E30
+Epoch: 130, Time: 0.0277, Loss: 0.0251, TrainAcc: 1.0000, ValAcc: 0.5462, ES: 100/500 | BestVal=0.5765@E30
+Epoch: 140, Time: 0.0277, Loss: 0.0179, TrainAcc: 0.9967, ValAcc: 0.5392, ES: 110/500 | BestVal=0.5765@E30
+Epoch: 150, Time: 0.0277, Loss: 0.0150, TrainAcc: 1.0000, ValAcc: 0.5311, ES: 120/500 | BestVal=0.5765@E30
+Epoch: 160, Time: 0.0277, Loss: 0.0112, TrainAcc: 1.0000, ValAcc: 0.5382, ES: 130/500 | BestVal=0.5765@E30
+Epoch: 170, Time: 0.0277, Loss: 0.0124, TrainAcc: 1.0000, ValAcc: 0.5377, ES: 140/500 | BestVal=0.5765@E30
+Epoch: 180, Time: 0.0277, Loss: 0.0111, TrainAcc: 1.0000, ValAcc: 0.5269, ES: 150/500 | BestVal=0.5765@E30
+Epoch: 190, Time: 0.0277, Loss: 0.0074, TrainAcc: 1.0000, ValAcc: 0.5354, ES: 160/500 | BestVal=0.5765@E30
+Finished running train at 11-21 23:57:36, running time = 5.65s.
+[TA] ValAcc: 0.5765, TestAcc: 0.5715
+
+Before Check, remove_indices in train_mask:  27418
+Before Check, remove_indices in val_mask:  0
+Before Check, remove_indices in test_mask:  0
+Labeled samping in training set: 300/46198, ratio: 300%!!
+Check remove_indices in train_mask: 0
+Check remove_indices in val_mask: 0
+Check remove_indices in test_mask: 0
+Before pseudo labling, labeled samples in training set: 300/46198, ratio: 300%!!
+Loading pretrained LM features (title and abstract) ...
+LM_emb_path: prt_lm/arxiv_2023_#_train_LMs_pls/microsoft/deberta-base-seed2-labels300-lr2e-05.emb
+Constructing a large graph ...
+Finished large graph construction!...
+
+Number of parameters: 103848
+Start running train at 11-21 23:57:37
+Epoch: 0, Time: 0.0358, Loss: 3.7719, TrainAcc: 0.0767, ValAcc: 0.5041, ES: 00/500 | BestVal=0.5041@E0
+Epoch: 10, Time: 0.0348, Loss: 0.9420, TrainAcc: 0.6967, ValAcc: 0.5658, ES: 00/500 | BestVal=0.5658@E10
+Epoch: 20, Time: 0.0277, Loss: 0.6692, TrainAcc: 0.7867, ValAcc: 0.5749, ES: 04/500 | BestVal=0.5795@E16
+Epoch: 30, Time: 0.0277, Loss: 0.4570, TrainAcc: 0.8533, ValAcc: 0.5749, ES: 14/500 | BestVal=0.5795@E16
+Epoch: 40, Time: 0.0277, Loss: 0.3211, TrainAcc: 0.9033, ValAcc: 0.5719, ES: 24/500 | BestVal=0.5795@E16
+Epoch: 50, Time: 0.0277, Loss: 0.2088, TrainAcc: 0.9600, ValAcc: 0.5761, ES: 06/500 | BestVal=0.5806@E44
+Epoch: 60, Time: 0.0278, Loss: 0.1569, TrainAcc: 0.9600, ValAcc: 0.5693, ES: 16/500 | BestVal=0.5806@E44
+Epoch: 70, Time: 0.0277, Loss: 0.0925, TrainAcc: 0.9867, ValAcc: 0.5693, ES: 26/500 | BestVal=0.5806@E44
+Epoch: 80, Time: 0.0277, Loss: 0.0669, TrainAcc: 0.9900, ValAcc: 0.5620, ES: 36/500 | BestVal=0.5806@E44
+Epoch: 90, Time: 0.0277, Loss: 0.0469, TrainAcc: 0.9933, ValAcc: 0.5505, ES: 46/500 | BestVal=0.5806@E44
+Epoch: 100, Time: 0.0277, Loss: 0.0313, TrainAcc: 1.0000, ValAcc: 0.5649, ES: 56/500 | BestVal=0.5806@E44
+Epoch: 110, Time: 0.0277, Loss: 0.0240, TrainAcc: 1.0000, ValAcc: 0.5420, ES: 66/500 | BestVal=0.5806@E44
+Epoch: 120, Time: 0.0277, Loss: 0.0236, TrainAcc: 0.9967, ValAcc: 0.5456, ES: 76/500 | BestVal=0.5806@E44
+Epoch: 130, Time: 0.0277, Loss: 0.0187, TrainAcc: 1.0000, ValAcc: 0.5290, ES: 86/500 | BestVal=0.5806@E44
+Epoch: 140, Time: 0.0277, Loss: 0.0177, TrainAcc: 1.0000, ValAcc: 0.5568, ES: 96/500 | BestVal=0.5806@E44
+Epoch: 150, Time: 0.0277, Loss: 0.0105, TrainAcc: 1.0000, ValAcc: 0.5324, ES: 106/500 | BestVal=0.5806@E44
+Epoch: 160, Time: 0.0277, Loss: 0.0075, TrainAcc: 1.0000, ValAcc: 0.5583, ES: 116/500 | BestVal=0.5806@E44
+Epoch: 170, Time: 0.0277, Loss: 0.0087, TrainAcc: 1.0000, ValAcc: 0.5464, ES: 126/500 | BestVal=0.5806@E44
+Epoch: 180, Time: 0.0277, Loss: 0.0067, TrainAcc: 1.0000, ValAcc: 0.5419, ES: 136/500 | BestVal=0.5806@E44
+Epoch: 190, Time: 0.0277, Loss: 0.0112, TrainAcc: 1.0000, ValAcc: 0.5452, ES: 146/500 | BestVal=0.5806@E44
+Finished running train at 11-21 23:57:43, running time = 5.64s.
+[TA] ValAcc: 0.5806, TestAcc: 0.5735
+
+Before Check, remove_indices in train_mask:  27418
+Before Check, remove_indices in val_mask:  0
+Before Check, remove_indices in test_mask:  0
+Labeled samping in training set: 300/46198, ratio: 300%!!
+Check remove_indices in train_mask: 0
+Check remove_indices in val_mask: 0
+Check remove_indices in test_mask: 0
+Before pseudo labling, labeled samples in training set: 300/46198, ratio: 300%!!
+Loading pretrained LM features (title and abstract) ...
+LM_emb_path: prt_lm/arxiv_2023_#_train_LMs_pls/microsoft/deberta-base-seed3-labels300-lr2e-05.emb
+Constructing a large graph ...
+Finished large graph construction!...
+
+Number of parameters: 103848
+Start running train at 11-21 23:57:44
+Epoch: 0, Time: 0.0366, Loss: 4.0799, TrainAcc: 0.0200, ValAcc: 0.3929, ES: 00/500 | BestVal=0.3929@E0
+Epoch: 10, Time: 0.0277, Loss: 0.7538, TrainAcc: 0.7867, ValAcc: 0.5634, ES: 04/500 | BestVal=0.5637@E6
+Epoch: 20, Time: 0.0277, Loss: 0.5470, TrainAcc: 0.8267, ValAcc: 0.5696, ES: 07/500 | BestVal=0.5703@E13
+Epoch: 30, Time: 0.0339, Loss: 0.4127, TrainAcc: 0.8533, ValAcc: 0.5746, ES: 00/500 | BestVal=0.5746@E30
+Epoch: 40, Time: 0.0277, Loss: 0.3182, TrainAcc: 0.8900, ValAcc: 0.5710, ES: 10/500 | BestVal=0.5746@E30
+Epoch: 50, Time: 0.0277, Loss: 0.2175, TrainAcc: 0.9300, ValAcc: 0.5729, ES: 20/500 | BestVal=0.5746@E30
+Epoch: 60, Time: 0.0277, Loss: 0.1644, TrainAcc: 0.9500, ValAcc: 0.5719, ES: 30/500 | BestVal=0.5746@E30
+Epoch: 70, Time: 0.0277, Loss: 0.1131, TrainAcc: 0.9733, ValAcc: 0.5666, ES: 40/500 | BestVal=0.5746@E30
+Epoch: 80, Time: 0.0277, Loss: 0.0778, TrainAcc: 0.9933, ValAcc: 0.5641, ES: 50/500 | BestVal=0.5746@E30
+Epoch: 90, Time: 0.0277, Loss: 0.0434, TrainAcc: 0.9967, ValAcc: 0.5618, ES: 60/500 | BestVal=0.5746@E30
+Epoch: 100, Time: 0.0277, Loss: 0.0388, TrainAcc: 0.9933, ValAcc: 0.5513, ES: 70/500 | BestVal=0.5746@E30
+Epoch: 110, Time: 0.0277, Loss: 0.0226, TrainAcc: 1.0000, ValAcc: 0.5565, ES: 80/500 | BestVal=0.5746@E30
+Epoch: 120, Time: 0.0277, Loss: 0.0156, TrainAcc: 1.0000, ValAcc: 0.5465, ES: 90/500 | BestVal=0.5746@E30
+Epoch: 130, Time: 0.0277, Loss: 0.0178, TrainAcc: 1.0000, ValAcc: 0.5489, ES: 100/500 | BestVal=0.5746@E30
+Epoch: 140, Time: 0.0277, Loss: 0.0139, TrainAcc: 1.0000, ValAcc: 0.5509, ES: 110/500 | BestVal=0.5746@E30
+Epoch: 150, Time: 0.0277, Loss: 0.0107, TrainAcc: 1.0000, ValAcc: 0.5494, ES: 120/500 | BestVal=0.5746@E30
+Epoch: 160, Time: 0.0277, Loss: 0.0073, TrainAcc: 1.0000, ValAcc: 0.5448, ES: 130/500 | BestVal=0.5746@E30
+Epoch: 170, Time: 0.0277, Loss: 0.0088, TrainAcc: 1.0000, ValAcc: 0.5461, ES: 140/500 | BestVal=0.5746@E30
+Epoch: 180, Time: 0.0278, Loss: 0.0066, TrainAcc: 1.0000, ValAcc: 0.5364, ES: 150/500 | BestVal=0.5746@E30
+Epoch: 190, Time: 0.0277, Loss: 0.0069, TrainAcc: 1.0000, ValAcc: 0.5426, ES: 160/500 | BestVal=0.5746@E30
+Finished running train at 11-21 23:57:50, running time = 5.66s.
+[TA] ValAcc: 0.5746, TestAcc: 0.5699
+
+Before Check, remove_indices in train_mask:  27418
+Before Check, remove_indices in val_mask:  0
+Before Check, remove_indices in test_mask:  0
+Labeled samping in training set: 300/46198, ratio: 300%!!
+Check remove_indices in train_mask: 0
+Check remove_indices in val_mask: 0
+Check remove_indices in test_mask: 0
+Before pseudo labling, labeled samples in training set: 300/46198, ratio: 300%!!
+Loading pretrained LM features (title and abstract) ...
+LM_emb_path: prt_lm/arxiv_2023_#_train_LMs_pls/microsoft/deberta-base-seed4-labels300-lr2e-05.emb
+Constructing a large graph ...
+Finished large graph construction!...
+
+Number of parameters: 103848
+Start running train at 11-21 23:57:52
+Epoch: 0, Time: 0.0379, Loss: 4.0005, TrainAcc: 0.0133, ValAcc: 0.3672, ES: 00/500 | BestVal=0.3672@E0
+Epoch: 10, Time: 0.0277, Loss: 1.0486, TrainAcc: 0.7033, ValAcc: 0.5489, ES: 03/500 | BestVal=0.5514@E7
+Epoch: 20, Time: 0.0336, Loss: 0.7204, TrainAcc: 0.7800, ValAcc: 0.5585, ES: 00/500 | BestVal=0.5585@E20
+Epoch: 30, Time: 0.0338, Loss: 0.5232, TrainAcc: 0.8467, ValAcc: 0.5694, ES: 00/500 | BestVal=0.5694@E30
+Epoch: 40, Time: 0.0277, Loss: 0.3709, TrainAcc: 0.8733, ValAcc: 0.5666, ES: 02/500 | BestVal=0.5694@E38
+Epoch: 50, Time: 0.0277, Loss: 0.2232, TrainAcc: 0.9433, ValAcc: 0.5626, ES: 12/500 | BestVal=0.5694@E38
+Epoch: 60, Time: 0.0277, Loss: 0.1332, TrainAcc: 0.9767, ValAcc: 0.5543, ES: 22/500 | BestVal=0.5694@E38
+Epoch: 70, Time: 0.0277, Loss: 0.1039, TrainAcc: 0.9833, ValAcc: 0.5534, ES: 32/500 | BestVal=0.5694@E38
+Epoch: 80, Time: 0.0277, Loss: 0.0779, TrainAcc: 0.9900, ValAcc: 0.5427, ES: 42/500 | BestVal=0.5694@E38
+Epoch: 90, Time: 0.0277, Loss: 0.0529, TrainAcc: 0.9933, ValAcc: 0.5416, ES: 52/500 | BestVal=0.5694@E38
+Epoch: 100, Time: 0.0277, Loss: 0.0369, TrainAcc: 0.9967, ValAcc: 0.5451, ES: 62/500 | BestVal=0.5694@E38
+Epoch: 110, Time: 0.0277, Loss: 0.0267, TrainAcc: 1.0000, ValAcc: 0.5298, ES: 72/500 | BestVal=0.5694@E38
+Epoch: 120, Time: 0.0277, Loss: 0.0224, TrainAcc: 1.0000, ValAcc: 0.5391, ES: 82/500 | BestVal=0.5694@E38
+Epoch: 130, Time: 0.0277, Loss: 0.0301, TrainAcc: 0.9900, ValAcc: 0.5299, ES: 92/500 | BestVal=0.5694@E38
+Epoch: 140, Time: 0.0277, Loss: 0.0188, TrainAcc: 0.9967, ValAcc: 0.5347, ES: 102/500 | BestVal=0.5694@E38
+Epoch: 150, Time: 0.0277, Loss: 0.0157, TrainAcc: 1.0000, ValAcc: 0.5184, ES: 112/500 | BestVal=0.5694@E38
+Epoch: 160, Time: 0.0277, Loss: 0.0141, TrainAcc: 1.0000, ValAcc: 0.5410, ES: 122/500 | BestVal=0.5694@E38
+Epoch: 170, Time: 0.0277, Loss: 0.0084, TrainAcc: 1.0000, ValAcc: 0.5250, ES: 132/500 | BestVal=0.5694@E38
+Epoch: 180, Time: 0.0277, Loss: 0.0175, TrainAcc: 0.9933, ValAcc: 0.5330, ES: 142/500 | BestVal=0.5694@E38
+Epoch: 190, Time: 0.0277, Loss: 0.0121, TrainAcc: 1.0000, ValAcc: 0.5327, ES: 152/500 | BestVal=0.5694@E38
+Finished running train at 11-21 23:57:57, running time = 5.69s.
+[TA] ValAcc: 0.5694, TestAcc: 0.5640
+
+[TA] ValACC: 0.5749 ± 0.0041, TestAcc: 0.5699 ± 0.0036
+dataset: arxiv_2023
+device: 0
+gnn:
+  model:
+    hidden_dim: 128
+    name: GCN
+    num_layers: 2
+  train:
+    K: 25
+    dropout: 0.5
+    early_stop: 500
+    epochs: 200
+    feature_type: TA
+    lr: 0.01
+    use_dgl: False
+    wd: 0.0
+    weight_decay: 0.0005
+lm:
+  model:
+    feat_shrink: 
+    name: microsoft/deberta-base
+  train:
+    GSL_data_split: True
+    att_dropout: 0.1
+    batch_size: 9
+    cla_dropout: 0.4
+    dropout: 0.3
+    epochs: 4
+    eval_patience: 50000
+    grad_acc_steps: 1
+    lr: 0.0001
+    use_gpt: False
+    warmup_epochs: 0.6
+    weight_decay: 0.0
+ratio: 300
+runs: 5
+seed: 4
+An import exception occurred
+Before Check, remove_indices in train_mask:  27218
+Before Check, remove_indices in val_mask:  0
+Before Check, remove_indices in test_mask:  0
+Labeled samping in training set: 500/46198, ratio: 500%!!
+Check remove_indices in train_mask: 0
+Check remove_indices in val_mask: 0
+Check remove_indices in test_mask: 0
+Before pseudo labling, labeled samples in training set: 500/46198, ratio: 500%!!
+Loading pretrained LM features (title and abstract) ...
+LM_emb_path: prt_lm/arxiv_2023_#_train_LMs_pls/microsoft/deberta-base-seed0-labels500-lr2e-05.emb
+Constructing a large graph ...
+Finished large graph construction!...
+
+Number of parameters: 103848
+Start running train at 11-21 23:58:11
+Epoch: 0, Time: 0.0799, Loss: 3.9527, TrainAcc: 0.0160, ValAcc: 0.4145, ES: 00/500 | BestVal=0.4145@E0
+Epoch: 10, Time: 0.0362, Loss: 1.0732, TrainAcc: 0.6980, ValAcc: 0.6009, ES: 00/500 | BestVal=0.6009@E10
+Epoch: 20, Time: 0.0279, Loss: 0.8307, TrainAcc: 0.7320, ValAcc: 0.6039, ES: 01/500 | BestVal=0.6050@E19
+Epoch: 30, Time: 0.0278, Loss: 0.6738, TrainAcc: 0.7920, ValAcc: 0.6045, ES: 03/500 | BestVal=0.6057@E27
+Epoch: 40, Time: 0.0277, Loss: 0.5323, TrainAcc: 0.8280, ValAcc: 0.5988, ES: 07/500 | BestVal=0.6062@E33
+Epoch: 50, Time: 0.0277, Loss: 0.4168, TrainAcc: 0.8600, ValAcc: 0.5951, ES: 17/500 | BestVal=0.6062@E33
+Epoch: 60, Time: 0.0277, Loss: 0.2998, TrainAcc: 0.9160, ValAcc: 0.5909, ES: 27/500 | BestVal=0.6062@E33
+Epoch: 70, Time: 0.0277, Loss: 0.2229, TrainAcc: 0.9340, ValAcc: 0.5851, ES: 37/500 | BestVal=0.6062@E33
+Epoch: 80, Time: 0.0277, Loss: 0.1581, TrainAcc: 0.9560, ValAcc: 0.5874, ES: 47/500 | BestVal=0.6062@E33
+Epoch: 90, Time: 0.0277, Loss: 0.1216, TrainAcc: 0.9660, ValAcc: 0.5756, ES: 57/500 | BestVal=0.6062@E33
+Epoch: 100, Time: 0.0277, Loss: 0.1037, TrainAcc: 0.9740, ValAcc: 0.5740, ES: 67/500 | BestVal=0.6062@E33
+Epoch: 110, Time: 0.0277, Loss: 0.0799, TrainAcc: 0.9800, ValAcc: 0.5653, ES: 77/500 | BestVal=0.6062@E33
+Epoch: 120, Time: 0.0277, Loss: 0.0747, TrainAcc: 0.9840, ValAcc: 0.5618, ES: 87/500 | BestVal=0.6062@E33
+Epoch: 130, Time: 0.0277, Loss: 0.0652, TrainAcc: 0.9880, ValAcc: 0.5637, ES: 97/500 | BestVal=0.6062@E33
+Epoch: 140, Time: 0.0277, Loss: 0.0418, TrainAcc: 0.9940, ValAcc: 0.5684, ES: 107/500 | BestVal=0.6062@E33
+Epoch: 150, Time: 0.0277, Loss: 0.0439, TrainAcc: 0.9900, ValAcc: 0.5656, ES: 117/500 | BestVal=0.6062@E33
+Epoch: 160, Time: 0.0277, Loss: 0.0320, TrainAcc: 0.9960, ValAcc: 0.5652, ES: 127/500 | BestVal=0.6062@E33
+Epoch: 170, Time: 0.0277, Loss: 0.0305, TrainAcc: 0.9980, ValAcc: 0.5652, ES: 137/500 | BestVal=0.6062@E33
+Epoch: 180, Time: 0.0277, Loss: 0.0292, TrainAcc: 0.9900, ValAcc: 0.5552, ES: 147/500 | BestVal=0.6062@E33
+Epoch: 190, Time: 0.0277, Loss: 0.0255, TrainAcc: 0.9960, ValAcc: 0.5593, ES: 157/500 | BestVal=0.6062@E33
+Finished running train at 11-21 23:58:17, running time = 6.25s.
+[TA] ValAcc: 0.6062, TestAcc: 0.5990
+
+Before Check, remove_indices in train_mask:  27218
+Before Check, remove_indices in val_mask:  0
+Before Check, remove_indices in test_mask:  0
+Labeled samping in training set: 500/46198, ratio: 500%!!
+Check remove_indices in train_mask: 0
+Check remove_indices in val_mask: 0
+Check remove_indices in test_mask: 0
+Before pseudo labling, labeled samples in training set: 500/46198, ratio: 500%!!
+Loading pretrained LM features (title and abstract) ...
+LM_emb_path: prt_lm/arxiv_2023_#_train_LMs_pls/microsoft/deberta-base-seed1-labels500-lr2e-05.emb
+Constructing a large graph ...
+Finished large graph construction!...
+
+Number of parameters: 103848
+Start running train at 11-21 23:58:18
+Epoch: 0, Time: 0.0371, Loss: 4.3736, TrainAcc: 0.0020, ValAcc: 0.4543, ES: 00/500 | BestVal=0.4543@E0
+Epoch: 10, Time: 0.0350, Loss: 1.1465, TrainAcc: 0.6860, ValAcc: 0.5722, ES: 00/500 | BestVal=0.5722@E10
+Epoch: 20, Time: 0.0345, Loss: 0.8956, TrainAcc: 0.7120, ValAcc: 0.5962, ES: 00/500 | BestVal=0.5962@E20
+Epoch: 30, Time: 0.0278, Loss: 0.7297, TrainAcc: 0.7560, ValAcc: 0.6023, ES: 01/500 | BestVal=0.6026@E29
+Epoch: 40, Time: 0.0277, Loss: 0.5724, TrainAcc: 0.8180, ValAcc: 0.5982, ES: 11/500 | BestVal=0.6026@E29
+Epoch: 50, Time: 0.0277, Loss: 0.4295, TrainAcc: 0.8560, ValAcc: 0.5970, ES: 21/500 | BestVal=0.6026@E29
+Epoch: 60, Time: 0.0277, Loss: 0.3384, TrainAcc: 0.8860, ValAcc: 0.5981, ES: 31/500 | BestVal=0.6026@E29
+Epoch: 70, Time: 0.0277, Loss: 0.2459, TrainAcc: 0.9240, ValAcc: 0.5919, ES: 41/500 | BestVal=0.6026@E29
+Epoch: 80, Time: 0.0277, Loss: 0.1805, TrainAcc: 0.9600, ValAcc: 0.5834, ES: 51/500 | BestVal=0.6026@E29
+Epoch: 90, Time: 0.0277, Loss: 0.1383, TrainAcc: 0.9720, ValAcc: 0.5823, ES: 61/500 | BestVal=0.6026@E29
+Epoch: 100, Time: 0.0277, Loss: 0.1140, TrainAcc: 0.9740, ValAcc: 0.5735, ES: 71/500 | BestVal=0.6026@E29
+Epoch: 110, Time: 0.0277, Loss: 0.0985, TrainAcc: 0.9780, ValAcc: 0.5794, ES: 81/500 | BestVal=0.6026@E29
+Epoch: 120, Time: 0.0277, Loss: 0.0833, TrainAcc: 0.9720, ValAcc: 0.5566, ES: 91/500 | BestVal=0.6026@E29
+Epoch: 130, Time: 0.0277, Loss: 0.0665, TrainAcc: 0.9840, ValAcc: 0.5537, ES: 101/500 | BestVal=0.6026@E29
+Epoch: 140, Time: 0.0277, Loss: 0.0575, TrainAcc: 0.9880, ValAcc: 0.5680, ES: 111/500 | BestVal=0.6026@E29
+Epoch: 150, Time: 0.0277, Loss: 0.0552, TrainAcc: 0.9880, ValAcc: 0.5536, ES: 121/500 | BestVal=0.6026@E29
+Epoch: 160, Time: 0.0277, Loss: 0.0583, TrainAcc: 0.9880, ValAcc: 0.5541, ES: 131/500 | BestVal=0.6026@E29
+Epoch: 170, Time: 0.0277, Loss: 0.0495, TrainAcc: 0.9900, ValAcc: 0.5712, ES: 141/500 | BestVal=0.6026@E29
+Epoch: 180, Time: 0.0278, Loss: 0.0365, TrainAcc: 0.9920, ValAcc: 0.5562, ES: 151/500 | BestVal=0.6026@E29
+Epoch: 190, Time: 0.0278, Loss: 0.0319, TrainAcc: 0.9940, ValAcc: 0.5554, ES: 161/500 | BestVal=0.6026@E29
+Finished running train at 11-21 23:58:24, running time = 5.75s.
+[TA] ValAcc: 0.6026, TestAcc: 0.6039
+
+Before Check, remove_indices in train_mask:  27218
+Before Check, remove_indices in val_mask:  0
+Before Check, remove_indices in test_mask:  0
+Labeled samping in training set: 500/46198, ratio: 500%!!
+Check remove_indices in train_mask: 0
+Check remove_indices in val_mask: 0
+Check remove_indices in test_mask: 0
+Before pseudo labling, labeled samples in training set: 500/46198, ratio: 500%!!
+Loading pretrained LM features (title and abstract) ...
+LM_emb_path: prt_lm/arxiv_2023_#_train_LMs_pls/microsoft/deberta-base-seed2-labels500-lr2e-05.emb
+Constructing a large graph ...
+Finished large graph construction!...
+
+Number of parameters: 103848
+Start running train at 11-21 23:58:26
+Epoch: 0, Time: 0.0356, Loss: 3.8631, TrainAcc: 0.0340, ValAcc: 0.5308, ES: 00/500 | BestVal=0.5308@E0
+Epoch: 10, Time: 0.0355, Loss: 1.0914, TrainAcc: 0.7100, ValAcc: 0.5897, ES: 00/500 | BestVal=0.5897@E10
+Epoch: 20, Time: 0.0362, Loss: 0.8895, TrainAcc: 0.7080, ValAcc: 0.5950, ES: 00/500 | BestVal=0.5950@E20
+Epoch: 30, Time: 0.0277, Loss: 0.7271, TrainAcc: 0.7620, ValAcc: 0.5933, ES: 08/500 | BestVal=0.5960@E22
+Epoch: 40, Time: 0.0277, Loss: 0.5809, TrainAcc: 0.8020, ValAcc: 0.5863, ES: 18/500 | BestVal=0.5960@E22
+Epoch: 50, Time: 0.0277, Loss: 0.4310, TrainAcc: 0.8660, ValAcc: 0.5889, ES: 28/500 | BestVal=0.5960@E22
+Epoch: 60, Time: 0.0277, Loss: 0.3033, TrainAcc: 0.9180, ValAcc: 0.5844, ES: 38/500 | BestVal=0.5960@E22
+Epoch: 70, Time: 0.0277, Loss: 0.2304, TrainAcc: 0.9280, ValAcc: 0.5792, ES: 48/500 | BestVal=0.5960@E22
+Epoch: 80, Time: 0.0277, Loss: 0.1842, TrainAcc: 0.9480, ValAcc: 0.5772, ES: 58/500 | BestVal=0.5960@E22
+Epoch: 90, Time: 0.0278, Loss: 0.1348, TrainAcc: 0.9600, ValAcc: 0.5722, ES: 68/500 | BestVal=0.5960@E22
+Epoch: 100, Time: 0.0278, Loss: 0.1008, TrainAcc: 0.9740, ValAcc: 0.5741, ES: 78/500 | BestVal=0.5960@E22
+Epoch: 110, Time: 0.0277, Loss: 0.0933, TrainAcc: 0.9780, ValAcc: 0.5673, ES: 88/500 | BestVal=0.5960@E22
+Epoch: 120, Time: 0.0277, Loss: 0.0755, TrainAcc: 0.9840, ValAcc: 0.5778, ES: 98/500 | BestVal=0.5960@E22
+Epoch: 130, Time: 0.0277, Loss: 0.0748, TrainAcc: 0.9820, ValAcc: 0.5570, ES: 108/500 | BestVal=0.5960@E22
+Epoch: 140, Time: 0.0277, Loss: 0.0567, TrainAcc: 0.9880, ValAcc: 0.5633, ES: 118/500 | BestVal=0.5960@E22
+Epoch: 150, Time: 0.0277, Loss: 0.0467, TrainAcc: 0.9920, ValAcc: 0.5690, ES: 128/500 | BestVal=0.5960@E22
+Epoch: 160, Time: 0.0277, Loss: 0.0465, TrainAcc: 0.9780, ValAcc: 0.5681, ES: 138/500 | BestVal=0.5960@E22
+Epoch: 170, Time: 0.0277, Loss: 0.0280, TrainAcc: 0.9960, ValAcc: 0.5644, ES: 148/500 | BestVal=0.5960@E22
+Epoch: 180, Time: 0.0277, Loss: 0.0326, TrainAcc: 0.9960, ValAcc: 0.5637, ES: 158/500 | BestVal=0.5960@E22
+Epoch: 190, Time: 0.0277, Loss: 0.0269, TrainAcc: 0.9940, ValAcc: 0.5652, ES: 168/500 | BestVal=0.5960@E22
+Finished running train at 11-21 23:58:31, running time = 5.67s.
+[TA] ValAcc: 0.5960, TestAcc: 0.5995
+
+Before Check, remove_indices in train_mask:  27218
+Before Check, remove_indices in val_mask:  0
+Before Check, remove_indices in test_mask:  0
+Labeled samping in training set: 500/46198, ratio: 500%!!
+Check remove_indices in train_mask: 0
+Check remove_indices in val_mask: 0
+Check remove_indices in test_mask: 0
+Before pseudo labling, labeled samples in training set: 500/46198, ratio: 500%!!
+Loading pretrained LM features (title and abstract) ...
+LM_emb_path: prt_lm/arxiv_2023_#_train_LMs_pls/microsoft/deberta-base-seed3-labels500-lr2e-05.emb
+Constructing a large graph ...
+Finished large graph construction!...
+
+Number of parameters: 103848
+Start running train at 11-21 23:58:33
+Epoch: 0, Time: 0.0365, Loss: 4.0161, TrainAcc: 0.0480, ValAcc: 0.3979, ES: 00/500 | BestVal=0.3979@E0
+Epoch: 10, Time: 0.0356, Loss: 1.0369, TrainAcc: 0.7180, ValAcc: 0.5911, ES: 00/500 | BestVal=0.5911@E10
+Epoch: 20, Time: 0.0360, Loss: 0.8613, TrainAcc: 0.7240, ValAcc: 0.6010, ES: 00/500 | BestVal=0.6010@E20
+Epoch: 30, Time: 0.0277, Loss: 0.7272, TrainAcc: 0.7700, ValAcc: 0.6026, ES: 06/500 | BestVal=0.6056@E24
+Epoch: 40, Time: 0.0277, Loss: 0.6135, TrainAcc: 0.8000, ValAcc: 0.6004, ES: 16/500 | BestVal=0.6056@E24
+Epoch: 50, Time: 0.0277, Loss: 0.4838, TrainAcc: 0.8340, ValAcc: 0.5949, ES: 26/500 | BestVal=0.6056@E24
+Epoch: 60, Time: 0.0277, Loss: 0.3815, TrainAcc: 0.8760, ValAcc: 0.5921, ES: 36/500 | BestVal=0.6056@E24
+Epoch: 70, Time: 0.0278, Loss: 0.3021, TrainAcc: 0.9060, ValAcc: 0.5897, ES: 46/500 | BestVal=0.6056@E24
+Epoch: 80, Time: 0.0277, Loss: 0.2325, TrainAcc: 0.9320, ValAcc: 0.5815, ES: 56/500 | BestVal=0.6056@E24
+Epoch: 90, Time: 0.0277, Loss: 0.1859, TrainAcc: 0.9420, ValAcc: 0.5616, ES: 66/500 | BestVal=0.6056@E24
+Epoch: 100, Time: 0.0277, Loss: 0.1671, TrainAcc: 0.9440, ValAcc: 0.5677, ES: 76/500 | BestVal=0.6056@E24
+Epoch: 110, Time: 0.0277, Loss: 0.1235, TrainAcc: 0.9700, ValAcc: 0.5622, ES: 86/500 | BestVal=0.6056@E24
+Epoch: 120, Time: 0.0277, Loss: 0.1009, TrainAcc: 0.9820, ValAcc: 0.5622, ES: 96/500 | BestVal=0.6056@E24
+Epoch: 130, Time: 0.0277, Loss: 0.0932, TrainAcc: 0.9740, ValAcc: 0.5595, ES: 106/500 | BestVal=0.6056@E24
+Epoch: 140, Time: 0.0277, Loss: 0.0815, TrainAcc: 0.9800, ValAcc: 0.5376, ES: 116/500 | BestVal=0.6056@E24
+Epoch: 150, Time: 0.0277, Loss: 0.0730, TrainAcc: 0.9840, ValAcc: 0.5650, ES: 126/500 | BestVal=0.6056@E24
+Epoch: 160, Time: 0.0278, Loss: 0.0652, TrainAcc: 0.9840, ValAcc: 0.5396, ES: 136/500 | BestVal=0.6056@E24
+Epoch: 170, Time: 0.0277, Loss: 0.0425, TrainAcc: 0.9960, ValAcc: 0.5568, ES: 146/500 | BestVal=0.6056@E24
+Epoch: 180, Time: 0.0277, Loss: 0.0443, TrainAcc: 0.9960, ValAcc: 0.5417, ES: 156/500 | BestVal=0.6056@E24
+Epoch: 190, Time: 0.0277, Loss: 0.0372, TrainAcc: 0.9900, ValAcc: 0.5413, ES: 166/500 | BestVal=0.6056@E24
+Finished running train at 11-21 23:58:38, running time = 5.72s.
+[TA] ValAcc: 0.6056, TestAcc: 0.6005
+
+Before Check, remove_indices in train_mask:  27218
+Before Check, remove_indices in val_mask:  0
+Before Check, remove_indices in test_mask:  0
+Labeled samping in training set: 500/46198, ratio: 500%!!
+Check remove_indices in train_mask: 0
+Check remove_indices in val_mask: 0
+Check remove_indices in test_mask: 0
+Before pseudo labling, labeled samples in training set: 500/46198, ratio: 500%!!
+Loading pretrained LM features (title and abstract) ...
+LM_emb_path: prt_lm/arxiv_2023_#_train_LMs_pls/microsoft/deberta-base-seed4-labels500-lr2e-05.emb
+Constructing a large graph ...
+Finished large graph construction!...
+
+Number of parameters: 103848
+Start running train at 11-21 23:58:40
+Epoch: 0, Time: 0.0362, Loss: 4.1506, TrainAcc: 0.0020, ValAcc: 0.4510, ES: 00/500 | BestVal=0.4510@E0
+Epoch: 10, Time: 0.0338, Loss: 1.0569, TrainAcc: 0.7200, ValAcc: 0.5802, ES: 00/500 | BestVal=0.5802@E10
+Epoch: 20, Time: 0.0277, Loss: 0.8415, TrainAcc: 0.7560, ValAcc: 0.5789, ES: 05/500 | BestVal=0.5867@E15
+Epoch: 30, Time: 0.0277, Loss: 0.6835, TrainAcc: 0.7920, ValAcc: 0.5669, ES: 15/500 | BestVal=0.5867@E15
+Epoch: 40, Time: 0.0277, Loss: 0.5384, TrainAcc: 0.8140, ValAcc: 0.5694, ES: 25/500 | BestVal=0.5867@E15
+Epoch: 50, Time: 0.0277, Loss: 0.4183, TrainAcc: 0.8740, ValAcc: 0.5637, ES: 35/500 | BestVal=0.5867@E15
+Epoch: 60, Time: 0.0277, Loss: 0.3218, TrainAcc: 0.8960, ValAcc: 0.5681, ES: 45/500 | BestVal=0.5867@E15
+Epoch: 70, Time: 0.0277, Loss: 0.2548, TrainAcc: 0.9140, ValAcc: 0.5666, ES: 55/500 | BestVal=0.5867@E15
+Epoch: 80, Time: 0.0277, Loss: 0.1959, TrainAcc: 0.9380, ValAcc: 0.5703, ES: 65/500 | BestVal=0.5867@E15
+Epoch: 90, Time: 0.0277, Loss: 0.1561, TrainAcc: 0.9560, ValAcc: 0.5669, ES: 75/500 | BestVal=0.5867@E15
+Epoch: 100, Time: 0.0277, Loss: 0.1253, TrainAcc: 0.9620, ValAcc: 0.5616, ES: 85/500 | BestVal=0.5867@E15
+Epoch: 110, Time: 0.0277, Loss: 0.0994, TrainAcc: 0.9800, ValAcc: 0.5557, ES: 95/500 | BestVal=0.5867@E15
+Epoch: 120, Time: 0.0277, Loss: 0.0818, TrainAcc: 0.9860, ValAcc: 0.5575, ES: 105/500 | BestVal=0.5867@E15
+Epoch: 130, Time: 0.0277, Loss: 0.0799, TrainAcc: 0.9860, ValAcc: 0.5608, ES: 115/500 | BestVal=0.5867@E15
+Epoch: 140, Time: 0.0277, Loss: 0.0628, TrainAcc: 0.9900, ValAcc: 0.5554, ES: 125/500 | BestVal=0.5867@E15
+Epoch: 150, Time: 0.0277, Loss: 0.0475, TrainAcc: 0.9900, ValAcc: 0.5539, ES: 135/500 | BestVal=0.5867@E15
+Epoch: 160, Time: 0.0277, Loss: 0.0472, TrainAcc: 0.9920, ValAcc: 0.5466, ES: 145/500 | BestVal=0.5867@E15
+Epoch: 170, Time: 0.0277, Loss: 0.0321, TrainAcc: 0.9980, ValAcc: 0.5437, ES: 155/500 | BestVal=0.5867@E15
+Epoch: 180, Time: 0.0277, Loss: 0.0310, TrainAcc: 0.9940, ValAcc: 0.5477, ES: 165/500 | BestVal=0.5867@E15
+Epoch: 190, Time: 0.0277, Loss: 0.0357, TrainAcc: 0.9940, ValAcc: 0.5526, ES: 175/500 | BestVal=0.5867@E15
+Finished running train at 11-21 23:58:45, running time = 5.66s.
+[TA] ValAcc: 0.5867, TestAcc: 0.5833
+
+[TA] ValACC: 0.5994 ± 0.0082, TestAcc: 0.5973 ± 0.0080
+dataset: arxiv_2023
+device: 0
+gnn:
+  model:
+    hidden_dim: 128
+    name: GCN
+    num_layers: 2
+  train:
+    K: 25
+    dropout: 0.5
+    early_stop: 500
+    epochs: 200
+    feature_type: TA
+    lr: 0.01
+    use_dgl: False
+    wd: 0.0
+    weight_decay: 0.0005
+lm:
+  model:
+    feat_shrink: 
+    name: microsoft/deberta-base
+  train:
+    GSL_data_split: True
+    att_dropout: 0.1
+    batch_size: 9
+    cla_dropout: 0.4
+    dropout: 0.3
+    epochs: 4
+    eval_patience: 50000
+    grad_acc_steps: 1
+    lr: 0.0001
+    use_gpt: False
+    warmup_epochs: 0.6
+    weight_decay: 0.0
+ratio: 500
+runs: 5
+seed: 4
+An import exception occurred
+Before Check, remove_indices in train_mask:  27668
+Before Check, remove_indices in val_mask:  0
+Before Check, remove_indices in test_mask:  0
+Labeled samping in training set: 50/46198, ratio: 50%!!
+Check remove_indices in train_mask: 0
+Check remove_indices in val_mask: 0
+Check remove_indices in test_mask: 0
+Before pseudo labling, labeled samples in training set: 50/46198, ratio: 50%!!
+Loading pretrained LM features (explanations) ...
+LM_emb_path: prt_lm/arxiv_20232_#_train_LMs_pls/microsoft/deberta-base-seed0-labels50-lr2e-05.emb
+Constructing a large graph ...
+Finished large graph construction!...
+
+Number of parameters: 103848
+Start running train at 11-21 23:59:00
+Epoch: 0, Time: 0.0664, Loss: 4.1504, TrainAcc: 0.0200, ValAcc: 0.3440, ES: 00/500 | BestVal=0.3440@E0
+Epoch: 10, Time: 0.0278, Loss: 0.1674, TrainAcc: 0.9600, ValAcc: 0.4555, ES: 02/500 | BestVal=0.4574@E8
+Epoch: 20, Time: 0.0333, Loss: 0.0425, TrainAcc: 1.0000, ValAcc: 0.4620, ES: 00/500 | BestVal=0.4620@E20
+Epoch: 30, Time: 0.0346, Loss: 0.0193, TrainAcc: 1.0000, ValAcc: 0.4823, ES: 00/500 | BestVal=0.4823@E30
+Epoch: 40, Time: 0.0277, Loss: 0.0064, TrainAcc: 1.0000, ValAcc: 0.4810, ES: 08/500 | BestVal=0.4832@E32
+Epoch: 50, Time: 0.0276, Loss: 0.0035, TrainAcc: 1.0000, ValAcc: 0.4801, ES: 18/500 | BestVal=0.4832@E32
+Epoch: 60, Time: 0.0277, Loss: 0.0031, TrainAcc: 1.0000, ValAcc: 0.4805, ES: 28/500 | BestVal=0.4832@E32
+Epoch: 70, Time: 0.0277, Loss: 0.0025, TrainAcc: 1.0000, ValAcc: 0.4780, ES: 38/500 | BestVal=0.4832@E32
+Epoch: 80, Time: 0.0277, Loss: 0.0019, TrainAcc: 1.0000, ValAcc: 0.4797, ES: 48/500 | BestVal=0.4832@E32
+Epoch: 90, Time: 0.0276, Loss: 0.0016, TrainAcc: 1.0000, ValAcc: 0.4791, ES: 58/500 | BestVal=0.4832@E32
+Epoch: 100, Time: 0.0277, Loss: 0.0014, TrainAcc: 1.0000, ValAcc: 0.4778, ES: 68/500 | BestVal=0.4832@E32
+Epoch: 110, Time: 0.0282, Loss: 0.0012, TrainAcc: 1.0000, ValAcc: 0.4787, ES: 78/500 | BestVal=0.4832@E32
+Epoch: 120, Time: 0.0277, Loss: 0.0010, TrainAcc: 1.0000, ValAcc: 0.4787, ES: 88/500 | BestVal=0.4832@E32
+Epoch: 130, Time: 0.0277, Loss: 0.0008, TrainAcc: 1.0000, ValAcc: 0.4787, ES: 98/500 | BestVal=0.4832@E32
+Epoch: 140, Time: 0.0277, Loss: 0.0011, TrainAcc: 1.0000, ValAcc: 0.4802, ES: 108/500 | BestVal=0.4832@E32
+Epoch: 150, Time: 0.0277, Loss: 0.0007, TrainAcc: 1.0000, ValAcc: 0.4815, ES: 118/500 | BestVal=0.4832@E32
+Epoch: 160, Time: 0.0276, Loss: 0.0006, TrainAcc: 1.0000, ValAcc: 0.4813, ES: 128/500 | BestVal=0.4832@E32
+Epoch: 170, Time: 0.0277, Loss: 0.0005, TrainAcc: 1.0000, ValAcc: 0.4804, ES: 138/500 | BestVal=0.4832@E32
+Epoch: 180, Time: 0.0276, Loss: 0.0005, TrainAcc: 1.0000, ValAcc: 0.4803, ES: 148/500 | BestVal=0.4832@E32
+Epoch: 190, Time: 0.0277, Loss: 0.0005, TrainAcc: 1.0000, ValAcc: 0.4808, ES: 158/500 | BestVal=0.4832@E32
+Finished running train at 11-21 23:59:06, running time = 6.15s.
+[E] ValAcc: 0.4832, TestAcc: 0.4931
+
+Before Check, remove_indices in train_mask:  27668
+Before Check, remove_indices in val_mask:  0
+Before Check, remove_indices in test_mask:  0
+Labeled samping in training set: 50/46198, ratio: 50%!!
+Check remove_indices in train_mask: 0
+Check remove_indices in val_mask: 0
+Check remove_indices in test_mask: 0
+Before pseudo labling, labeled samples in training set: 50/46198, ratio: 50%!!
+Loading pretrained LM features (explanations) ...
+LM_emb_path: prt_lm/arxiv_20232_#_train_LMs_pls/microsoft/deberta-base-seed1-labels50-lr2e-05.emb
+Constructing a large graph ...
+Finished large graph construction!...
+
+Number of parameters: 103848
+Start running train at 11-21 23:59:08
+Epoch: 0, Time: 0.0372, Loss: 4.3971, TrainAcc: 0.0200, ValAcc: 0.1550, ES: 00/500 | BestVal=0.1550@E0
+Epoch: 10, Time: 0.0342, Loss: 0.2632, TrainAcc: 0.9400, ValAcc: 0.3643, ES: 00/500 | BestVal=0.3643@E10
+Epoch: 20, Time: 0.0349, Loss: 0.0760, TrainAcc: 1.0000, ValAcc: 0.4411, ES: 00/500 | BestVal=0.4411@E20
+Epoch: 30, Time: 0.0342, Loss: 0.0277, TrainAcc: 1.0000, ValAcc: 0.4922, ES: 00/500 | BestVal=0.4922@E30
+Epoch: 40, Time: 0.0277, Loss: 0.0194, TrainAcc: 1.0000, ValAcc: 0.4912, ES: 05/500 | BestVal=0.4974@E35
+Epoch: 50, Time: 0.0278, Loss: 0.0066, TrainAcc: 1.0000, ValAcc: 0.4882, ES: 15/500 | BestVal=0.4974@E35
+Epoch: 60, Time: 0.0277, Loss: 0.0047, TrainAcc: 1.0000, ValAcc: 0.4896, ES: 25/500 | BestVal=0.4974@E35
+Epoch: 70, Time: 0.0278, Loss: 0.0042, TrainAcc: 1.0000, ValAcc: 0.4816, ES: 35/500 | BestVal=0.4974@E35
+Epoch: 80, Time: 0.0278, Loss: 0.0032, TrainAcc: 1.0000, ValAcc: 0.4850, ES: 45/500 | BestVal=0.4974@E35
+Epoch: 90, Time: 0.0278, Loss: 0.0019, TrainAcc: 1.0000, ValAcc: 0.4882, ES: 55/500 | BestVal=0.4974@E35
+Epoch: 100, Time: 0.0278, Loss: 0.0013, TrainAcc: 1.0000, ValAcc: 0.4920, ES: 65/500 | BestVal=0.4974@E35
+Epoch: 110, Time: 0.0278, Loss: 0.0016, TrainAcc: 1.0000, ValAcc: 0.4852, ES: 75/500 | BestVal=0.4974@E35
+Epoch: 120, Time: 0.0278, Loss: 0.0013, TrainAcc: 1.0000, ValAcc: 0.4866, ES: 85/500 | BestVal=0.4974@E35
+Epoch: 130, Time: 0.0278, Loss: 0.0026, TrainAcc: 1.0000, ValAcc: 0.4873, ES: 95/500 | BestVal=0.4974@E35
+Epoch: 140, Time: 0.0278, Loss: 0.0027, TrainAcc: 1.0000, ValAcc: 0.4876, ES: 105/500 | BestVal=0.4974@E35
+Epoch: 150, Time: 0.0278, Loss: 0.0009, TrainAcc: 1.0000, ValAcc: 0.4866, ES: 115/500 | BestVal=0.4974@E35
+Epoch: 160, Time: 0.0278, Loss: 0.0010, TrainAcc: 1.0000, ValAcc: 0.4923, ES: 125/500 | BestVal=0.4974@E35
+Epoch: 170, Time: 0.0278, Loss: 0.0017, TrainAcc: 1.0000, ValAcc: 0.4894, ES: 135/500 | BestVal=0.4974@E35
+Epoch: 180, Time: 0.0278, Loss: 0.0010, TrainAcc: 1.0000, ValAcc: 0.4885, ES: 145/500 | BestVal=0.4974@E35
+Epoch: 190, Time: 0.0278, Loss: 0.0015, TrainAcc: 1.0000, ValAcc: 0.4895, ES: 155/500 | BestVal=0.4974@E35
+Finished running train at 11-21 23:59:13, running time = 5.79s.
+[E] ValAcc: 0.4974, TestAcc: 0.4963
+
+Before Check, remove_indices in train_mask:  27668
+Before Check, remove_indices in val_mask:  0
+Before Check, remove_indices in test_mask:  0
+Labeled samping in training set: 50/46198, ratio: 50%!!
+Check remove_indices in train_mask: 0
+Check remove_indices in val_mask: 0
+Check remove_indices in test_mask: 0
+Before pseudo labling, labeled samples in training set: 50/46198, ratio: 50%!!
+Loading pretrained LM features (explanations) ...
+LM_emb_path: prt_lm/arxiv_20232_#_train_LMs_pls/microsoft/deberta-base-seed2-labels50-lr2e-05.emb
+Constructing a large graph ...
+Finished large graph construction!...
+
+Number of parameters: 103848
+Start running train at 11-21 23:59:15
+Epoch: 0, Time: 0.0354, Loss: 3.6211, TrainAcc: 0.0600, ValAcc: 0.4166, ES: 00/500 | BestVal=0.4166@E0
+Epoch: 10, Time: 0.0277, Loss: 0.1745, TrainAcc: 0.9800, ValAcc: 0.4558, ES: 08/500 | BestVal=0.4644@E2
+Epoch: 20, Time: 0.0278, Loss: 0.0437, TrainAcc: 1.0000, ValAcc: 0.4935, ES: 03/500 | BestVal=0.4936@E17
+Epoch: 30, Time: 0.0277, Loss: 0.0150, TrainAcc: 1.0000, ValAcc: 0.5015, ES: 02/500 | BestVal=0.5022@E28
+Epoch: 40, Time: 0.0351, Loss: 0.0153, TrainAcc: 1.0000, ValAcc: 0.5045, ES: 00/500 | BestVal=0.5045@E40
+Epoch: 50, Time: 0.0278, Loss: 0.0055, TrainAcc: 1.0000, ValAcc: 0.5080, ES: 01/500 | BestVal=0.5088@E49
+Epoch: 60, Time: 0.0277, Loss: 0.0047, TrainAcc: 1.0000, ValAcc: 0.5070, ES: 11/500 | BestVal=0.5088@E49
+Epoch: 70, Time: 0.0277, Loss: 0.0031, TrainAcc: 1.0000, ValAcc: 0.5068, ES: 21/500 | BestVal=0.5088@E49
+Epoch: 80, Time: 0.0278, Loss: 0.0026, TrainAcc: 1.0000, ValAcc: 0.5063, ES: 31/500 | BestVal=0.5088@E49
+Epoch: 90, Time: 0.0278, Loss: 0.0024, TrainAcc: 1.0000, ValAcc: 0.5062, ES: 41/500 | BestVal=0.5088@E49
+Epoch: 100, Time: 0.0277, Loss: 0.0026, TrainAcc: 1.0000, ValAcc: 0.5075, ES: 51/500 | BestVal=0.5088@E49
+Epoch: 110, Time: 0.0277, Loss: 0.0018, TrainAcc: 1.0000, ValAcc: 0.5075, ES: 61/500 | BestVal=0.5088@E49
+Epoch: 120, Time: 0.0277, Loss: 0.0012, TrainAcc: 1.0000, ValAcc: 0.5055, ES: 71/500 | BestVal=0.5088@E49
+Epoch: 130, Time: 0.0277, Loss: 0.0011, TrainAcc: 1.0000, ValAcc: 0.5066, ES: 81/500 | BestVal=0.5088@E49
+Epoch: 140, Time: 0.0277, Loss: 0.0014, TrainAcc: 1.0000, ValAcc: 0.5081, ES: 91/500 | BestVal=0.5088@E49
+Epoch: 150, Time: 0.0278, Loss: 0.0008, TrainAcc: 1.0000, ValAcc: 0.5083, ES: 01/500 | BestVal=0.5089@E149
+Epoch: 160, Time: 0.0277, Loss: 0.0007, TrainAcc: 1.0000, ValAcc: 0.5088, ES: 11/500 | BestVal=0.5089@E149
+Epoch: 170, Time: 0.0277, Loss: 0.0010, TrainAcc: 1.0000, ValAcc: 0.5082, ES: 21/500 | BestVal=0.5089@E149
+Epoch: 180, Time: 0.0277, Loss: 0.0007, TrainAcc: 1.0000, ValAcc: 0.5081, ES: 31/500 | BestVal=0.5089@E149
+Epoch: 190, Time: 0.0277, Loss: 0.0006, TrainAcc: 1.0000, ValAcc: 0.5064, ES: 41/500 | BestVal=0.5089@E149
+Finished running train at 11-21 23:59:21, running time = 5.76s.
+[E] ValAcc: 0.5089, TestAcc: 0.5054
+
+Before Check, remove_indices in train_mask:  27668
+Before Check, remove_indices in val_mask:  0
+Before Check, remove_indices in test_mask:  0
+Labeled samping in training set: 50/46198, ratio: 50%!!
+Check remove_indices in train_mask: 0
+Check remove_indices in val_mask: 0
+Check remove_indices in test_mask: 0
+Before pseudo labling, labeled samples in training set: 50/46198, ratio: 50%!!
+Loading pretrained LM features (explanations) ...
+LM_emb_path: prt_lm/arxiv_20232_#_train_LMs_pls/microsoft/deberta-base-seed3-labels50-lr2e-05.emb
+Constructing a large graph ...
+Finished large graph construction!...
+
+Number of parameters: 103848
+Start running train at 11-21 23:59:22
+Epoch: 0, Time: 0.0365, Loss: 3.9564, TrainAcc: 0.0200, ValAcc: 0.3308, ES: 00/500 | BestVal=0.3308@E0
+Epoch: 10, Time: 0.0378, Loss: 0.1676, TrainAcc: 0.9600, ValAcc: 0.4883, ES: 00/500 | BestVal=0.4883@E10
+Epoch: 20, Time: 0.0278, Loss: 0.0809, TrainAcc: 0.9800, ValAcc: 0.4887, ES: 01/500 | BestVal=0.4891@E19
+Epoch: 30, Time: 0.0277, Loss: 0.0415, TrainAcc: 0.9800, ValAcc: 0.4803, ES: 11/500 | BestVal=0.4891@E19
+Epoch: 40, Time: 0.0277, Loss: 0.0293, TrainAcc: 1.0000, ValAcc: 0.4728, ES: 21/500 | BestVal=0.4891@E19
+Epoch: 50, Time: 0.0277, Loss: 0.0177, TrainAcc: 1.0000, ValAcc: 0.4714, ES: 31/500 | BestVal=0.4891@E19
+Epoch: 60, Time: 0.0277, Loss: 0.0224, TrainAcc: 1.0000, ValAcc: 0.4712, ES: 41/500 | BestVal=0.4891@E19
+Epoch: 70, Time: 0.0278, Loss: 0.0080, TrainAcc: 1.0000, ValAcc: 0.4754, ES: 51/500 | BestVal=0.4891@E19
+Epoch: 80, Time: 0.0277, Loss: 0.0077, TrainAcc: 1.0000, ValAcc: 0.4755, ES: 61/500 | BestVal=0.4891@E19
+Epoch: 90, Time: 0.0277, Loss: 0.0096, TrainAcc: 1.0000, ValAcc: 0.4751, ES: 71/500 | BestVal=0.4891@E19
+Epoch: 100, Time: 0.0277, Loss: 0.0061, TrainAcc: 1.0000, ValAcc: 0.4771, ES: 81/500 | BestVal=0.4891@E19
+Epoch: 110, Time: 0.0278, Loss: 0.0032, TrainAcc: 1.0000, ValAcc: 0.4767, ES: 91/500 | BestVal=0.4891@E19
+Epoch: 120, Time: 0.0277, Loss: 0.0028, TrainAcc: 1.0000, ValAcc: 0.4771, ES: 101/500 | BestVal=0.4891@E19
+Epoch: 130, Time: 0.0277, Loss: 0.0047, TrainAcc: 1.0000, ValAcc: 0.4788, ES: 111/500 | BestVal=0.4891@E19
+Epoch: 140, Time: 0.0277, Loss: 0.0028, TrainAcc: 1.0000, ValAcc: 0.4787, ES: 121/500 | BestVal=0.4891@E19
+Epoch: 150, Time: 0.0277, Loss: 0.0034, TrainAcc: 1.0000, ValAcc: 0.4791, ES: 131/500 | BestVal=0.4891@E19
+Epoch: 160, Time: 0.0277, Loss: 0.0023, TrainAcc: 1.0000, ValAcc: 0.4731, ES: 141/500 | BestVal=0.4891@E19
+Epoch: 170, Time: 0.0277, Loss: 0.0065, TrainAcc: 1.0000, ValAcc: 0.4723, ES: 151/500 | BestVal=0.4891@E19
+Epoch: 180, Time: 0.0277, Loss: 0.0017, TrainAcc: 1.0000, ValAcc: 0.4738, ES: 161/500 | BestVal=0.4891@E19
+Epoch: 190, Time: 0.0277, Loss: 0.0011, TrainAcc: 1.0000, ValAcc: 0.4759, ES: 171/500 | BestVal=0.4891@E19
+Finished running train at 11-21 23:59:28, running time = 5.68s.
+[E] ValAcc: 0.4891, TestAcc: 0.4873
+
+Before Check, remove_indices in train_mask:  27668
+Before Check, remove_indices in val_mask:  0
+Before Check, remove_indices in test_mask:  0
+Labeled samping in training set: 50/46198, ratio: 50%!!
+Check remove_indices in train_mask: 0
+Check remove_indices in val_mask: 0
+Check remove_indices in test_mask: 0
+Before pseudo labling, labeled samples in training set: 50/46198, ratio: 50%!!
+Loading pretrained LM features (explanations) ...
+LM_emb_path: prt_lm/arxiv_20232_#_train_LMs_pls/microsoft/deberta-base-seed4-labels50-lr2e-05.emb
+Constructing a large graph ...
+Finished large graph construction!...
+
+Number of parameters: 103848
+Start running train at 11-21 23:59:29
+Epoch: 0, Time: 0.0367, Loss: 3.4842, TrainAcc: 0.0600, ValAcc: 0.1451, ES: 00/500 | BestVal=0.1451@E0
+Epoch: 10, Time: 0.0277, Loss: 0.2636, TrainAcc: 0.9400, ValAcc: 0.4541, ES: 06/500 | BestVal=0.4579@E4
+Epoch: 20, Time: 0.0355, Loss: 0.0932, TrainAcc: 0.9800, ValAcc: 0.4824, ES: 00/500 | BestVal=0.4824@E20
+Epoch: 30, Time: 0.0339, Loss: 0.0307, TrainAcc: 1.0000, ValAcc: 0.4944, ES: 00/500 | BestVal=0.4944@E30
+Epoch: 40, Time: 0.0277, Loss: 0.0139, TrainAcc: 1.0000, ValAcc: 0.4959, ES: 03/500 | BestVal=0.4971@E37
+Epoch: 50, Time: 0.0276, Loss: 0.0114, TrainAcc: 1.0000, ValAcc: 0.4950, ES: 13/500 | BestVal=0.4971@E37
+Epoch: 60, Time: 0.0277, Loss: 0.0075, TrainAcc: 1.0000, ValAcc: 0.5001, ES: 01/500 | BestVal=0.5005@E59
+Epoch: 70, Time: 0.0277, Loss: 0.0043, TrainAcc: 1.0000, ValAcc: 0.4984, ES: 11/500 | BestVal=0.5005@E59
+Epoch: 80, Time: 0.0277, Loss: 0.0030, TrainAcc: 1.0000, ValAcc: 0.4952, ES: 21/500 | BestVal=0.5005@E59
+Epoch: 90, Time: 0.0277, Loss: 0.0028, TrainAcc: 1.0000, ValAcc: 0.4977, ES: 31/500 | BestVal=0.5005@E59
+Epoch: 100, Time: 0.0277, Loss: 0.0019, TrainAcc: 1.0000, ValAcc: 0.4990, ES: 41/500 | BestVal=0.5005@E59
+Epoch: 110, Time: 0.0276, Loss: 0.0018, TrainAcc: 1.0000, ValAcc: 0.4966, ES: 51/500 | BestVal=0.5005@E59
+Epoch: 120, Time: 0.0277, Loss: 0.0014, TrainAcc: 1.0000, ValAcc: 0.4958, ES: 61/500 | BestVal=0.5005@E59
+Epoch: 130, Time: 0.0277, Loss: 0.0010, TrainAcc: 1.0000, ValAcc: 0.4943, ES: 71/500 | BestVal=0.5005@E59
+Epoch: 140, Time: 0.0277, Loss: 0.0012, TrainAcc: 1.0000, ValAcc: 0.4981, ES: 81/500 | BestVal=0.5005@E59
+Epoch: 150, Time: 0.0276, Loss: 0.0009, TrainAcc: 1.0000, ValAcc: 0.4979, ES: 91/500 | BestVal=0.5005@E59
+Epoch: 160, Time: 0.0276, Loss: 0.0012, TrainAcc: 1.0000, ValAcc: 0.4987, ES: 101/500 | BestVal=0.5005@E59
+Epoch: 170, Time: 0.0276, Loss: 0.0007, TrainAcc: 1.0000, ValAcc: 0.4992, ES: 111/500 | BestVal=0.5005@E59
+Epoch: 180, Time: 0.0277, Loss: 0.0006, TrainAcc: 1.0000, ValAcc: 0.4986, ES: 121/500 | BestVal=0.5005@E59
+Epoch: 190, Time: 0.0277, Loss: 0.0009, TrainAcc: 1.0000, ValAcc: 0.4959, ES: 131/500 | BestVal=0.5005@E59
+Finished running train at 11-21 23:59:35, running time = 5.82s.
+[E] ValAcc: 0.5005, TestAcc: 0.4942
+
+[E] ValACC: 0.4958 ± 0.0100, TestAcc: 0.4953 ± 0.0066
+dataset: arxiv_2023
+device: 0
+gnn:
+  model:
+    hidden_dim: 128
+    name: GCN
+    num_layers: 2
+  train:
+    K: 25
+    dropout: 0.5
+    early_stop: 500
+    epochs: 200
+    feature_type: E
+    lr: 0.01
+    use_dgl: False
+    wd: 0.0
+    weight_decay: 0.0005
+lm:
+  model:
+    feat_shrink: 
+    name: microsoft/deberta-base
+  train:
+    GSL_data_split: True
+    att_dropout: 0.1
+    batch_size: 9
+    cla_dropout: 0.4
+    dropout: 0.3
+    epochs: 4
+    eval_patience: 50000
+    grad_acc_steps: 1
+    lr: 0.0001
+    use_gpt: False
+    warmup_epochs: 0.6
+    weight_decay: 0.0
+ratio: 50
+runs: 5
+seed: 4
+An import exception occurred
+Before Check, remove_indices in train_mask:  27618
+Before Check, remove_indices in val_mask:  0
+Before Check, remove_indices in test_mask:  0
+Labeled samping in training set: 100/46198, ratio: 100%!!
+Check remove_indices in train_mask: 0
+Check remove_indices in val_mask: 0
+Check remove_indices in test_mask: 0
+Before pseudo labling, labeled samples in training set: 100/46198, ratio: 100%!!
+Loading pretrained LM features (explanations) ...
+LM_emb_path: prt_lm/arxiv_20232_#_train_LMs_pls/microsoft/deberta-base-seed0-labels100-lr2e-05.emb
+Constructing a large graph ...
+Finished large graph construction!...
+
+Number of parameters: 103848
+Start running train at 11-21 23:59:50
+Epoch: 0, Time: 0.0638, Loss: 4.1174, TrainAcc: 0.0000, ValAcc: 0.3256, ES: 00/500 | BestVal=0.3256@E0
+Epoch: 10, Time: 0.0278, Loss: 0.3363, TrainAcc: 0.9100, ValAcc: 0.5352, ES: 03/500 | BestVal=0.5442@E7
+Epoch: 20, Time: 0.0277, Loss: 0.1384, TrainAcc: 0.9700, ValAcc: 0.5580, ES: 02/500 | BestVal=0.5593@E18
+Epoch: 30, Time: 0.0277, Loss: 0.0663, TrainAcc: 0.9800, ValAcc: 0.5566, ES: 12/500 | BestVal=0.5593@E18
+Epoch: 40, Time: 0.0277, Loss: 0.0359, TrainAcc: 0.9900, ValAcc: 0.5524, ES: 22/500 | BestVal=0.5593@E18
+Epoch: 50, Time: 0.0277, Loss: 0.0199, TrainAcc: 1.0000, ValAcc: 0.5536, ES: 32/500 | BestVal=0.5593@E18
+Epoch: 60, Time: 0.0277, Loss: 0.0106, TrainAcc: 1.0000, ValAcc: 0.5497, ES: 42/500 | BestVal=0.5593@E18
+Epoch: 70, Time: 0.0276, Loss: 0.0122, TrainAcc: 1.0000, ValAcc: 0.5500, ES: 52/500 | BestVal=0.5593@E18
+Epoch: 80, Time: 0.0276, Loss: 0.0043, TrainAcc: 1.0000, ValAcc: 0.5452, ES: 62/500 | BestVal=0.5593@E18
+Epoch: 90, Time: 0.0277, Loss: 0.0043, TrainAcc: 1.0000, ValAcc: 0.5469, ES: 72/500 | BestVal=0.5593@E18
+Epoch: 100, Time: 0.0276, Loss: 0.0029, TrainAcc: 1.0000, ValAcc: 0.5455, ES: 82/500 | BestVal=0.5593@E18
+Epoch: 110, Time: 0.0277, Loss: 0.0025, TrainAcc: 1.0000, ValAcc: 0.5442, ES: 92/500 | BestVal=0.5593@E18
+Epoch: 120, Time: 0.0276, Loss: 0.0021, TrainAcc: 1.0000, ValAcc: 0.5482, ES: 102/500 | BestVal=0.5593@E18
+Epoch: 130, Time: 0.0277, Loss: 0.0024, TrainAcc: 1.0000, ValAcc: 0.5447, ES: 112/500 | BestVal=0.5593@E18
+Epoch: 140, Time: 0.0276, Loss: 0.0020, TrainAcc: 1.0000, ValAcc: 0.5456, ES: 122/500 | BestVal=0.5593@E18
+Epoch: 150, Time: 0.0277, Loss: 0.0011, TrainAcc: 1.0000, ValAcc: 0.5449, ES: 132/500 | BestVal=0.5593@E18
+Epoch: 160, Time: 0.0276, Loss: 0.0016, TrainAcc: 1.0000, ValAcc: 0.5440, ES: 142/500 | BestVal=0.5593@E18
+Epoch: 170, Time: 0.0277, Loss: 0.0018, TrainAcc: 1.0000, ValAcc: 0.5424, ES: 152/500 | BestVal=0.5593@E18
+Epoch: 180, Time: 0.0276, Loss: 0.0010, TrainAcc: 1.0000, ValAcc: 0.5464, ES: 162/500 | BestVal=0.5593@E18
+Epoch: 190, Time: 0.0276, Loss: 0.0007, TrainAcc: 1.0000, ValAcc: 0.5431, ES: 172/500 | BestVal=0.5593@E18
+Finished running train at 11-21 23:59:56, running time = 6.11s.
+[E] ValAcc: 0.5593, TestAcc: 0.5624
+
+Before Check, remove_indices in train_mask:  27618
+Before Check, remove_indices in val_mask:  0
+Before Check, remove_indices in test_mask:  0
+Labeled samping in training set: 100/46198, ratio: 100%!!
+Check remove_indices in train_mask: 0
+Check remove_indices in val_mask: 0
+Check remove_indices in test_mask: 0
+Before pseudo labling, labeled samples in training set: 100/46198, ratio: 100%!!
+Loading pretrained LM features (explanations) ...
+LM_emb_path: prt_lm/arxiv_20232_#_train_LMs_pls/microsoft/deberta-base-seed1-labels100-lr2e-05.emb
+Constructing a large graph ...
+Finished large graph construction!...
+
+Number of parameters: 103848
+Start running train at 11-21 23:59:58
+Epoch: 0, Time: 0.0447, Loss: 4.3803, TrainAcc: 0.0300, ValAcc: 0.2968, ES: 00/500 | BestVal=0.2968@E0
+Epoch: 10, Time: 0.0341, Loss: 0.4335, TrainAcc: 0.9000, ValAcc: 0.5615, ES: 00/500 | BestVal=0.5615@E10
+Epoch: 20, Time: 0.0277, Loss: 0.1907, TrainAcc: 0.9600, ValAcc: 0.5970, ES: 03/500 | BestVal=0.5977@E17
+Epoch: 30, Time: 0.0343, Loss: 0.0941, TrainAcc: 0.9800, ValAcc: 0.6113, ES: 00/500 | BestVal=0.6113@E30
+Epoch: 40, Time: 0.0277, Loss: 0.0439, TrainAcc: 1.0000, ValAcc: 0.5975, ES: 10/500 | BestVal=0.6113@E30
+Epoch: 50, Time: 0.0277, Loss: 0.0188, TrainAcc: 1.0000, ValAcc: 0.5944, ES: 20/500 | BestVal=0.6113@E30
+Epoch: 60, Time: 0.0277, Loss: 0.0126, TrainAcc: 1.0000, ValAcc: 0.5945, ES: 30/500 | BestVal=0.6113@E30
+Epoch: 70, Time: 0.0277, Loss: 0.0161, TrainAcc: 0.9900, ValAcc: 0.5907, ES: 40/500 | BestVal=0.6113@E30
+Epoch: 80, Time: 0.0277, Loss: 0.0065, TrainAcc: 1.0000, ValAcc: 0.5938, ES: 50/500 | BestVal=0.6113@E30
+Epoch: 90, Time: 0.0277, Loss: 0.0051, TrainAcc: 1.0000, ValAcc: 0.5911, ES: 60/500 | BestVal=0.6113@E30
+Epoch: 100, Time: 0.0278, Loss: 0.0038, TrainAcc: 1.0000, ValAcc: 0.5899, ES: 70/500 | BestVal=0.6113@E30
+Epoch: 110, Time: 0.0278, Loss: 0.0026, TrainAcc: 1.0000, ValAcc: 0.5923, ES: 80/500 | BestVal=0.6113@E30
+Epoch: 120, Time: 0.0286, Loss: 0.0025, TrainAcc: 1.0000, ValAcc: 0.5861, ES: 90/500 | BestVal=0.6113@E30
+Epoch: 130, Time: 0.0278, Loss: 0.0020, TrainAcc: 1.0000, ValAcc: 0.5892, ES: 100/500 | BestVal=0.6113@E30
+Epoch: 140, Time: 0.0277, Loss: 0.0021, TrainAcc: 1.0000, ValAcc: 0.5902, ES: 110/500 | BestVal=0.6113@E30
+Epoch: 150, Time: 0.0277, Loss: 0.0015, TrainAcc: 1.0000, ValAcc: 0.5884, ES: 120/500 | BestVal=0.6113@E30
+Epoch: 160, Time: 0.0278, Loss: 0.0011, TrainAcc: 1.0000, ValAcc: 0.5879, ES: 130/500 | BestVal=0.6113@E30
+Epoch: 170, Time: 0.0277, Loss: 0.0015, TrainAcc: 1.0000, ValAcc: 0.5861, ES: 140/500 | BestVal=0.6113@E30
+Epoch: 180, Time: 0.0277, Loss: 0.0009, TrainAcc: 1.0000, ValAcc: 0.5900, ES: 150/500 | BestVal=0.6113@E30
+Epoch: 190, Time: 0.0277, Loss: 0.0012, TrainAcc: 1.0000, ValAcc: 0.5879, ES: 160/500 | BestVal=0.6113@E30
+Finished running train at 11-22 00:00:04, running time = 5.76s.
+[E] ValAcc: 0.6113, TestAcc: 0.6055
+
+Before Check, remove_indices in train_mask:  27618
+Before Check, remove_indices in val_mask:  0
+Before Check, remove_indices in test_mask:  0
+Labeled samping in training set: 100/46198, ratio: 100%!!
+Check remove_indices in train_mask: 0
+Check remove_indices in val_mask: 0
+Check remove_indices in test_mask: 0
+Before pseudo labling, labeled samples in training set: 100/46198, ratio: 100%!!
+Loading pretrained LM features (explanations) ...
+LM_emb_path: prt_lm/arxiv_20232_#_train_LMs_pls/microsoft/deberta-base-seed2-labels100-lr2e-05.emb
+Constructing a large graph ...
+Finished large graph construction!...
+
+Number of parameters: 103848
+Start running train at 11-22 00:00:05
+Epoch: 0, Time: 0.0367, Loss: 3.8144, TrainAcc: 0.0200, ValAcc: 0.3685, ES: 00/500 | BestVal=0.3685@E0
+Epoch: 10, Time: 0.0340, Loss: 0.4434, TrainAcc: 0.9000, ValAcc: 0.5386, ES: 00/500 | BestVal=0.5386@E10
+Epoch: 20, Time: 0.0342, Loss: 0.1598, TrainAcc: 1.0000, ValAcc: 0.5696, ES: 00/500 | BestVal=0.5696@E20
+Epoch: 30, Time: 0.0360, Loss: 0.0629, TrainAcc: 1.0000, ValAcc: 0.5793, ES: 00/500 | BestVal=0.5793@E30
+Epoch: 40, Time: 0.0277, Loss: 0.0224, TrainAcc: 1.0000, ValAcc: 0.5777, ES: 09/500 | BestVal=0.5807@E31
+Epoch: 50, Time: 0.0277, Loss: 0.0146, TrainAcc: 1.0000, ValAcc: 0.5761, ES: 19/500 | BestVal=0.5807@E31
+Epoch: 60, Time: 0.0277, Loss: 0.0090, TrainAcc: 1.0000, ValAcc: 0.5742, ES: 29/500 | BestVal=0.5807@E31
+Epoch: 70, Time: 0.0277, Loss: 0.0059, TrainAcc: 1.0000, ValAcc: 0.5749, ES: 39/500 | BestVal=0.5807@E31
+Epoch: 80, Time: 0.0277, Loss: 0.0060, TrainAcc: 1.0000, ValAcc: 0.5733, ES: 49/500 | BestVal=0.5807@E31
+Epoch: 90, Time: 0.0277, Loss: 0.0030, TrainAcc: 1.0000, ValAcc: 0.5737, ES: 59/500 | BestVal=0.5807@E31
+Epoch: 100, Time: 0.0277, Loss: 0.0032, TrainAcc: 1.0000, ValAcc: 0.5753, ES: 69/500 | BestVal=0.5807@E31
+Epoch: 110, Time: 0.0277, Loss: 0.0022, TrainAcc: 1.0000, ValAcc: 0.5747, ES: 79/500 | BestVal=0.5807@E31
+Epoch: 120, Time: 0.0277, Loss: 0.0021, TrainAcc: 1.0000, ValAcc: 0.5766, ES: 89/500 | BestVal=0.5807@E31
+Epoch: 130, Time: 0.0277, Loss: 0.0018, TrainAcc: 1.0000, ValAcc: 0.5741, ES: 99/500 | BestVal=0.5807@E31
+Epoch: 140, Time: 0.0277, Loss: 0.0023, TrainAcc: 1.0000, ValAcc: 0.5740, ES: 109/500 | BestVal=0.5807@E31
+Epoch: 150, Time: 0.0277, Loss: 0.0013, TrainAcc: 1.0000, ValAcc: 0.5752, ES: 119/500 | BestVal=0.5807@E31
+Epoch: 160, Time: 0.0277, Loss: 0.0011, TrainAcc: 1.0000, ValAcc: 0.5763, ES: 129/500 | BestVal=0.5807@E31
+Epoch: 170, Time: 0.0277, Loss: 0.0011, TrainAcc: 1.0000, ValAcc: 0.5756, ES: 139/500 | BestVal=0.5807@E31
+Epoch: 180, Time: 0.0277, Loss: 0.0009, TrainAcc: 1.0000, ValAcc: 0.5746, ES: 149/500 | BestVal=0.5807@E31
+Epoch: 190, Time: 0.0277, Loss: 0.0012, TrainAcc: 1.0000, ValAcc: 0.5750, ES: 159/500 | BestVal=0.5807@E31
+Finished running train at 11-22 00:00:11, running time = 5.77s.
+[E] ValAcc: 0.5807, TestAcc: 0.5742
+
+Before Check, remove_indices in train_mask:  27618
+Before Check, remove_indices in val_mask:  0
+Before Check, remove_indices in test_mask:  0
+Labeled samping in training set: 100/46198, ratio: 100%!!
+Check remove_indices in train_mask: 0
+Check remove_indices in val_mask: 0
+Check remove_indices in test_mask: 0
+Before pseudo labling, labeled samples in training set: 100/46198, ratio: 100%!!
+Loading pretrained LM features (explanations) ...
+LM_emb_path: prt_lm/arxiv_20232_#_train_LMs_pls/microsoft/deberta-base-seed3-labels100-lr2e-05.emb
+Constructing a large graph ...
+Finished large graph construction!...
+
+Number of parameters: 103848
+Start running train at 11-22 00:00:12
+Epoch: 0, Time: 0.0357, Loss: 4.1529, TrainAcc: 0.0100, ValAcc: 0.3764, ES: 00/500 | BestVal=0.3764@E0
+Epoch: 10, Time: 0.0277, Loss: 0.5665, TrainAcc: 0.8700, ValAcc: 0.5232, ES: 02/500 | BestVal=0.5276@E8
+Epoch: 20, Time: 0.0277, Loss: 0.3080, TrainAcc: 0.9000, ValAcc: 0.5255, ES: 08/500 | BestVal=0.5276@E12
+Epoch: 30, Time: 0.0346, Loss: 0.1605, TrainAcc: 0.9700, ValAcc: 0.5443, ES: 00/500 | BestVal=0.5443@E30
+Epoch: 40, Time: 0.0411, Loss: 0.0947, TrainAcc: 0.9700, ValAcc: 0.5525, ES: 00/500 | BestVal=0.5525@E40
+Epoch: 50, Time: 0.0344, Loss: 0.0598, TrainAcc: 1.0000, ValAcc: 0.5600, ES: 00/500 | BestVal=0.5600@E50
+Epoch: 60, Time: 0.0278, Loss: 0.0418, TrainAcc: 0.9900, ValAcc: 0.5630, ES: 01/500 | BestVal=0.5637@E59
+Epoch: 70, Time: 0.0342, Loss: 0.0210, TrainAcc: 1.0000, ValAcc: 0.5684, ES: 00/500 | BestVal=0.5684@E70
+Epoch: 80, Time: 0.0277, Loss: 0.0137, TrainAcc: 1.0000, ValAcc: 0.5615, ES: 08/500 | BestVal=0.5720@E72
+Epoch: 90, Time: 0.0277, Loss: 0.0136, TrainAcc: 1.0000, ValAcc: 0.5655, ES: 18/500 | BestVal=0.5720@E72
+Epoch: 100, Time: 0.0278, Loss: 0.0069, TrainAcc: 1.0000, ValAcc: 0.5582, ES: 28/500 | BestVal=0.5720@E72
+Epoch: 110, Time: 0.0277, Loss: 0.0044, TrainAcc: 1.0000, ValAcc: 0.5583, ES: 38/500 | BestVal=0.5720@E72
+Epoch: 120, Time: 0.0277, Loss: 0.0039, TrainAcc: 1.0000, ValAcc: 0.5649, ES: 48/500 | BestVal=0.5720@E72
+Epoch: 130, Time: 0.0278, Loss: 0.0033, TrainAcc: 1.0000, ValAcc: 0.5600, ES: 58/500 | BestVal=0.5720@E72
+Epoch: 140, Time: 0.0277, Loss: 0.0029, TrainAcc: 1.0000, ValAcc: 0.5581, ES: 68/500 | BestVal=0.5720@E72
+Epoch: 150, Time: 0.0277, Loss: 0.0035, TrainAcc: 1.0000, ValAcc: 0.5579, ES: 78/500 | BestVal=0.5720@E72
+Epoch: 160, Time: 0.0277, Loss: 0.0018, TrainAcc: 1.0000, ValAcc: 0.5553, ES: 88/500 | BestVal=0.5720@E72
+Epoch: 170, Time: 0.0277, Loss: 0.0018, TrainAcc: 1.0000, ValAcc: 0.5614, ES: 98/500 | BestVal=0.5720@E72
+Epoch: 180, Time: 0.0277, Loss: 0.0015, TrainAcc: 1.0000, ValAcc: 0.5614, ES: 108/500 | BestVal=0.5720@E72
+Epoch: 190, Time: 0.0277, Loss: 0.0013, TrainAcc: 1.0000, ValAcc: 0.5604, ES: 118/500 | BestVal=0.5720@E72
+Finished running train at 11-22 00:00:18, running time = 5.86s.
+[E] ValAcc: 0.5720, TestAcc: 0.5739
+
+Before Check, remove_indices in train_mask:  27618
+Before Check, remove_indices in val_mask:  0
+Before Check, remove_indices in test_mask:  0
+Labeled samping in training set: 100/46198, ratio: 100%!!
+Check remove_indices in train_mask: 0
+Check remove_indices in val_mask: 0
+Check remove_indices in test_mask: 0
+Before pseudo labling, labeled samples in training set: 100/46198, ratio: 100%!!
+Loading pretrained LM features (explanations) ...
+LM_emb_path: prt_lm/arxiv_20232_#_train_LMs_pls/microsoft/deberta-base-seed4-labels100-lr2e-05.emb
+Constructing a large graph ...
+Finished large graph construction!...
+
+Number of parameters: 103848
+Start running train at 11-22 00:00:20
+Epoch: 0, Time: 0.0379, Loss: 4.0077, TrainAcc: 0.0100, ValAcc: 0.3171, ES: 00/500 | BestVal=0.3171@E0
+Epoch: 10, Time: 0.0357, Loss: 0.4447, TrainAcc: 0.8600, ValAcc: 0.5669, ES: 00/500 | BestVal=0.5669@E10
+Epoch: 20, Time: 0.0344, Loss: 0.2121, TrainAcc: 0.9600, ValAcc: 0.5798, ES: 00/500 | BestVal=0.5798@E20
+Epoch: 30, Time: 0.0277, Loss: 0.1249, TrainAcc: 0.9800, ValAcc: 0.5779, ES: 05/500 | BestVal=0.5820@E25
+Epoch: 40, Time: 0.0277, Loss: 0.0640, TrainAcc: 0.9900, ValAcc: 0.5769, ES: 15/500 | BestVal=0.5820@E25
+Epoch: 50, Time: 0.0277, Loss: 0.0358, TrainAcc: 1.0000, ValAcc: 0.5699, ES: 25/500 | BestVal=0.5820@E25
+Epoch: 60, Time: 0.0277, Loss: 0.0298, TrainAcc: 0.9900, ValAcc: 0.5711, ES: 35/500 | BestVal=0.5820@E25
+Epoch: 70, Time: 0.0277, Loss: 0.0142, TrainAcc: 1.0000, ValAcc: 0.5646, ES: 45/500 | BestVal=0.5820@E25
+Epoch: 80, Time: 0.0277, Loss: 0.0098, TrainAcc: 1.0000, ValAcc: 0.5690, ES: 55/500 | BestVal=0.5820@E25
+Epoch: 90, Time: 0.0278, Loss: 0.0079, TrainAcc: 1.0000, ValAcc: 0.5639, ES: 65/500 | BestVal=0.5820@E25
+Epoch: 100, Time: 0.0278, Loss: 0.0058, TrainAcc: 1.0000, ValAcc: 0.5648, ES: 75/500 | BestVal=0.5820@E25
+Epoch: 110, Time: 0.0278, Loss: 0.0060, TrainAcc: 1.0000, ValAcc: 0.5690, ES: 85/500 | BestVal=0.5820@E25
+Epoch: 120, Time: 0.0277, Loss: 0.0043, TrainAcc: 1.0000, ValAcc: 0.5649, ES: 95/500 | BestVal=0.5820@E25
+Epoch: 130, Time: 0.0277, Loss: 0.0034, TrainAcc: 1.0000, ValAcc: 0.5646, ES: 105/500 | BestVal=0.5820@E25
+Epoch: 140, Time: 0.0277, Loss: 0.0022, TrainAcc: 1.0000, ValAcc: 0.5669, ES: 115/500 | BestVal=0.5820@E25
+Epoch: 150, Time: 0.0277, Loss: 0.0024, TrainAcc: 1.0000, ValAcc: 0.5665, ES: 125/500 | BestVal=0.5820@E25
+Epoch: 160, Time: 0.0277, Loss: 0.0021, TrainAcc: 1.0000, ValAcc: 0.5661, ES: 135/500 | BestVal=0.5820@E25
+Epoch: 170, Time: 0.0277, Loss: 0.0019, TrainAcc: 1.0000, ValAcc: 0.5699, ES: 145/500 | BestVal=0.5820@E25
+Epoch: 180, Time: 0.0277, Loss: 0.0021, TrainAcc: 1.0000, ValAcc: 0.5675, ES: 155/500 | BestVal=0.5820@E25
+Epoch: 190, Time: 0.0277, Loss: 0.0015, TrainAcc: 1.0000, ValAcc: 0.5674, ES: 165/500 | BestVal=0.5820@E25
+Finished running train at 11-22 00:00:25, running time = 5.73s.
+[E] ValAcc: 0.5820, TestAcc: 0.5893
+
+[E] ValACC: 0.5811 ± 0.0192, TestAcc: 0.5811 ± 0.0167
+dataset: arxiv_2023
+device: 0
+gnn:
+  model:
+    hidden_dim: 128
+    name: GCN
+    num_layers: 2
+  train:
+    K: 25
+    dropout: 0.5
+    early_stop: 500
+    epochs: 200
+    feature_type: E
+    lr: 0.01
+    use_dgl: False
+    wd: 0.0
+    weight_decay: 0.0005
+lm:
+  model:
+    feat_shrink: 
+    name: microsoft/deberta-base
+  train:
+    GSL_data_split: True
+    att_dropout: 0.1
+    batch_size: 9
+    cla_dropout: 0.4
+    dropout: 0.3
+    epochs: 4
+    eval_patience: 50000
+    grad_acc_steps: 1
+    lr: 0.0001
+    use_gpt: False
+    warmup_epochs: 0.6
+    weight_decay: 0.0
+ratio: 100
+runs: 5
+seed: 4
+An import exception occurred
+Before Check, remove_indices in train_mask:  27568
+Before Check, remove_indices in val_mask:  0
+Before Check, remove_indices in test_mask:  0
+Labeled samping in training set: 150/46198, ratio: 150%!!
+Check remove_indices in train_mask: 0
+Check remove_indices in val_mask: 0
+Check remove_indices in test_mask: 0
+Before pseudo labling, labeled samples in training set: 150/46198, ratio: 150%!!
+Loading pretrained LM features (explanations) ...
+LM_emb_path: prt_lm/arxiv_20232_#_train_LMs_pls/microsoft/deberta-base-seed0-labels150-lr2e-05.emb
+Constructing a large graph ...
+Finished large graph construction!...
+
+Number of parameters: 103848
+Start running train at 11-22 00:00:40
+Epoch: 0, Time: 0.0630, Loss: 4.0434, TrainAcc: 0.0067, ValAcc: 0.3110, ES: 00/500 | BestVal=0.3110@E0
+Epoch: 10, Time: 0.0344, Loss: 0.5503, TrainAcc: 0.8667, ValAcc: 0.5790, ES: 00/500 | BestVal=0.5790@E10
+Epoch: 20, Time: 0.0342, Loss: 0.2394, TrainAcc: 0.9467, ValAcc: 0.5927, ES: 00/500 | BestVal=0.5927@E20
+Epoch: 30, Time: 0.0277, Loss: 0.1336, TrainAcc: 0.9867, ValAcc: 0.5824, ES: 10/500 | BestVal=0.5927@E20
+Epoch: 40, Time: 0.0277, Loss: 0.0689, TrainAcc: 0.9933, ValAcc: 0.5774, ES: 20/500 | BestVal=0.5927@E20
+Epoch: 50, Time: 0.0276, Loss: 0.0390, TrainAcc: 0.9933, ValAcc: 0.5752, ES: 30/500 | BestVal=0.5927@E20
+Epoch: 60, Time: 0.0277, Loss: 0.0235, TrainAcc: 0.9933, ValAcc: 0.5745, ES: 40/500 | BestVal=0.5927@E20
+Epoch: 70, Time: 0.0277, Loss: 0.0158, TrainAcc: 1.0000, ValAcc: 0.5727, ES: 50/500 | BestVal=0.5927@E20
+Epoch: 80, Time: 0.0277, Loss: 0.0106, TrainAcc: 1.0000, ValAcc: 0.5698, ES: 60/500 | BestVal=0.5927@E20
+Epoch: 90, Time: 0.0277, Loss: 0.0084, TrainAcc: 1.0000, ValAcc: 0.5727, ES: 70/500 | BestVal=0.5927@E20
+Epoch: 100, Time: 0.0277, Loss: 0.0087, TrainAcc: 1.0000, ValAcc: 0.5729, ES: 80/500 | BestVal=0.5927@E20
+Epoch: 110, Time: 0.0277, Loss: 0.0058, TrainAcc: 1.0000, ValAcc: 0.5722, ES: 90/500 | BestVal=0.5927@E20
+Epoch: 120, Time: 0.0277, Loss: 0.0035, TrainAcc: 1.0000, ValAcc: 0.5693, ES: 100/500 | BestVal=0.5927@E20
+Epoch: 130, Time: 0.0277, Loss: 0.0037, TrainAcc: 1.0000, ValAcc: 0.5702, ES: 110/500 | BestVal=0.5927@E20
+Epoch: 140, Time: 0.0277, Loss: 0.0038, TrainAcc: 1.0000, ValAcc: 0.5697, ES: 120/500 | BestVal=0.5927@E20
+Epoch: 150, Time: 0.0277, Loss: 0.0021, TrainAcc: 1.0000, ValAcc: 0.5658, ES: 130/500 | BestVal=0.5927@E20
+Epoch: 160, Time: 0.0277, Loss: 0.0017, TrainAcc: 1.0000, ValAcc: 0.5697, ES: 140/500 | BestVal=0.5927@E20
+Epoch: 170, Time: 0.0277, Loss: 0.0035, TrainAcc: 1.0000, ValAcc: 0.5616, ES: 150/500 | BestVal=0.5927@E20
+Epoch: 180, Time: 0.0277, Loss: 0.0015, TrainAcc: 1.0000, ValAcc: 0.5715, ES: 160/500 | BestVal=0.5927@E20
+Epoch: 190, Time: 0.0277, Loss: 0.0014, TrainAcc: 1.0000, ValAcc: 0.5683, ES: 170/500 | BestVal=0.5927@E20
+Finished running train at 11-22 00:00:46, running time = 5.93s.
+[E] ValAcc: 0.5927, TestAcc: 0.6000
+
+Before Check, remove_indices in train_mask:  27568
+Before Check, remove_indices in val_mask:  0
+Before Check, remove_indices in test_mask:  0
+Labeled samping in training set: 150/46198, ratio: 150%!!
+Check remove_indices in train_mask: 0
+Check remove_indices in val_mask: 0
+Check remove_indices in test_mask: 0
+Before pseudo labling, labeled samples in training set: 150/46198, ratio: 150%!!
+Loading pretrained LM features (explanations) ...
+LM_emb_path: prt_lm/arxiv_20232_#_train_LMs_pls/microsoft/deberta-base-seed1-labels150-lr2e-05.emb
+Constructing a large graph ...
+Finished large graph construction!...
+
+Number of parameters: 103848
+Start running train at 11-22 00:00:47
+Epoch: 0, Time: 0.0359, Loss: 4.3443, TrainAcc: 0.0000, ValAcc: 0.3499, ES: 00/500 | BestVal=0.3499@E0
+Epoch: 10, Time: 0.0351, Loss: 0.6831, TrainAcc: 0.8267, ValAcc: 0.6034, ES: 00/500 | BestVal=0.6034@E10
+Epoch: 20, Time: 0.0277, Loss: 0.3898, TrainAcc: 0.8800, ValAcc: 0.6101, ES: 04/500 | BestVal=0.6158@E16
+Epoch: 30, Time: 0.0278, Loss: 0.2054, TrainAcc: 0.9333, ValAcc: 0.6126, ES: 14/500 | BestVal=0.6158@E16
+Epoch: 40, Time: 0.0277, Loss: 0.1084, TrainAcc: 0.9800, ValAcc: 0.6051, ES: 24/500 | BestVal=0.6158@E16
+Epoch: 50, Time: 0.0278, Loss: 0.0616, TrainAcc: 0.9867, ValAcc: 0.5990, ES: 34/500 | BestVal=0.6158@E16
+Epoch: 60, Time: 0.0277, Loss: 0.0360, TrainAcc: 1.0000, ValAcc: 0.6019, ES: 44/500 | BestVal=0.6158@E16
+Epoch: 70, Time: 0.0277, Loss: 0.0213, TrainAcc: 1.0000, ValAcc: 0.5988, ES: 54/500 | BestVal=0.6158@E16
+Epoch: 80, Time: 0.0277, Loss: 0.0236, TrainAcc: 0.9933, ValAcc: 0.5942, ES: 64/500 | BestVal=0.6158@E16
+Epoch: 90, Time: 0.0277, Loss: 0.0178, TrainAcc: 0.9933, ValAcc: 0.5940, ES: 74/500 | BestVal=0.6158@E16
+Epoch: 100, Time: 0.0277, Loss: 0.0118, TrainAcc: 1.0000, ValAcc: 0.5982, ES: 84/500 | BestVal=0.6158@E16
+Epoch: 110, Time: 0.0278, Loss: 0.0092, TrainAcc: 1.0000, ValAcc: 0.5973, ES: 94/500 | BestVal=0.6158@E16
+Epoch: 120, Time: 0.0277, Loss: 0.0099, TrainAcc: 1.0000, ValAcc: 0.5913, ES: 104/500 | BestVal=0.6158@E16
+Epoch: 130, Time: 0.0277, Loss: 0.0080, TrainAcc: 1.0000, ValAcc: 0.5923, ES: 114/500 | BestVal=0.6158@E16
+Epoch: 140, Time: 0.0278, Loss: 0.0070, TrainAcc: 1.0000, ValAcc: 0.5843, ES: 124/500 | BestVal=0.6158@E16
+Epoch: 150, Time: 0.0277, Loss: 0.0066, TrainAcc: 1.0000, ValAcc: 0.5864, ES: 134/500 | BestVal=0.6158@E16
+Epoch: 160, Time: 0.0277, Loss: 0.0047, TrainAcc: 1.0000, ValAcc: 0.6021, ES: 144/500 | BestVal=0.6158@E16
+Epoch: 170, Time: 0.0277, Loss: 0.0059, TrainAcc: 1.0000, ValAcc: 0.5892, ES: 154/500 | BestVal=0.6158@E16
+Epoch: 180, Time: 0.0277, Loss: 0.0046, TrainAcc: 1.0000, ValAcc: 0.5983, ES: 164/500 | BestVal=0.6158@E16
+Epoch: 190, Time: 0.0277, Loss: 0.0029, TrainAcc: 1.0000, ValAcc: 0.5981, ES: 174/500 | BestVal=0.6158@E16
+Finished running train at 11-22 00:00:53, running time = 5.68s.
+[E] ValAcc: 0.6158, TestAcc: 0.6199
+
+Before Check, remove_indices in train_mask:  27568
+Before Check, remove_indices in val_mask:  0
+Before Check, remove_indices in test_mask:  0
+Labeled samping in training set: 150/46198, ratio: 150%!!
+Check remove_indices in train_mask: 0
+Check remove_indices in val_mask: 0
+Check remove_indices in test_mask: 0
+Before pseudo labling, labeled samples in training set: 150/46198, ratio: 150%!!
+Loading pretrained LM features (explanations) ...
+LM_emb_path: prt_lm/arxiv_20232_#_train_LMs_pls/microsoft/deberta-base-seed2-labels150-lr2e-05.emb
+Constructing a large graph ...
+Finished large graph construction!...
+
+Number of parameters: 103848
+Start running train at 11-22 00:00:55
+Epoch: 0, Time: 0.0364, Loss: 3.7568, TrainAcc: 0.0400, ValAcc: 0.4797, ES: 00/500 | BestVal=0.4797@E0
+Epoch: 10, Time: 0.0342, Loss: 0.5197, TrainAcc: 0.8600, ValAcc: 0.5592, ES: 00/500 | BestVal=0.5592@E10
+Epoch: 20, Time: 0.0349, Loss: 0.2405, TrainAcc: 0.9467, ValAcc: 0.5831, ES: 00/500 | BestVal=0.5831@E20
+Epoch: 30, Time: 0.0277, Loss: 0.1300, TrainAcc: 0.9733, ValAcc: 0.5802, ES: 10/500 | BestVal=0.5831@E20
+Epoch: 40, Time: 0.0277, Loss: 0.0709, TrainAcc: 0.9867, ValAcc: 0.5785, ES: 20/500 | BestVal=0.5831@E20
+Epoch: 50, Time: 0.0277, Loss: 0.0416, TrainAcc: 0.9933, ValAcc: 0.5826, ES: 30/500 | BestVal=0.5831@E20
+Epoch: 60, Time: 0.0277, Loss: 0.0197, TrainAcc: 1.0000, ValAcc: 0.5791, ES: 40/500 | BestVal=0.5831@E20
+Epoch: 70, Time: 0.0277, Loss: 0.0153, TrainAcc: 1.0000, ValAcc: 0.5753, ES: 50/500 | BestVal=0.5831@E20
+Epoch: 80, Time: 0.0277, Loss: 0.0094, TrainAcc: 1.0000, ValAcc: 0.5746, ES: 60/500 | BestVal=0.5831@E20
+Epoch: 90, Time: 0.0277, Loss: 0.0075, TrainAcc: 1.0000, ValAcc: 0.5734, ES: 70/500 | BestVal=0.5831@E20
+Epoch: 100, Time: 0.0277, Loss: 0.0058, TrainAcc: 1.0000, ValAcc: 0.5734, ES: 80/500 | BestVal=0.5831@E20
+Epoch: 110, Time: 0.0277, Loss: 0.0044, TrainAcc: 1.0000, ValAcc: 0.5712, ES: 90/500 | BestVal=0.5831@E20
+Epoch: 120, Time: 0.0277, Loss: 0.0037, TrainAcc: 1.0000, ValAcc: 0.5720, ES: 100/500 | BestVal=0.5831@E20
+Epoch: 130, Time: 0.0277, Loss: 0.0029, TrainAcc: 1.0000, ValAcc: 0.5750, ES: 110/500 | BestVal=0.5831@E20
+Epoch: 140, Time: 0.0277, Loss: 0.0028, TrainAcc: 1.0000, ValAcc: 0.5733, ES: 120/500 | BestVal=0.5831@E20
+Epoch: 150, Time: 0.0277, Loss: 0.0023, TrainAcc: 1.0000, ValAcc: 0.5718, ES: 130/500 | BestVal=0.5831@E20
+Epoch: 160, Time: 0.0277, Loss: 0.0017, TrainAcc: 1.0000, ValAcc: 0.5721, ES: 140/500 | BestVal=0.5831@E20
+Epoch: 170, Time: 0.0277, Loss: 0.0017, TrainAcc: 1.0000, ValAcc: 0.5725, ES: 150/500 | BestVal=0.5831@E20
+Epoch: 180, Time: 0.0277, Loss: 0.0016, TrainAcc: 1.0000, ValAcc: 0.5728, ES: 160/500 | BestVal=0.5831@E20
+Epoch: 190, Time: 0.0277, Loss: 0.0019, TrainAcc: 1.0000, ValAcc: 0.5698, ES: 170/500 | BestVal=0.5831@E20
+Finished running train at 11-22 00:01:00, running time = 5.67s.
+[E] ValAcc: 0.5831, TestAcc: 0.5803
+
+Before Check, remove_indices in train_mask:  27568
+Before Check, remove_indices in val_mask:  0
+Before Check, remove_indices in test_mask:  0
+Labeled samping in training set: 150/46198, ratio: 150%!!
+Check remove_indices in train_mask: 0
+Check remove_indices in val_mask: 0
+Check remove_indices in test_mask: 0
+Before pseudo labling, labeled samples in training set: 150/46198, ratio: 150%!!
+Loading pretrained LM features (explanations) ...
+LM_emb_path: prt_lm/arxiv_20232_#_train_LMs_pls/microsoft/deberta-base-seed3-labels150-lr2e-05.emb
+Constructing a large graph ...
+Finished large graph construction!...
+
+Number of parameters: 103848
+Start running train at 11-22 00:01:02
+Epoch: 0, Time: 0.0360, Loss: 4.0868, TrainAcc: 0.0000, ValAcc: 0.3745, ES: 00/500 | BestVal=0.3745@E0
+Epoch: 10, Time: 0.0350, Loss: 0.6357, TrainAcc: 0.7867, ValAcc: 0.5470, ES: 00/500 | BestVal=0.5470@E10
+Epoch: 20, Time: 0.0277, Loss: 0.3678, TrainAcc: 0.9067, ValAcc: 0.5960, ES: 01/500 | BestVal=0.5970@E19
+Epoch: 30, Time: 0.0339, Loss: 0.2388, TrainAcc: 0.9333, ValAcc: 0.6076, ES: 00/500 | BestVal=0.6076@E30
+Epoch: 40, Time: 0.0346, Loss: 0.1605, TrainAcc: 0.9467, ValAcc: 0.6139, ES: 00/500 | BestVal=0.6139@E40
+Epoch: 50, Time: 0.0278, Loss: 0.1091, TrainAcc: 0.9667, ValAcc: 0.6140, ES: 01/500 | BestVal=0.6152@E49
+Epoch: 60, Time: 0.0277, Loss: 0.0644, TrainAcc: 0.9800, ValAcc: 0.6127, ES: 11/500 | BestVal=0.6152@E49
+Epoch: 70, Time: 0.0278, Loss: 0.0424, TrainAcc: 1.0000, ValAcc: 0.6083, ES: 21/500 | BestVal=0.6152@E49
+Epoch: 80, Time: 0.0278, Loss: 0.0342, TrainAcc: 1.0000, ValAcc: 0.6061, ES: 31/500 | BestVal=0.6152@E49
+Epoch: 90, Time: 0.0277, Loss: 0.0175, TrainAcc: 1.0000, ValAcc: 0.6035, ES: 41/500 | BestVal=0.6152@E49
+Epoch: 100, Time: 0.0277, Loss: 0.0163, TrainAcc: 1.0000, ValAcc: 0.5991, ES: 51/500 | BestVal=0.6152@E49
+Epoch: 110, Time: 0.0278, Loss: 0.0111, TrainAcc: 1.0000, ValAcc: 0.5976, ES: 61/500 | BestVal=0.6152@E49
+Epoch: 120, Time: 0.0277, Loss: 0.0093, TrainAcc: 1.0000, ValAcc: 0.6035, ES: 71/500 | BestVal=0.6152@E49
+Epoch: 130, Time: 0.0277, Loss: 0.0066, TrainAcc: 1.0000, ValAcc: 0.5940, ES: 81/500 | BestVal=0.6152@E49
+Epoch: 140, Time: 0.0277, Loss: 0.0058, TrainAcc: 1.0000, ValAcc: 0.6002, ES: 91/500 | BestVal=0.6152@E49
+Epoch: 150, Time: 0.0278, Loss: 0.0030, TrainAcc: 1.0000, ValAcc: 0.6000, ES: 101/500 | BestVal=0.6152@E49
+Epoch: 160, Time: 0.0277, Loss: 0.0032, TrainAcc: 1.0000, ValAcc: 0.5960, ES: 111/500 | BestVal=0.6152@E49
+Epoch: 170, Time: 0.0277, Loss: 0.0027, TrainAcc: 1.0000, ValAcc: 0.5948, ES: 121/500 | BestVal=0.6152@E49
+Epoch: 180, Time: 0.0277, Loss: 0.0026, TrainAcc: 1.0000, ValAcc: 0.5982, ES: 131/500 | BestVal=0.6152@E49
+Epoch: 190, Time: 0.0277, Loss: 0.0027, TrainAcc: 1.0000, ValAcc: 0.5996, ES: 141/500 | BestVal=0.6152@E49
+Finished running train at 11-22 00:01:08, running time = 5.83s.
+[E] ValAcc: 0.6152, TestAcc: 0.6195
+
+Before Check, remove_indices in train_mask:  27568
+Before Check, remove_indices in val_mask:  0
+Before Check, remove_indices in test_mask:  0
+Labeled samping in training set: 150/46198, ratio: 150%!!
+Check remove_indices in train_mask: 0
+Check remove_indices in val_mask: 0
+Check remove_indices in test_mask: 0
+Before pseudo labling, labeled samples in training set: 150/46198, ratio: 150%!!
+Loading pretrained LM features (explanations) ...
+LM_emb_path: prt_lm/arxiv_20232_#_train_LMs_pls/microsoft/deberta-base-seed4-labels150-lr2e-05.emb
+Constructing a large graph ...
+Finished large graph construction!...
+
+Number of parameters: 103848
+Start running train at 11-22 00:01:09
+Epoch: 0, Time: 0.0369, Loss: 3.9942, TrainAcc: 0.0067, ValAcc: 0.4329, ES: 00/500 | BestVal=0.4329@E0
+Epoch: 10, Time: 0.0347, Loss: 0.6037, TrainAcc: 0.8133, ValAcc: 0.6009, ES: 00/500 | BestVal=0.6009@E10
+Epoch: 20, Time: 0.0277, Loss: 0.3361, TrainAcc: 0.9000, ValAcc: 0.5955, ES: 08/500 | BestVal=0.6066@E12
+Epoch: 30, Time: 0.0277, Loss: 0.2080, TrainAcc: 0.9467, ValAcc: 0.5801, ES: 18/500 | BestVal=0.6066@E12
+Epoch: 40, Time: 0.0277, Loss: 0.1252, TrainAcc: 0.9667, ValAcc: 0.5816, ES: 28/500 | BestVal=0.6066@E12
+Epoch: 50, Time: 0.0278, Loss: 0.0718, TrainAcc: 0.9867, ValAcc: 0.5790, ES: 38/500 | BestVal=0.6066@E12
+Epoch: 60, Time: 0.0277, Loss: 0.0463, TrainAcc: 0.9933, ValAcc: 0.5794, ES: 48/500 | BestVal=0.6066@E12
+Epoch: 70, Time: 0.0277, Loss: 0.0270, TrainAcc: 1.0000, ValAcc: 0.5764, ES: 58/500 | BestVal=0.6066@E12
+Epoch: 80, Time: 0.0277, Loss: 0.0302, TrainAcc: 1.0000, ValAcc: 0.5720, ES: 68/500 | BestVal=0.6066@E12
+Epoch: 90, Time: 0.0277, Loss: 0.0215, TrainAcc: 0.9933, ValAcc: 0.5646, ES: 78/500 | BestVal=0.6066@E12
+Epoch: 100, Time: 0.0277, Loss: 0.0089, TrainAcc: 1.0000, ValAcc: 0.5712, ES: 88/500 | BestVal=0.6066@E12
+Epoch: 110, Time: 0.0277, Loss: 0.0096, TrainAcc: 1.0000, ValAcc: 0.5728, ES: 98/500 | BestVal=0.6066@E12
+Epoch: 120, Time: 0.0277, Loss: 0.0069, TrainAcc: 1.0000, ValAcc: 0.5565, ES: 108/500 | BestVal=0.6066@E12
+Epoch: 130, Time: 0.0277, Loss: 0.0056, TrainAcc: 1.0000, ValAcc: 0.5567, ES: 118/500 | BestVal=0.6066@E12
+Epoch: 140, Time: 0.0277, Loss: 0.0078, TrainAcc: 1.0000, ValAcc: 0.5767, ES: 128/500 | BestVal=0.6066@E12
+Epoch: 150, Time: 0.0277, Loss: 0.0050, TrainAcc: 1.0000, ValAcc: 0.5652, ES: 138/500 | BestVal=0.6066@E12
+Epoch: 160, Time: 0.0277, Loss: 0.0040, TrainAcc: 1.0000, ValAcc: 0.5620, ES: 148/500 | BestVal=0.6066@E12
+Epoch: 170, Time: 0.0277, Loss: 0.0029, TrainAcc: 1.0000, ValAcc: 0.5619, ES: 158/500 | BestVal=0.6066@E12
+Epoch: 180, Time: 0.0277, Loss: 0.0019, TrainAcc: 1.0000, ValAcc: 0.5756, ES: 168/500 | BestVal=0.6066@E12
+Epoch: 190, Time: 0.0277, Loss: 0.0019, TrainAcc: 1.0000, ValAcc: 0.5647, ES: 178/500 | BestVal=0.6066@E12
+Finished running train at 11-22 00:01:15, running time = 5.62s.
+[E] ValAcc: 0.6066, TestAcc: 0.6008
+
+[E] ValACC: 0.6027 ± 0.0144, TestAcc: 0.6041 ± 0.0164
+dataset: arxiv_2023
+device: 0
+gnn:
+  model:
+    hidden_dim: 128
+    name: GCN
+    num_layers: 2
+  train:
+    K: 25
+    dropout: 0.5
+    early_stop: 500
+    epochs: 200
+    feature_type: E
+    lr: 0.01
+    use_dgl: False
+    wd: 0.0
+    weight_decay: 0.0005
+lm:
+  model:
+    feat_shrink: 
+    name: microsoft/deberta-base
+  train:
+    GSL_data_split: True
+    att_dropout: 0.1
+    batch_size: 9
+    cla_dropout: 0.4
+    dropout: 0.3
+    epochs: 4
+    eval_patience: 50000
+    grad_acc_steps: 1
+    lr: 0.0001
+    use_gpt: False
+    warmup_epochs: 0.6
+    weight_decay: 0.0
+ratio: 150
+runs: 5
+seed: 4
+An import exception occurred
+Before Check, remove_indices in train_mask:  27418
+Before Check, remove_indices in val_mask:  0
+Before Check, remove_indices in test_mask:  0
+Labeled samping in training set: 300/46198, ratio: 300%!!
+Check remove_indices in train_mask: 0
+Check remove_indices in val_mask: 0
+Check remove_indices in test_mask: 0
+Before pseudo labling, labeled samples in training set: 300/46198, ratio: 300%!!
+Loading pretrained LM features (explanations) ...
+LM_emb_path: prt_lm/arxiv_20232_#_train_LMs_pls/microsoft/deberta-base-seed0-labels300-lr2e-05.emb
+Constructing a large graph ...
+Finished large graph construction!...
+
+Number of parameters: 103848
+Start running train at 11-22 00:01:30
+Epoch: 0, Time: 0.0708, Loss: 4.1525, TrainAcc: 0.0133, ValAcc: 0.3654, ES: 00/500 | BestVal=0.3654@E0
+Epoch: 10, Time: 0.0277, Loss: 0.8752, TrainAcc: 0.7633, ValAcc: 0.5991, ES: 02/500 | BestVal=0.6052@E8
+Epoch: 20, Time: 0.0344, Loss: 0.6062, TrainAcc: 0.8133, ValAcc: 0.6095, ES: 00/500 | BestVal=0.6095@E20
+Epoch: 30, Time: 0.0345, Loss: 0.4142, TrainAcc: 0.8600, ValAcc: 0.6281, ES: 00/500 | BestVal=0.6281@E30
+Epoch: 40, Time: 0.0345, Loss: 0.2778, TrainAcc: 0.9267, ValAcc: 0.6320, ES: 00/500 | BestVal=0.6320@E40
+Epoch: 50, Time: 0.0277, Loss: 0.1725, TrainAcc: 0.9633, ValAcc: 0.6289, ES: 10/500 | BestVal=0.6320@E40
+Epoch: 60, Time: 0.0277, Loss: 0.0987, TrainAcc: 0.9833, ValAcc: 0.6307, ES: 20/500 | BestVal=0.6320@E40
+Epoch: 70, Time: 0.0277, Loss: 0.0702, TrainAcc: 0.9967, ValAcc: 0.6301, ES: 05/500 | BestVal=0.6371@E65
+Epoch: 80, Time: 0.0276, Loss: 0.0362, TrainAcc: 1.0000, ValAcc: 0.6260, ES: 15/500 | BestVal=0.6371@E65
+Epoch: 90, Time: 0.0277, Loss: 0.0237, TrainAcc: 1.0000, ValAcc: 0.6279, ES: 25/500 | BestVal=0.6371@E65
+Epoch: 100, Time: 0.0277, Loss: 0.0173, TrainAcc: 1.0000, ValAcc: 0.6280, ES: 35/500 | BestVal=0.6371@E65
+Epoch: 110, Time: 0.0277, Loss: 0.0161, TrainAcc: 1.0000, ValAcc: 0.6253, ES: 45/500 | BestVal=0.6371@E65
+Epoch: 120, Time: 0.0277, Loss: 0.0109, TrainAcc: 1.0000, ValAcc: 0.6275, ES: 55/500 | BestVal=0.6371@E65
+Epoch: 130, Time: 0.0277, Loss: 0.0062, TrainAcc: 1.0000, ValAcc: 0.6240, ES: 65/500 | BestVal=0.6371@E65
+Epoch: 140, Time: 0.0277, Loss: 0.0118, TrainAcc: 1.0000, ValAcc: 0.6237, ES: 75/500 | BestVal=0.6371@E65
+Epoch: 150, Time: 0.0277, Loss: 0.0066, TrainAcc: 1.0000, ValAcc: 0.6196, ES: 85/500 | BestVal=0.6371@E65
+Epoch: 160, Time: 0.0277, Loss: 0.0050, TrainAcc: 1.0000, ValAcc: 0.6254, ES: 95/500 | BestVal=0.6371@E65
+Epoch: 170, Time: 0.0277, Loss: 0.0085, TrainAcc: 1.0000, ValAcc: 0.6225, ES: 105/500 | BestVal=0.6371@E65
+Epoch: 180, Time: 0.0277, Loss: 0.0045, TrainAcc: 1.0000, ValAcc: 0.6220, ES: 115/500 | BestVal=0.6371@E65
+Epoch: 190, Time: 0.0277, Loss: 0.0031, TrainAcc: 1.0000, ValAcc: 0.6219, ES: 125/500 | BestVal=0.6371@E65
+Finished running train at 11-22 00:01:37, running time = 6.22s.
+[E] ValAcc: 0.6371, TestAcc: 0.6348
+
+Before Check, remove_indices in train_mask:  27418
+Before Check, remove_indices in val_mask:  0
+Before Check, remove_indices in test_mask:  0
+Labeled samping in training set: 300/46198, ratio: 300%!!
+Check remove_indices in train_mask: 0
+Check remove_indices in val_mask: 0
+Check remove_indices in test_mask: 0
+Before pseudo labling, labeled samples in training set: 300/46198, ratio: 300%!!
+Loading pretrained LM features (explanations) ...
+LM_emb_path: prt_lm/arxiv_20232_#_train_LMs_pls/microsoft/deberta-base-seed1-labels300-lr2e-05.emb
+Constructing a large graph ...
+Finished large graph construction!...
+
+Number of parameters: 103848
+Start running train at 11-22 00:01:38
+Epoch: 0, Time: 0.0370, Loss: 4.2300, TrainAcc: 0.0133, ValAcc: 0.3132, ES: 00/500 | BestVal=0.3132@E0
+Epoch: 10, Time: 0.0345, Loss: 0.8842, TrainAcc: 0.7533, ValAcc: 0.6147, ES: 00/500 | BestVal=0.6147@E10
+Epoch: 20, Time: 0.0349, Loss: 0.5969, TrainAcc: 0.8367, ValAcc: 0.6505, ES: 00/500 | BestVal=0.6505@E20
+Epoch: 30, Time: 0.0277, Loss: 0.3918, TrainAcc: 0.8867, ValAcc: 0.6553, ES: 04/500 | BestVal=0.6614@E26
+Epoch: 40, Time: 0.0277, Loss: 0.2614, TrainAcc: 0.9167, ValAcc: 0.6601, ES: 14/500 | BestVal=0.6614@E26
+Epoch: 50, Time: 0.0277, Loss: 0.1645, TrainAcc: 0.9567, ValAcc: 0.6637, ES: 06/500 | BestVal=0.6654@E44
+Epoch: 60, Time: 0.0277, Loss: 0.1085, TrainAcc: 0.9733, ValAcc: 0.6617, ES: 16/500 | BestVal=0.6654@E44
+Epoch: 70, Time: 0.0277, Loss: 0.0748, TrainAcc: 0.9867, ValAcc: 0.6555, ES: 26/500 | BestVal=0.6654@E44
+Epoch: 80, Time: 0.0277, Loss: 0.0432, TrainAcc: 1.0000, ValAcc: 0.6413, ES: 36/500 | BestVal=0.6654@E44
+Epoch: 90, Time: 0.0277, Loss: 0.0302, TrainAcc: 0.9967, ValAcc: 0.6565, ES: 46/500 | BestVal=0.6654@E44
+Epoch: 100, Time: 0.0277, Loss: 0.0216, TrainAcc: 1.0000, ValAcc: 0.6423, ES: 56/500 | BestVal=0.6654@E44
+Epoch: 110, Time: 0.0277, Loss: 0.0178, TrainAcc: 1.0000, ValAcc: 0.6535, ES: 66/500 | BestVal=0.6654@E44
+Epoch: 120, Time: 0.0277, Loss: 0.0190, TrainAcc: 1.0000, ValAcc: 0.6494, ES: 76/500 | BestVal=0.6654@E44
+Epoch: 130, Time: 0.0277, Loss: 0.0168, TrainAcc: 1.0000, ValAcc: 0.6451, ES: 86/500 | BestVal=0.6654@E44
+Epoch: 140, Time: 0.0277, Loss: 0.0115, TrainAcc: 1.0000, ValAcc: 0.6444, ES: 96/500 | BestVal=0.6654@E44
+Epoch: 150, Time: 0.0277, Loss: 0.0086, TrainAcc: 1.0000, ValAcc: 0.6487, ES: 106/500 | BestVal=0.6654@E44
+Epoch: 160, Time: 0.0277, Loss: 0.0080, TrainAcc: 1.0000, ValAcc: 0.6501, ES: 116/500 | BestVal=0.6654@E44
+Epoch: 170, Time: 0.0277, Loss: 0.0076, TrainAcc: 1.0000, ValAcc: 0.6485, ES: 126/500 | BestVal=0.6654@E44
+Epoch: 180, Time: 0.0277, Loss: 0.0082, TrainAcc: 1.0000, ValAcc: 0.6307, ES: 136/500 | BestVal=0.6654@E44
+Epoch: 190, Time: 0.0277, Loss: 0.0074, TrainAcc: 1.0000, ValAcc: 0.6444, ES: 146/500 | BestVal=0.6654@E44
+Finished running train at 11-22 00:01:44, running time = 5.78s.
+[E] ValAcc: 0.6654, TestAcc: 0.6569
+
+Before Check, remove_indices in train_mask:  27418
+Before Check, remove_indices in val_mask:  0
+Before Check, remove_indices in test_mask:  0
+Labeled samping in training set: 300/46198, ratio: 300%!!
+Check remove_indices in train_mask: 0
+Check remove_indices in val_mask: 0
+Check remove_indices in test_mask: 0
+Before pseudo labling, labeled samples in training set: 300/46198, ratio: 300%!!
+Loading pretrained LM features (explanations) ...
+LM_emb_path: prt_lm/arxiv_20232_#_train_LMs_pls/microsoft/deberta-base-seed2-labels300-lr2e-05.emb
+Constructing a large graph ...
+Finished large graph construction!...
+
+Number of parameters: 103848
+Start running train at 11-22 00:01:46
+Epoch: 0, Time: 0.0360, Loss: 3.8430, TrainAcc: 0.0600, ValAcc: 0.5249, ES: 00/500 | BestVal=0.5249@E0
+Epoch: 10, Time: 0.0345, Loss: 0.8347, TrainAcc: 0.7533, ValAcc: 0.5513, ES: 00/500 | BestVal=0.5513@E10
+Epoch: 20, Time: 0.0372, Loss: 0.5435, TrainAcc: 0.8167, ValAcc: 0.6240, ES: 00/500 | BestVal=0.6240@E20
+Epoch: 30, Time: 0.0277, Loss: 0.3311, TrainAcc: 0.9167, ValAcc: 0.6227, ES: 09/500 | BestVal=0.6255@E21
+Epoch: 40, Time: 0.0277, Loss: 0.2081, TrainAcc: 0.9467, ValAcc: 0.6320, ES: 01/500 | BestVal=0.6332@E39
+Epoch: 50, Time: 0.0277, Loss: 0.1218, TrainAcc: 0.9733, ValAcc: 0.6250, ES: 11/500 | BestVal=0.6332@E39
+Epoch: 60, Time: 0.0277, Loss: 0.0769, TrainAcc: 0.9933, ValAcc: 0.6195, ES: 21/500 | BestVal=0.6332@E39
+Epoch: 70, Time: 0.0277, Loss: 0.0520, TrainAcc: 0.9967, ValAcc: 0.6177, ES: 31/500 | BestVal=0.6332@E39
+Epoch: 80, Time: 0.0276, Loss: 0.0368, TrainAcc: 0.9967, ValAcc: 0.6176, ES: 41/500 | BestVal=0.6332@E39
+Epoch: 90, Time: 0.0277, Loss: 0.0231, TrainAcc: 1.0000, ValAcc: 0.6088, ES: 51/500 | BestVal=0.6332@E39
+Epoch: 100, Time: 0.0277, Loss: 0.0185, TrainAcc: 1.0000, ValAcc: 0.6140, ES: 61/500 | BestVal=0.6332@E39
+Epoch: 110, Time: 0.0277, Loss: 0.0155, TrainAcc: 1.0000, ValAcc: 0.6101, ES: 71/500 | BestVal=0.6332@E39
+Epoch: 120, Time: 0.0277, Loss: 0.0110, TrainAcc: 1.0000, ValAcc: 0.6105, ES: 81/500 | BestVal=0.6332@E39
+Epoch: 130, Time: 0.0277, Loss: 0.0078, TrainAcc: 1.0000, ValAcc: 0.6083, ES: 91/500 | BestVal=0.6332@E39
+Epoch: 140, Time: 0.0277, Loss: 0.0111, TrainAcc: 1.0000, ValAcc: 0.6019, ES: 101/500 | BestVal=0.6332@E39
+Epoch: 150, Time: 0.0277, Loss: 0.0098, TrainAcc: 1.0000, ValAcc: 0.6131, ES: 111/500 | BestVal=0.6332@E39
+Epoch: 160, Time: 0.0277, Loss: 0.0067, TrainAcc: 1.0000, ValAcc: 0.6021, ES: 121/500 | BestVal=0.6332@E39
+Epoch: 170, Time: 0.0277, Loss: 0.0040, TrainAcc: 1.0000, ValAcc: 0.6076, ES: 131/500 | BestVal=0.6332@E39
+Epoch: 180, Time: 0.0277, Loss: 0.0048, TrainAcc: 1.0000, ValAcc: 0.6050, ES: 141/500 | BestVal=0.6332@E39
+Epoch: 190, Time: 0.0276, Loss: 0.0036, TrainAcc: 1.0000, ValAcc: 0.6100, ES: 151/500 | BestVal=0.6332@E39
+Finished running train at 11-22 00:01:51, running time = 5.72s.
+[E] ValAcc: 0.6332, TestAcc: 0.6260
+
+Before Check, remove_indices in train_mask:  27418
+Before Check, remove_indices in val_mask:  0
+Before Check, remove_indices in test_mask:  0
+Labeled samping in training set: 300/46198, ratio: 300%!!
+Check remove_indices in train_mask: 0
+Check remove_indices in val_mask: 0
+Check remove_indices in test_mask: 0
+Before pseudo labling, labeled samples in training set: 300/46198, ratio: 300%!!
+Loading pretrained LM features (explanations) ...
+LM_emb_path: prt_lm/arxiv_20232_#_train_LMs_pls/microsoft/deberta-base-seed3-labels300-lr2e-05.emb
+Constructing a large graph ...
+Finished large graph construction!...
+
+Number of parameters: 103848
+Start running train at 11-22 00:01:53
+Epoch: 0, Time: 0.0371, Loss: 4.1472, TrainAcc: 0.0167, ValAcc: 0.3987, ES: 00/500 | BestVal=0.3987@E0
+Epoch: 10, Time: 0.0353, Loss: 0.7440, TrainAcc: 0.7767, ValAcc: 0.6205, ES: 00/500 | BestVal=0.6205@E10
+Epoch: 20, Time: 0.0351, Loss: 0.5222, TrainAcc: 0.8333, ValAcc: 0.6299, ES: 00/500 | BestVal=0.6299@E20
+Epoch: 30, Time: 0.0277, Loss: 0.3936, TrainAcc: 0.8633, ValAcc: 0.6329, ES: 04/500 | BestVal=0.6357@E26
+Epoch: 40, Time: 0.0277, Loss: 0.2836, TrainAcc: 0.9100, ValAcc: 0.6400, ES: 03/500 | BestVal=0.6421@E37
+Epoch: 50, Time: 0.0277, Loss: 0.2169, TrainAcc: 0.9300, ValAcc: 0.6412, ES: 13/500 | BestVal=0.6421@E37
+Epoch: 60, Time: 0.0278, Loss: 0.1809, TrainAcc: 0.9433, ValAcc: 0.6422, ES: 05/500 | BestVal=0.6448@E55
+Epoch: 70, Time: 0.0277, Loss: 0.1248, TrainAcc: 0.9767, ValAcc: 0.6386, ES: 15/500 | BestVal=0.6448@E55
+Epoch: 80, Time: 0.0278, Loss: 0.1089, TrainAcc: 0.9667, ValAcc: 0.6367, ES: 06/500 | BestVal=0.6469@E74
+Epoch: 90, Time: 0.0277, Loss: 0.0741, TrainAcc: 0.9833, ValAcc: 0.6423, ES: 16/500 | BestVal=0.6469@E74
+Epoch: 100, Time: 0.0277, Loss: 0.0688, TrainAcc: 0.9833, ValAcc: 0.6225, ES: 26/500 | BestVal=0.6469@E74
+Epoch: 110, Time: 0.0277, Loss: 0.0546, TrainAcc: 0.9900, ValAcc: 0.6323, ES: 36/500 | BestVal=0.6469@E74
+Epoch: 120, Time: 0.0277, Loss: 0.0379, TrainAcc: 0.9967, ValAcc: 0.6389, ES: 46/500 | BestVal=0.6469@E74
+Epoch: 130, Time: 0.0277, Loss: 0.0398, TrainAcc: 0.9967, ValAcc: 0.6365, ES: 56/500 | BestVal=0.6469@E74
+Epoch: 140, Time: 0.0277, Loss: 0.0430, TrainAcc: 0.9933, ValAcc: 0.6214, ES: 66/500 | BestVal=0.6469@E74
+Epoch: 150, Time: 0.0277, Loss: 0.0377, TrainAcc: 0.9933, ValAcc: 0.6335, ES: 76/500 | BestVal=0.6469@E74
+Epoch: 160, Time: 0.0277, Loss: 0.0439, TrainAcc: 0.9900, ValAcc: 0.6343, ES: 86/500 | BestVal=0.6469@E74
+Epoch: 170, Time: 0.0277, Loss: 0.0304, TrainAcc: 0.9967, ValAcc: 0.6168, ES: 96/500 | BestVal=0.6469@E74
+Epoch: 180, Time: 0.0277, Loss: 0.0272, TrainAcc: 0.9967, ValAcc: 0.6276, ES: 106/500 | BestVal=0.6469@E74
+Epoch: 190, Time: 0.0277, Loss: 0.0336, TrainAcc: 0.9967, ValAcc: 0.6363, ES: 116/500 | BestVal=0.6469@E74
+Finished running train at 11-22 00:01:59, running time = 5.76s.
+[E] ValAcc: 0.6469, TestAcc: 0.6464
+
+Before Check, remove_indices in train_mask:  27418
+Before Check, remove_indices in val_mask:  0
+Before Check, remove_indices in test_mask:  0
+Labeled samping in training set: 300/46198, ratio: 300%!!
+Check remove_indices in train_mask: 0
+Check remove_indices in val_mask: 0
+Check remove_indices in test_mask: 0
+Before pseudo labling, labeled samples in training set: 300/46198, ratio: 300%!!
+Loading pretrained LM features (explanations) ...
+LM_emb_path: prt_lm/arxiv_20232_#_train_LMs_pls/microsoft/deberta-base-seed4-labels300-lr2e-05.emb
+Constructing a large graph ...
+Finished large graph construction!...
+
+Number of parameters: 103848
+Start running train at 11-22 00:02:00
+Epoch: 0, Time: 0.0382, Loss: 4.0442, TrainAcc: 0.0200, ValAcc: 0.4769, ES: 00/500 | BestVal=0.4769@E0
+Epoch: 10, Time: 0.0355, Loss: 0.9865, TrainAcc: 0.7133, ValAcc: 0.6402, ES: 00/500 | BestVal=0.6402@E10
+Epoch: 20, Time: 0.0277, Loss: 0.7265, TrainAcc: 0.7667, ValAcc: 0.6361, ES: 10/500 | BestVal=0.6402@E10
+Epoch: 30, Time: 0.0340, Loss: 0.5602, TrainAcc: 0.8067, ValAcc: 0.6463, ES: 00/500 | BestVal=0.6463@E30
+Epoch: 40, Time: 0.0277, Loss: 0.4093, TrainAcc: 0.8800, ValAcc: 0.6522, ES: 06/500 | BestVal=0.6544@E34
+Epoch: 50, Time: 0.0278, Loss: 0.3122, TrainAcc: 0.8967, ValAcc: 0.6561, ES: 01/500 | BestVal=0.6578@E49
+Epoch: 60, Time: 0.0278, Loss: 0.2150, TrainAcc: 0.9333, ValAcc: 0.6562, ES: 11/500 | BestVal=0.6578@E49
+Epoch: 70, Time: 0.0277, Loss: 0.1516, TrainAcc: 0.9633, ValAcc: 0.6548, ES: 09/500 | BestVal=0.6583@E61
+Epoch: 80, Time: 0.0277, Loss: 0.1193, TrainAcc: 0.9533, ValAcc: 0.6416, ES: 19/500 | BestVal=0.6583@E61
+Epoch: 90, Time: 0.0277, Loss: 0.0898, TrainAcc: 0.9767, ValAcc: 0.6355, ES: 29/500 | BestVal=0.6583@E61
+Epoch: 100, Time: 0.0277, Loss: 0.0622, TrainAcc: 0.9867, ValAcc: 0.6205, ES: 39/500 | BestVal=0.6583@E61
+Epoch: 110, Time: 0.0277, Loss: 0.0564, TrainAcc: 0.9933, ValAcc: 0.6405, ES: 49/500 | BestVal=0.6583@E61
+Epoch: 120, Time: 0.0277, Loss: 0.0433, TrainAcc: 0.9900, ValAcc: 0.6221, ES: 59/500 | BestVal=0.6583@E61
+Epoch: 130, Time: 0.0277, Loss: 0.0412, TrainAcc: 0.9900, ValAcc: 0.5918, ES: 69/500 | BestVal=0.6583@E61
+Epoch: 140, Time: 0.0277, Loss: 0.0345, TrainAcc: 0.9933, ValAcc: 0.6466, ES: 79/500 | BestVal=0.6583@E61
+Epoch: 150, Time: 0.0277, Loss: 0.0279, TrainAcc: 0.9933, ValAcc: 0.6123, ES: 89/500 | BestVal=0.6583@E61
+Epoch: 160, Time: 0.0277, Loss: 0.0187, TrainAcc: 1.0000, ValAcc: 0.6161, ES: 99/500 | BestVal=0.6583@E61
+Epoch: 170, Time: 0.0277, Loss: 0.0160, TrainAcc: 0.9967, ValAcc: 0.6265, ES: 109/500 | BestVal=0.6583@E61
+Epoch: 180, Time: 0.0277, Loss: 0.0174, TrainAcc: 1.0000, ValAcc: 0.6169, ES: 119/500 | BestVal=0.6583@E61
+Epoch: 190, Time: 0.0277, Loss: 0.0250, TrainAcc: 0.9933, ValAcc: 0.6245, ES: 129/500 | BestVal=0.6583@E61
+Finished running train at 11-22 00:02:06, running time = 5.72s.
+[E] ValAcc: 0.6583, TestAcc: 0.6551
+
+[E] ValACC: 0.6482 ± 0.0137, TestAcc: 0.6439 ± 0.0133
+dataset: arxiv_2023
+device: 0
+gnn:
+  model:
+    hidden_dim: 128
+    name: GCN
+    num_layers: 2
+  train:
+    K: 25
+    dropout: 0.5
+    early_stop: 500
+    epochs: 200
+    feature_type: E
+    lr: 0.01
+    use_dgl: False
+    wd: 0.0
+    weight_decay: 0.0005
+lm:
+  model:
+    feat_shrink: 
+    name: microsoft/deberta-base
+  train:
+    GSL_data_split: True
+    att_dropout: 0.1
+    batch_size: 9
+    cla_dropout: 0.4
+    dropout: 0.3
+    epochs: 4
+    eval_patience: 50000
+    grad_acc_steps: 1
+    lr: 0.0001
+    use_gpt: False
+    warmup_epochs: 0.6
+    weight_decay: 0.0
+ratio: 300
+runs: 5
+seed: 4
+An import exception occurred
+Before Check, remove_indices in train_mask:  27218
+Before Check, remove_indices in val_mask:  0
+Before Check, remove_indices in test_mask:  0
+Labeled samping in training set: 500/46198, ratio: 500%!!
+Check remove_indices in train_mask: 0
+Check remove_indices in val_mask: 0
+Check remove_indices in test_mask: 0
+Before pseudo labling, labeled samples in training set: 500/46198, ratio: 500%!!
+Loading pretrained LM features (explanations) ...
+LM_emb_path: prt_lm/arxiv_20232_#_train_LMs_pls/microsoft/deberta-base-seed0-labels500-lr2e-05.emb
+Constructing a large graph ...
+Finished large graph construction!...
+
+Number of parameters: 103848
+Start running train at 11-22 00:02:18
+Epoch: 0, Time: 0.0630, Loss: 4.1984, TrainAcc: 0.0040, ValAcc: 0.4019, ES: 00/500 | BestVal=0.4019@E0
+Epoch: 10, Time: 0.0277, Loss: 0.9665, TrainAcc: 0.7260, ValAcc: 0.6256, ES: 05/500 | BestVal=0.6331@E5
+Epoch: 20, Time: 0.0346, Loss: 0.7517, TrainAcc: 0.7860, ValAcc: 0.6490, ES: 00/500 | BestVal=0.6490@E20
+Epoch: 30, Time: 0.0342, Loss: 0.6040, TrainAcc: 0.8100, ValAcc: 0.6682, ES: 00/500 | BestVal=0.6682@E30
+Epoch: 40, Time: 0.0489, Loss: 0.4893, TrainAcc: 0.8460, ValAcc: 0.6772, ES: 00/500 | BestVal=0.6772@E40
+Epoch: 50, Time: 0.0338, Loss: 0.3811, TrainAcc: 0.8740, ValAcc: 0.6798, ES: 00/500 | BestVal=0.6798@E50
+Epoch: 60, Time: 0.0277, Loss: 0.3046, TrainAcc: 0.9040, ValAcc: 0.6744, ES: 08/500 | BestVal=0.6802@E52
+Epoch: 70, Time: 0.0278, Loss: 0.2428, TrainAcc: 0.9180, ValAcc: 0.6715, ES: 18/500 | BestVal=0.6802@E52
+Epoch: 80, Time: 0.0277, Loss: 0.1897, TrainAcc: 0.9420, ValAcc: 0.6711, ES: 28/500 | BestVal=0.6802@E52
+Epoch: 90, Time: 0.0277, Loss: 0.1453, TrainAcc: 0.9540, ValAcc: 0.6593, ES: 38/500 | BestVal=0.6802@E52
+Epoch: 100, Time: 0.0277, Loss: 0.1216, TrainAcc: 0.9700, ValAcc: 0.6581, ES: 48/500 | BestVal=0.6802@E52
+Epoch: 110, Time: 0.0277, Loss: 0.0936, TrainAcc: 0.9800, ValAcc: 0.6613, ES: 58/500 | BestVal=0.6802@E52
+Epoch: 120, Time: 0.0277, Loss: 0.0770, TrainAcc: 0.9760, ValAcc: 0.6470, ES: 68/500 | BestVal=0.6802@E52
+Epoch: 130, Time: 0.0277, Loss: 0.0661, TrainAcc: 0.9800, ValAcc: 0.6359, ES: 78/500 | BestVal=0.6802@E52
+Epoch: 140, Time: 0.0277, Loss: 0.0679, TrainAcc: 0.9780, ValAcc: 0.6500, ES: 88/500 | BestVal=0.6802@E52
+Epoch: 150, Time: 0.0277, Loss: 0.0524, TrainAcc: 0.9900, ValAcc: 0.6352, ES: 98/500 | BestVal=0.6802@E52
+Epoch: 160, Time: 0.0277, Loss: 0.0534, TrainAcc: 0.9840, ValAcc: 0.6488, ES: 108/500 | BestVal=0.6802@E52
+Epoch: 170, Time: 0.0277, Loss: 0.0561, TrainAcc: 0.9880, ValAcc: 0.6478, ES: 118/500 | BestVal=0.6802@E52
+Epoch: 180, Time: 0.0277, Loss: 0.0390, TrainAcc: 0.9900, ValAcc: 0.6538, ES: 128/500 | BestVal=0.6802@E52
+Epoch: 190, Time: 0.0277, Loss: 0.0329, TrainAcc: 0.9940, ValAcc: 0.6436, ES: 138/500 | BestVal=0.6802@E52
+Finished running train at 11-22 00:02:24, running time = 6.04s.
+[E] ValAcc: 0.6802, TestAcc: 0.6871
+
+Before Check, remove_indices in train_mask:  27218
+Before Check, remove_indices in val_mask:  0
+Before Check, remove_indices in test_mask:  0
+Labeled samping in training set: 500/46198, ratio: 500%!!
+Check remove_indices in train_mask: 0
+Check remove_indices in val_mask: 0
+Check remove_indices in test_mask: 0
+Before pseudo labling, labeled samples in training set: 500/46198, ratio: 500%!!
+Loading pretrained LM features (explanations) ...
+LM_emb_path: prt_lm/arxiv_20232_#_train_LMs_pls/microsoft/deberta-base-seed1-labels500-lr2e-05.emb
+Constructing a large graph ...
+Finished large graph construction!...
+
+Number of parameters: 103848
+Start running train at 11-22 00:02:26
+Epoch: 0, Time: 0.0353, Loss: 4.2786, TrainAcc: 0.0100, ValAcc: 0.4275, ES: 00/500 | BestVal=0.4275@E0
+Epoch: 10, Time: 0.0277, Loss: 0.8880, TrainAcc: 0.7360, ValAcc: 0.5898, ES: 04/500 | BestVal=0.6068@E6
+Epoch: 20, Time: 0.0343, Loss: 0.6893, TrainAcc: 0.7760, ValAcc: 0.6435, ES: 00/500 | BestVal=0.6435@E20
+Epoch: 30, Time: 0.0353, Loss: 0.5476, TrainAcc: 0.8240, ValAcc: 0.6657, ES: 00/500 | BestVal=0.6657@E30
+Epoch: 40, Time: 0.0347, Loss: 0.4095, TrainAcc: 0.8760, ValAcc: 0.6759, ES: 00/500 | BestVal=0.6759@E40
+Epoch: 50, Time: 0.0277, Loss: 0.3160, TrainAcc: 0.9040, ValAcc: 0.6702, ES: 10/500 | BestVal=0.6759@E40
+Epoch: 60, Time: 0.0277, Loss: 0.2315, TrainAcc: 0.9440, ValAcc: 0.6677, ES: 20/500 | BestVal=0.6759@E40
+Epoch: 70, Time: 0.0277, Loss: 0.1886, TrainAcc: 0.9440, ValAcc: 0.6645, ES: 30/500 | BestVal=0.6759@E40
+Epoch: 80, Time: 0.0277, Loss: 0.1230, TrainAcc: 0.9720, ValAcc: 0.6610, ES: 40/500 | BestVal=0.6759@E40
+Epoch: 90, Time: 0.0277, Loss: 0.1037, TrainAcc: 0.9720, ValAcc: 0.6544, ES: 50/500 | BestVal=0.6759@E40
+Epoch: 100, Time: 0.0277, Loss: 0.0745, TrainAcc: 0.9860, ValAcc: 0.6534, ES: 60/500 | BestVal=0.6759@E40
+Epoch: 110, Time: 0.0277, Loss: 0.0612, TrainAcc: 0.9860, ValAcc: 0.6479, ES: 70/500 | BestVal=0.6759@E40
+Epoch: 120, Time: 0.0277, Loss: 0.0531, TrainAcc: 0.9900, ValAcc: 0.6497, ES: 80/500 | BestVal=0.6759@E40
+Epoch: 130, Time: 0.0277, Loss: 0.0519, TrainAcc: 0.9840, ValAcc: 0.6551, ES: 90/500 | BestVal=0.6759@E40
+Epoch: 140, Time: 0.0277, Loss: 0.0383, TrainAcc: 1.0000, ValAcc: 0.6408, ES: 100/500 | BestVal=0.6759@E40
+Epoch: 150, Time: 0.0277, Loss: 0.0404, TrainAcc: 0.9840, ValAcc: 0.6387, ES: 110/500 | BestVal=0.6759@E40
+Epoch: 160, Time: 0.0278, Loss: 0.0286, TrainAcc: 0.9920, ValAcc: 0.6365, ES: 120/500 | BestVal=0.6759@E40
+Epoch: 170, Time: 0.0277, Loss: 0.0269, TrainAcc: 0.9920, ValAcc: 0.6340, ES: 130/500 | BestVal=0.6759@E40
+Epoch: 180, Time: 0.0277, Loss: 0.0196, TrainAcc: 0.9980, ValAcc: 0.6471, ES: 140/500 | BestVal=0.6759@E40
+Epoch: 190, Time: 0.0277, Loss: 0.0248, TrainAcc: 0.9920, ValAcc: 0.6376, ES: 150/500 | BestVal=0.6759@E40
+Finished running train at 11-22 00:02:32, running time = 5.86s.
+[E] ValAcc: 0.6759, TestAcc: 0.6703
+
+Before Check, remove_indices in train_mask:  27218
+Before Check, remove_indices in val_mask:  0
+Before Check, remove_indices in test_mask:  0
+Labeled samping in training set: 500/46198, ratio: 500%!!
+Check remove_indices in train_mask: 0
+Check remove_indices in val_mask: 0
+Check remove_indices in test_mask: 0
+Before pseudo labling, labeled samples in training set: 500/46198, ratio: 500%!!
+Loading pretrained LM features (explanations) ...
+LM_emb_path: prt_lm/arxiv_20232_#_train_LMs_pls/microsoft/deberta-base-seed2-labels500-lr2e-05.emb
+Constructing a large graph ...
+Finished large graph construction!...
+
+Number of parameters: 103848
+Start running train at 11-22 00:02:33
+Epoch: 0, Time: 0.0372, Loss: 3.6549, TrainAcc: 0.0960, ValAcc: 0.5187, ES: 00/500 | BestVal=0.5187@E0
+Epoch: 10, Time: 0.0341, Loss: 0.9634, TrainAcc: 0.7300, ValAcc: 0.6002, ES: 00/500 | BestVal=0.6002@E10
+Epoch: 20, Time: 0.0372, Loss: 0.7250, TrainAcc: 0.7760, ValAcc: 0.6314, ES: 00/500 | BestVal=0.6314@E20
+Epoch: 30, Time: 0.0354, Loss: 0.5385, TrainAcc: 0.8320, ValAcc: 0.6418, ES: 00/500 | BestVal=0.6418@E30
+Epoch: 40, Time: 0.0277, Loss: 0.3920, TrainAcc: 0.8820, ValAcc: 0.6463, ES: 02/500 | BestVal=0.6475@E38
+Epoch: 50, Time: 0.0276, Loss: 0.2693, TrainAcc: 0.9260, ValAcc: 0.6453, ES: 03/500 | BestVal=0.6496@E47
+Epoch: 60, Time: 0.0277, Loss: 0.1783, TrainAcc: 0.9500, ValAcc: 0.6402, ES: 13/500 | BestVal=0.6496@E47
+Epoch: 70, Time: 0.0277, Loss: 0.1255, TrainAcc: 0.9740, ValAcc: 0.6373, ES: 23/500 | BestVal=0.6496@E47
+Epoch: 80, Time: 0.0277, Loss: 0.0688, TrainAcc: 0.9920, ValAcc: 0.6328, ES: 33/500 | BestVal=0.6496@E47
+Epoch: 90, Time: 0.0277, Loss: 0.0522, TrainAcc: 0.9920, ValAcc: 0.6337, ES: 43/500 | BestVal=0.6496@E47
+Epoch: 100, Time: 0.0277, Loss: 0.0433, TrainAcc: 0.9900, ValAcc: 0.6330, ES: 53/500 | BestVal=0.6496@E47
+Epoch: 110, Time: 0.0277, Loss: 0.0356, TrainAcc: 0.9980, ValAcc: 0.6131, ES: 63/500 | BestVal=0.6496@E47
+Epoch: 120, Time: 0.0276, Loss: 0.0249, TrainAcc: 0.9940, ValAcc: 0.6201, ES: 73/500 | BestVal=0.6496@E47
+Epoch: 130, Time: 0.0277, Loss: 0.0281, TrainAcc: 0.9960, ValAcc: 0.6106, ES: 83/500 | BestVal=0.6496@E47
+Epoch: 140, Time: 0.0276, Loss: 0.0186, TrainAcc: 0.9980, ValAcc: 0.5984, ES: 93/500 | BestVal=0.6496@E47
+Epoch: 150, Time: 0.0277, Loss: 0.0136, TrainAcc: 1.0000, ValAcc: 0.6253, ES: 103/500 | BestVal=0.6496@E47
+Epoch: 160, Time: 0.0277, Loss: 0.0121, TrainAcc: 1.0000, ValAcc: 0.6143, ES: 113/500 | BestVal=0.6496@E47
+Epoch: 170, Time: 0.0277, Loss: 0.0121, TrainAcc: 1.0000, ValAcc: 0.6167, ES: 123/500 | BestVal=0.6496@E47
+Epoch: 180, Time: 0.0277, Loss: 0.0082, TrainAcc: 1.0000, ValAcc: 0.6047, ES: 133/500 | BestVal=0.6496@E47
+Epoch: 190, Time: 0.0277, Loss: 0.0138, TrainAcc: 0.9980, ValAcc: 0.6201, ES: 143/500 | BestVal=0.6496@E47
+Finished running train at 11-22 00:02:39, running time = 5.79s.
+[E] ValAcc: 0.6496, TestAcc: 0.6474
+
+Before Check, remove_indices in train_mask:  27218
+Before Check, remove_indices in val_mask:  0
+Before Check, remove_indices in test_mask:  0
+Labeled samping in training set: 500/46198, ratio: 500%!!
+Check remove_indices in train_mask: 0
+Check remove_indices in val_mask: 0
+Check remove_indices in test_mask: 0
+Before pseudo labling, labeled samples in training set: 500/46198, ratio: 500%!!
+Loading pretrained LM features (explanations) ...
+LM_emb_path: prt_lm/arxiv_20232_#_train_LMs_pls/microsoft/deberta-base-seed3-labels500-lr2e-05.emb
+Constructing a large graph ...
+Finished large graph construction!...
+
+Number of parameters: 103848
+Start running train at 11-22 00:02:41
+Epoch: 0, Time: 0.0361, Loss: 4.1673, TrainAcc: 0.0020, ValAcc: 0.4736, ES: 00/500 | BestVal=0.4736@E0
+Epoch: 10, Time: 0.0340, Loss: 0.8085, TrainAcc: 0.7580, ValAcc: 0.6152, ES: 00/500 | BestVal=0.6152@E10
+Epoch: 20, Time: 0.0341, Loss: 0.6312, TrainAcc: 0.8040, ValAcc: 0.6263, ES: 00/500 | BestVal=0.6263@E20
+Epoch: 30, Time: 0.0336, Loss: 0.5164, TrainAcc: 0.8220, ValAcc: 0.6353, ES: 00/500 | BestVal=0.6353@E30
+Epoch: 40, Time: 0.0278, Loss: 0.4324, TrainAcc: 0.8520, ValAcc: 0.6417, ES: 01/500 | BestVal=0.6424@E39
+Epoch: 50, Time: 0.0278, Loss: 0.3572, TrainAcc: 0.8620, ValAcc: 0.6402, ES: 11/500 | BestVal=0.6424@E39
+Epoch: 60, Time: 0.0277, Loss: 0.2997, TrainAcc: 0.9020, ValAcc: 0.6423, ES: 01/500 | BestVal=0.6425@E59
+Epoch: 70, Time: 0.0277, Loss: 0.2339, TrainAcc: 0.9260, ValAcc: 0.6392, ES: 07/500 | BestVal=0.6433@E63
+Epoch: 80, Time: 0.0278, Loss: 0.1997, TrainAcc: 0.9360, ValAcc: 0.6437, ES: 01/500 | BestVal=0.6447@E79
+Epoch: 90, Time: 0.0277, Loss: 0.1588, TrainAcc: 0.9480, ValAcc: 0.6440, ES: 05/500 | BestVal=0.6461@E85
+Epoch: 100, Time: 0.0278, Loss: 0.1391, TrainAcc: 0.9620, ValAcc: 0.6386, ES: 09/500 | BestVal=0.6466@E91
+Epoch: 110, Time: 0.0277, Loss: 0.1045, TrainAcc: 0.9680, ValAcc: 0.6363, ES: 19/500 | BestVal=0.6466@E91
+Epoch: 120, Time: 0.0278, Loss: 0.0779, TrainAcc: 0.9680, ValAcc: 0.6448, ES: 29/500 | BestVal=0.6466@E91
+Epoch: 130, Time: 0.0278, Loss: 0.0703, TrainAcc: 0.9800, ValAcc: 0.6423, ES: 39/500 | BestVal=0.6466@E91
+Epoch: 140, Time: 0.0277, Loss: 0.0728, TrainAcc: 0.9800, ValAcc: 0.6279, ES: 49/500 | BestVal=0.6466@E91
+Epoch: 150, Time: 0.0277, Loss: 0.0648, TrainAcc: 0.9820, ValAcc: 0.6150, ES: 59/500 | BestVal=0.6466@E91
+Epoch: 160, Time: 0.0277, Loss: 0.0443, TrainAcc: 0.9920, ValAcc: 0.6381, ES: 69/500 | BestVal=0.6466@E91
+Epoch: 170, Time: 0.0277, Loss: 0.0475, TrainAcc: 0.9880, ValAcc: 0.6244, ES: 79/500 | BestVal=0.6466@E91
+Epoch: 180, Time: 0.0278, Loss: 0.0385, TrainAcc: 0.9900, ValAcc: 0.6236, ES: 89/500 | BestVal=0.6466@E91
+Epoch: 190, Time: 0.0278, Loss: 0.0471, TrainAcc: 0.9880, ValAcc: 0.6305, ES: 99/500 | BestVal=0.6466@E91
+Finished running train at 11-22 00:02:46, running time = 5.81s.
+[E] ValAcc: 0.6466, TestAcc: 0.6491
+
+Before Check, remove_indices in train_mask:  27218
+Before Check, remove_indices in val_mask:  0
+Before Check, remove_indices in test_mask:  0
+Labeled samping in training set: 500/46198, ratio: 500%!!
+Check remove_indices in train_mask: 0
+Check remove_indices in val_mask: 0
+Check remove_indices in test_mask: 0
+Before pseudo labling, labeled samples in training set: 500/46198, ratio: 500%!!
+Loading pretrained LM features (explanations) ...
+LM_emb_path: prt_lm/arxiv_20232_#_train_LMs_pls/microsoft/deberta-base-seed4-labels500-lr2e-05.emb
+Constructing a large graph ...
+Finished large graph construction!...
+
+Number of parameters: 103848
+Start running train at 11-22 00:02:48
+Epoch: 0, Time: 0.0358, Loss: 4.3108, TrainAcc: 0.0040, ValAcc: 0.4557, ES: 00/500 | BestVal=0.4557@E0
+Epoch: 10, Time: 0.0277, Loss: 0.9105, TrainAcc: 0.7460, ValAcc: 0.5816, ES: 07/500 | BestVal=0.5898@E3
+Epoch: 20, Time: 0.0339, Loss: 0.7060, TrainAcc: 0.7720, ValAcc: 0.6028, ES: 00/500 | BestVal=0.6028@E20
+Epoch: 30, Time: 0.0341, Loss: 0.5667, TrainAcc: 0.8040, ValAcc: 0.6114, ES: 00/500 | BestVal=0.6114@E30
+Epoch: 40, Time: 0.0278, Loss: 0.4896, TrainAcc: 0.8360, ValAcc: 0.6156, ES: 01/500 | BestVal=0.6174@E39
+Epoch: 50, Time: 0.0279, Loss: 0.3792, TrainAcc: 0.8680, ValAcc: 0.6198, ES: 01/500 | BestVal=0.6208@E49
+Epoch: 60, Time: 0.0277, Loss: 0.2963, TrainAcc: 0.8940, ValAcc: 0.6148, ES: 06/500 | BestVal=0.6212@E54
+Epoch: 70, Time: 0.0277, Loss: 0.2163, TrainAcc: 0.9360, ValAcc: 0.6148, ES: 16/500 | BestVal=0.6212@E54
+Epoch: 80, Time: 0.0277, Loss: 0.1906, TrainAcc: 0.9420, ValAcc: 0.6163, ES: 26/500 | BestVal=0.6212@E54
+Epoch: 90, Time: 0.0277, Loss: 0.1397, TrainAcc: 0.9520, ValAcc: 0.5936, ES: 36/500 | BestVal=0.6212@E54
+Epoch: 100, Time: 0.0277, Loss: 0.0988, TrainAcc: 0.9800, ValAcc: 0.6087, ES: 46/500 | BestVal=0.6212@E54
+Epoch: 110, Time: 0.0277, Loss: 0.0946, TrainAcc: 0.9720, ValAcc: 0.6129, ES: 56/500 | BestVal=0.6212@E54
+Epoch: 120, Time: 0.0277, Loss: 0.0766, TrainAcc: 0.9840, ValAcc: 0.6115, ES: 66/500 | BestVal=0.6212@E54
+Epoch: 130, Time: 0.0277, Loss: 0.0591, TrainAcc: 0.9920, ValAcc: 0.6005, ES: 76/500 | BestVal=0.6212@E54
+Epoch: 140, Time: 0.0277, Loss: 0.0462, TrainAcc: 0.9920, ValAcc: 0.6004, ES: 86/500 | BestVal=0.6212@E54
+Epoch: 150, Time: 0.0277, Loss: 0.0414, TrainAcc: 0.9940, ValAcc: 0.6017, ES: 96/500 | BestVal=0.6212@E54
+Epoch: 160, Time: 0.0277, Loss: 0.0447, TrainAcc: 0.9840, ValAcc: 0.5956, ES: 106/500 | BestVal=0.6212@E54
+Epoch: 170, Time: 0.0277, Loss: 0.0293, TrainAcc: 0.9940, ValAcc: 0.5973, ES: 116/500 | BestVal=0.6212@E54
+Epoch: 180, Time: 0.0277, Loss: 0.0347, TrainAcc: 0.9920, ValAcc: 0.6025, ES: 126/500 | BestVal=0.6212@E54
+Epoch: 190, Time: 0.0276, Loss: 0.0320, TrainAcc: 0.9880, ValAcc: 0.5894, ES: 136/500 | BestVal=0.6212@E54
+Finished running train at 11-22 00:02:54, running time = 5.73s.
+[E] ValAcc: 0.6212, TestAcc: 0.6221
+
+[E] ValACC: 0.6547 ± 0.0240, TestAcc: 0.6552 ± 0.0247
+dataset: arxiv_2023
+device: 0
+gnn:
+  model:
+    hidden_dim: 128
+    name: GCN
+    num_layers: 2
+  train:
+    K: 25
+    dropout: 0.5
+    early_stop: 500
+    epochs: 200
+    feature_type: E
+    lr: 0.01
+    use_dgl: False
+    wd: 0.0
+    weight_decay: 0.0005
+lm:
+  model:
+    feat_shrink: 
+    name: microsoft/deberta-base
+  train:
+    GSL_data_split: True
+    att_dropout: 0.1
+    batch_size: 9
+    cla_dropout: 0.4
+    dropout: 0.3
+    epochs: 4
+    eval_patience: 50000
+    grad_acc_steps: 1
+    lr: 0.0001
+    use_gpt: False
+    warmup_epochs: 0.6
+    weight_decay: 0.0
+ratio: 500
+runs: 5
+seed: 4

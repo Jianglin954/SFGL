@@ -1,0 +1,1134 @@
+An import exception occurred
+Labeled samping in training set: 50/46198, ratio: 50%!!
+Loading OGB features...
+Constructing a large graph ...
+Finished large graph construction!...
+
+Number of parameters: 43944
+Start running train at 11-21 00:10:23
+Epoch: 0, Time: 0.0597, Loss: 4.1413, TrainAcc: 0.0200, ValAcc: 0.0188, ES: 00/500 | BestVal=0.0188@E0
+Epoch: 10, Time: 0.0318, Loss: 0.4942, TrainAcc: 0.8800, ValAcc: 0.1611, ES: 00/500 | BestVal=0.1611@E10
+Epoch: 20, Time: 0.0308, Loss: 0.0809, TrainAcc: 1.0000, ValAcc: 0.2963, ES: 00/500 | BestVal=0.2963@E20
+Epoch: 30, Time: 0.0256, Loss: 0.0340, TrainAcc: 1.0000, ValAcc: 0.3076, ES: 06/500 | BestVal=0.3092@E24
+Epoch: 40, Time: 0.0303, Loss: 0.0095, TrainAcc: 1.0000, ValAcc: 0.3545, ES: 00/500 | BestVal=0.3545@E40
+Epoch: 50, Time: 0.0256, Loss: 0.0039, TrainAcc: 1.0000, ValAcc: 0.3776, ES: 03/500 | BestVal=0.3789@E47
+Epoch: 60, Time: 0.0256, Loss: 0.0027, TrainAcc: 1.0000, ValAcc: 0.3684, ES: 13/500 | BestVal=0.3789@E47
+Epoch: 70, Time: 0.0256, Loss: 0.0015, TrainAcc: 1.0000, ValAcc: 0.3767, ES: 23/500 | BestVal=0.3789@E47
+Epoch: 80, Time: 0.0256, Loss: 0.0026, TrainAcc: 1.0000, ValAcc: 0.3779, ES: 02/500 | BestVal=0.3789@E78
+Epoch: 90, Time: 0.0305, Loss: 0.0016, TrainAcc: 1.0000, ValAcc: 0.3813, ES: 00/500 | BestVal=0.3813@E90
+Epoch: 100, Time: 0.0310, Loss: 0.0072, TrainAcc: 1.0000, ValAcc: 0.3896, ES: 00/500 | BestVal=0.3896@E100
+Epoch: 110, Time: 0.0256, Loss: 0.0029, TrainAcc: 1.0000, ValAcc: 0.3826, ES: 09/500 | BestVal=0.3902@E101
+Epoch: 120, Time: 0.0256, Loss: 0.0015, TrainAcc: 1.0000, ValAcc: 0.3763, ES: 19/500 | BestVal=0.3902@E101
+Epoch: 130, Time: 0.0256, Loss: 0.0009, TrainAcc: 1.0000, ValAcc: 0.3823, ES: 29/500 | BestVal=0.3902@E101
+Epoch: 140, Time: 0.0256, Loss: 0.0007, TrainAcc: 1.0000, ValAcc: 0.3826, ES: 39/500 | BestVal=0.3902@E101
+Epoch: 150, Time: 0.0256, Loss: 0.0014, TrainAcc: 1.0000, ValAcc: 0.3808, ES: 49/500 | BestVal=0.3902@E101
+Epoch: 160, Time: 0.0256, Loss: 0.0022, TrainAcc: 1.0000, ValAcc: 0.3806, ES: 59/500 | BestVal=0.3902@E101
+Epoch: 170, Time: 0.0256, Loss: 0.0005, TrainAcc: 1.0000, ValAcc: 0.3860, ES: 69/500 | BestVal=0.3902@E101
+Epoch: 180, Time: 0.0256, Loss: 0.0191, TrainAcc: 0.9800, ValAcc: 0.3734, ES: 79/500 | BestVal=0.3902@E101
+Epoch: 190, Time: 0.0256, Loss: 0.0008, TrainAcc: 1.0000, ValAcc: 0.3812, ES: 89/500 | BestVal=0.3902@E101
+Finished running train at 11-21 00:10:29, running time = 5.92s.
+[ogb] ValAcc: 0.3902, TestAcc: 0.3944
+
+Labeled samping in training set: 50/46198, ratio: 50%!!
+Loading OGB features...
+Constructing a large graph ...
+Finished large graph construction!...
+
+Number of parameters: 43944
+Start running train at 11-21 00:10:30
+Epoch: 0, Time: 0.0321, Loss: 4.5382, TrainAcc: 0.0600, ValAcc: 0.0170, ES: 00/500 | BestVal=0.0170@E0
+Epoch: 10, Time: 0.0309, Loss: 0.2419, TrainAcc: 0.9800, ValAcc: 0.2096, ES: 00/500 | BestVal=0.2096@E10
+Epoch: 20, Time: 0.0256, Loss: 0.0627, TrainAcc: 1.0000, ValAcc: 0.2882, ES: 03/500 | BestVal=0.3003@E17
+Epoch: 30, Time: 0.0427, Loss: 0.0186, TrainAcc: 1.0000, ValAcc: 0.3382, ES: 00/500 | BestVal=0.3382@E30
+Epoch: 40, Time: 0.0314, Loss: 0.0095, TrainAcc: 1.0000, ValAcc: 0.3459, ES: 00/500 | BestVal=0.3459@E40
+Epoch: 50, Time: 0.0257, Loss: 0.0035, TrainAcc: 1.0000, ValAcc: 0.3377, ES: 07/500 | BestVal=0.3482@E43
+Epoch: 60, Time: 0.0257, Loss: 0.0012, TrainAcc: 1.0000, ValAcc: 0.3298, ES: 17/500 | BestVal=0.3482@E43
+Epoch: 70, Time: 0.0257, Loss: 0.0012, TrainAcc: 1.0000, ValAcc: 0.3382, ES: 27/500 | BestVal=0.3482@E43
+Epoch: 80, Time: 0.0256, Loss: 0.0008, TrainAcc: 1.0000, ValAcc: 0.3386, ES: 37/500 | BestVal=0.3482@E43
+Epoch: 90, Time: 0.0256, Loss: 0.0009, TrainAcc: 1.0000, ValAcc: 0.3368, ES: 47/500 | BestVal=0.3482@E43
+Epoch: 100, Time: 0.0256, Loss: 0.0003, TrainAcc: 1.0000, ValAcc: 0.3340, ES: 57/500 | BestVal=0.3482@E43
+Epoch: 110, Time: 0.0256, Loss: 0.0012, TrainAcc: 1.0000, ValAcc: 0.3409, ES: 67/500 | BestVal=0.3482@E43
+Epoch: 120, Time: 0.0256, Loss: 0.0010, TrainAcc: 1.0000, ValAcc: 0.3406, ES: 77/500 | BestVal=0.3482@E43
+Epoch: 130, Time: 0.0257, Loss: 0.0007, TrainAcc: 1.0000, ValAcc: 0.3374, ES: 87/500 | BestVal=0.3482@E43
+Epoch: 140, Time: 0.0256, Loss: 0.0008, TrainAcc: 1.0000, ValAcc: 0.3387, ES: 97/500 | BestVal=0.3482@E43
+Epoch: 150, Time: 0.0256, Loss: 0.0007, TrainAcc: 1.0000, ValAcc: 0.3392, ES: 107/500 | BestVal=0.3482@E43
+Epoch: 160, Time: 0.0256, Loss: 0.0003, TrainAcc: 1.0000, ValAcc: 0.3393, ES: 117/500 | BestVal=0.3482@E43
+Epoch: 170, Time: 0.0256, Loss: 0.0004, TrainAcc: 1.0000, ValAcc: 0.3389, ES: 127/500 | BestVal=0.3482@E43
+Epoch: 180, Time: 0.0256, Loss: 0.0002, TrainAcc: 1.0000, ValAcc: 0.3370, ES: 137/500 | BestVal=0.3482@E43
+Epoch: 190, Time: 0.0256, Loss: 0.0014, TrainAcc: 1.0000, ValAcc: 0.3391, ES: 147/500 | BestVal=0.3482@E43
+Finished running train at 11-21 00:10:36, running time = 5.30s.
+[ogb] ValAcc: 0.3482, TestAcc: 0.3438
+
+Labeled samping in training set: 50/46198, ratio: 50%!!
+Loading OGB features...
+Constructing a large graph ...
+Finished large graph construction!...
+
+Number of parameters: 43944
+Start running train at 11-21 00:10:37
+Epoch: 0, Time: 0.0317, Loss: 4.8755, TrainAcc: 0.0000, ValAcc: 0.0139, ES: 00/500 | BestVal=0.0139@E0
+Epoch: 10, Time: 0.0309, Loss: 0.4947, TrainAcc: 0.9000, ValAcc: 0.2926, ES: 00/500 | BestVal=0.2926@E10
+Epoch: 20, Time: 0.0307, Loss: 0.0861, TrainAcc: 1.0000, ValAcc: 0.3884, ES: 00/500 | BestVal=0.3884@E20
+Epoch: 30, Time: 0.0256, Loss: 0.0190, TrainAcc: 1.0000, ValAcc: 0.3827, ES: 09/500 | BestVal=0.3905@E21
+Epoch: 40, Time: 0.0256, Loss: 0.0070, TrainAcc: 1.0000, ValAcc: 0.3771, ES: 19/500 | BestVal=0.3905@E21
+Epoch: 50, Time: 0.0256, Loss: 0.0045, TrainAcc: 1.0000, ValAcc: 0.3903, ES: 06/500 | BestVal=0.3916@E44
+Epoch: 60, Time: 0.0257, Loss: 0.0013, TrainAcc: 1.0000, ValAcc: 0.3930, ES: 01/500 | BestVal=0.3934@E59
+Epoch: 70, Time: 0.0311, Loss: 0.0039, TrainAcc: 1.0000, ValAcc: 0.3984, ES: 00/500 | BestVal=0.3984@E70
+Epoch: 80, Time: 0.0309, Loss: 0.0010, TrainAcc: 1.0000, ValAcc: 0.4001, ES: 00/500 | BestVal=0.4001@E80
+Epoch: 90, Time: 0.0256, Loss: 0.0009, TrainAcc: 1.0000, ValAcc: 0.3987, ES: 06/500 | BestVal=0.4021@E84
+Epoch: 100, Time: 0.0256, Loss: 0.0007, TrainAcc: 1.0000, ValAcc: 0.3981, ES: 16/500 | BestVal=0.4021@E84
+Epoch: 110, Time: 0.0256, Loss: 0.0016, TrainAcc: 1.0000, ValAcc: 0.3990, ES: 26/500 | BestVal=0.4021@E84
+Epoch: 120, Time: 0.0256, Loss: 0.0021, TrainAcc: 1.0000, ValAcc: 0.3987, ES: 36/500 | BestVal=0.4021@E84
+Epoch: 130, Time: 0.0256, Loss: 0.0005, TrainAcc: 1.0000, ValAcc: 0.4013, ES: 46/500 | BestVal=0.4021@E84
+Epoch: 140, Time: 0.0256, Loss: 0.0059, TrainAcc: 1.0000, ValAcc: 0.3988, ES: 56/500 | BestVal=0.4021@E84
+Epoch: 150, Time: 0.0256, Loss: 0.0005, TrainAcc: 1.0000, ValAcc: 0.4011, ES: 02/500 | BestVal=0.4023@E148
+Epoch: 160, Time: 0.0256, Loss: 0.0012, TrainAcc: 1.0000, ValAcc: 0.4024, ES: 03/500 | BestVal=0.4039@E157
+Epoch: 170, Time: 0.0256, Loss: 0.0006, TrainAcc: 1.0000, ValAcc: 0.3932, ES: 13/500 | BestVal=0.4039@E157
+Epoch: 180, Time: 0.0256, Loss: 0.0010, TrainAcc: 1.0000, ValAcc: 0.3951, ES: 23/500 | BestVal=0.4039@E157
+Epoch: 190, Time: 0.0256, Loss: 0.0005, TrainAcc: 1.0000, ValAcc: 0.3895, ES: 33/500 | BestVal=0.4039@E157
+Finished running train at 11-21 00:10:42, running time = 5.38s.
+[ogb] ValAcc: 0.4039, TestAcc: 0.3995
+
+Labeled samping in training set: 50/46198, ratio: 50%!!
+Loading OGB features...
+Constructing a large graph ...
+Finished large graph construction!...
+
+Number of parameters: 43944
+Start running train at 11-21 00:10:43
+Epoch: 0, Time: 0.0319, Loss: 3.7227, TrainAcc: 0.0200, ValAcc: 0.0185, ES: 00/500 | BestVal=0.0185@E0
+Epoch: 10, Time: 0.0310, Loss: 0.2214, TrainAcc: 0.9800, ValAcc: 0.2408, ES: 00/500 | BestVal=0.2408@E10
+Epoch: 20, Time: 0.0256, Loss: 0.0359, TrainAcc: 1.0000, ValAcc: 0.3629, ES: 04/500 | BestVal=0.3682@E16
+Epoch: 30, Time: 0.0317, Loss: 0.0269, TrainAcc: 1.0000, ValAcc: 0.3879, ES: 00/500 | BestVal=0.3879@E30
+Epoch: 40, Time: 0.0256, Loss: 0.0022, TrainAcc: 1.0000, ValAcc: 0.3963, ES: 03/500 | BestVal=0.3997@E37
+Epoch: 50, Time: 0.0312, Loss: 0.0039, TrainAcc: 1.0000, ValAcc: 0.4030, ES: 00/500 | BestVal=0.4030@E50
+Epoch: 60, Time: 0.0256, Loss: 0.0035, TrainAcc: 1.0000, ValAcc: 0.4024, ES: 09/500 | BestVal=0.4038@E51
+Epoch: 70, Time: 0.0256, Loss: 0.0007, TrainAcc: 1.0000, ValAcc: 0.4036, ES: 19/500 | BestVal=0.4038@E51
+Epoch: 80, Time: 0.0256, Loss: 0.0008, TrainAcc: 1.0000, ValAcc: 0.4013, ES: 09/500 | BestVal=0.4041@E71
+Epoch: 90, Time: 0.0256, Loss: 0.0007, TrainAcc: 1.0000, ValAcc: 0.4006, ES: 19/500 | BestVal=0.4041@E71
+Epoch: 100, Time: 0.0256, Loss: 0.0006, TrainAcc: 1.0000, ValAcc: 0.3987, ES: 29/500 | BestVal=0.4041@E71
+Epoch: 110, Time: 0.0256, Loss: 0.0004, TrainAcc: 1.0000, ValAcc: 0.4030, ES: 39/500 | BestVal=0.4041@E71
+Epoch: 120, Time: 0.0306, Loss: 0.0003, TrainAcc: 1.0000, ValAcc: 0.4055, ES: 00/500 | BestVal=0.4055@E120
+Epoch: 130, Time: 0.0256, Loss: 0.0003, TrainAcc: 1.0000, ValAcc: 0.4041, ES: 10/500 | BestVal=0.4055@E120
+Epoch: 140, Time: 0.0256, Loss: 0.0007, TrainAcc: 1.0000, ValAcc: 0.4030, ES: 20/500 | BestVal=0.4055@E120
+Epoch: 150, Time: 0.0256, Loss: 0.0010, TrainAcc: 1.0000, ValAcc: 0.3990, ES: 30/500 | BestVal=0.4055@E120
+Epoch: 160, Time: 0.0256, Loss: 0.0003, TrainAcc: 1.0000, ValAcc: 0.4004, ES: 40/500 | BestVal=0.4055@E120
+Epoch: 170, Time: 0.0256, Loss: 0.0006, TrainAcc: 1.0000, ValAcc: 0.4027, ES: 50/500 | BestVal=0.4055@E120
+Epoch: 180, Time: 0.0256, Loss: 0.0003, TrainAcc: 1.0000, ValAcc: 0.4042, ES: 60/500 | BestVal=0.4055@E120
+Epoch: 190, Time: 0.0256, Loss: 0.0004, TrainAcc: 1.0000, ValAcc: 0.4023, ES: 70/500 | BestVal=0.4055@E120
+Finished running train at 11-21 00:10:49, running time = 5.34s.
+[ogb] ValAcc: 0.4055, TestAcc: 0.4009
+
+Labeled samping in training set: 50/46198, ratio: 50%!!
+Loading OGB features...
+Constructing a large graph ...
+Finished large graph construction!...
+
+Number of parameters: 43944
+Start running train at 11-21 00:10:50
+Epoch: 0, Time: 0.0317, Loss: 3.9825, TrainAcc: 0.0400, ValAcc: 0.0249, ES: 00/500 | BestVal=0.0249@E0
+Epoch: 10, Time: 0.0309, Loss: 0.3235, TrainAcc: 0.9400, ValAcc: 0.1861, ES: 00/500 | BestVal=0.1861@E10
+Epoch: 20, Time: 0.0308, Loss: 0.0689, TrainAcc: 1.0000, ValAcc: 0.2714, ES: 00/500 | BestVal=0.2714@E20
+Epoch: 30, Time: 0.0309, Loss: 0.0284, TrainAcc: 1.0000, ValAcc: 0.3341, ES: 00/500 | BestVal=0.3341@E30
+Epoch: 40, Time: 0.0256, Loss: 0.0079, TrainAcc: 1.0000, ValAcc: 0.3560, ES: 03/500 | BestVal=0.3602@E37
+Epoch: 50, Time: 0.0256, Loss: 0.0041, TrainAcc: 1.0000, ValAcc: 0.3573, ES: 13/500 | BestVal=0.3602@E37
+Epoch: 60, Time: 0.0256, Loss: 0.0022, TrainAcc: 1.0000, ValAcc: 0.3629, ES: 06/500 | BestVal=0.3641@E54
+Epoch: 70, Time: 0.0310, Loss: 0.0024, TrainAcc: 1.0000, ValAcc: 0.3653, ES: 00/500 | BestVal=0.3653@E70
+Epoch: 80, Time: 0.0305, Loss: 0.0023, TrainAcc: 1.0000, ValAcc: 0.3673, ES: 00/500 | BestVal=0.3673@E80
+Epoch: 90, Time: 0.0256, Loss: 0.0010, TrainAcc: 1.0000, ValAcc: 0.3574, ES: 10/500 | BestVal=0.3673@E80
+Epoch: 100, Time: 0.0256, Loss: 0.0008, TrainAcc: 1.0000, ValAcc: 0.3565, ES: 20/500 | BestVal=0.3673@E80
+Epoch: 110, Time: 0.0256, Loss: 0.0005, TrainAcc: 1.0000, ValAcc: 0.3577, ES: 30/500 | BestVal=0.3673@E80
+Epoch: 120, Time: 0.0256, Loss: 0.0015, TrainAcc: 1.0000, ValAcc: 0.3589, ES: 40/500 | BestVal=0.3673@E80
+Epoch: 130, Time: 0.0256, Loss: 0.0006, TrainAcc: 1.0000, ValAcc: 0.3609, ES: 50/500 | BestVal=0.3673@E80
+Epoch: 140, Time: 0.0256, Loss: 0.0013, TrainAcc: 1.0000, ValAcc: 0.3588, ES: 60/500 | BestVal=0.3673@E80
+Epoch: 150, Time: 0.0256, Loss: 0.0007, TrainAcc: 1.0000, ValAcc: 0.3577, ES: 70/500 | BestVal=0.3673@E80
+Epoch: 160, Time: 0.0256, Loss: 0.0006, TrainAcc: 1.0000, ValAcc: 0.3598, ES: 80/500 | BestVal=0.3673@E80
+Epoch: 170, Time: 0.0256, Loss: 0.0003, TrainAcc: 1.0000, ValAcc: 0.3613, ES: 90/500 | BestVal=0.3673@E80
+Epoch: 180, Time: 0.0257, Loss: 0.0005, TrainAcc: 1.0000, ValAcc: 0.3592, ES: 100/500 | BestVal=0.3673@E80
+Epoch: 190, Time: 0.0256, Loss: 0.0006, TrainAcc: 1.0000, ValAcc: 0.3631, ES: 110/500 | BestVal=0.3673@E80
+Finished running train at 11-21 00:10:55, running time = 5.35s.
+[ogb] ValAcc: 0.3673, TestAcc: 0.3658
+
+[ogb] ValACC: 0.3830 ± 0.0248, TestAcc: 0.3809 ± 0.0251
+dataset: arxiv_2023
+device: 0
+gnn:
+  model:
+    hidden_dim: 128
+    name: GCN
+    num_layers: 2
+  train:
+    K: 25
+    dropout: 0.5
+    early_stop: 500
+    epochs: 200
+    feature_type: ogb
+    lr: 0.01
+    use_dgl: False
+    wd: 0.0
+    weight_decay: 0.0005
+lm:
+  model:
+    feat_shrink: 
+    name: microsoft/deberta-base
+  train:
+    GSL_data_split: True
+    att_dropout: 0.1
+    batch_size: 9
+    cla_dropout: 0.4
+    dropout: 0.3
+    epochs: 4
+    eval_patience: 50000
+    grad_acc_steps: 1
+    lr: 0.0001
+    use_gpt: False
+    warmup_epochs: 0.6
+    weight_decay: 0.0
+ratio: 50
+runs: 5
+seed: 4
+An import exception occurred
+Labeled samping in training set: 100/46198, ratio: 100%!!
+Loading OGB features...
+Constructing a large graph ...
+Finished large graph construction!...
+
+Number of parameters: 43944
+Start running train at 11-21 00:11:07
+Epoch: 0, Time: 0.0549, Loss: 4.0144, TrainAcc: 0.0400, ValAcc: 0.0128, ES: 00/500 | BestVal=0.0128@E0
+Epoch: 10, Time: 0.0333, Loss: 0.8108, TrainAcc: 0.7900, ValAcc: 0.2373, ES: 00/500 | BestVal=0.2373@E10
+Epoch: 20, Time: 0.0256, Loss: 0.2503, TrainAcc: 0.9800, ValAcc: 0.3109, ES: 04/500 | BestVal=0.3136@E16
+Epoch: 30, Time: 0.0371, Loss: 0.1014, TrainAcc: 1.0000, ValAcc: 0.3566, ES: 00/500 | BestVal=0.3566@E30
+Epoch: 40, Time: 0.0311, Loss: 0.0308, TrainAcc: 1.0000, ValAcc: 0.3813, ES: 00/500 | BestVal=0.3813@E40
+Epoch: 50, Time: 0.0256, Loss: 0.0137, TrainAcc: 1.0000, ValAcc: 0.3964, ES: 02/500 | BestVal=0.3975@E48
+Epoch: 60, Time: 0.0256, Loss: 0.0129, TrainAcc: 1.0000, ValAcc: 0.4045, ES: 06/500 | BestVal=0.4049@E54
+Epoch: 70, Time: 0.0256, Loss: 0.0051, TrainAcc: 1.0000, ValAcc: 0.4179, ES: 02/500 | BestVal=0.4198@E68
+Epoch: 80, Time: 0.0256, Loss: 0.0059, TrainAcc: 1.0000, ValAcc: 0.3973, ES: 12/500 | BestVal=0.4198@E68
+Epoch: 90, Time: 0.0256, Loss: 0.0045, TrainAcc: 1.0000, ValAcc: 0.4222, ES: 03/500 | BestVal=0.4228@E87
+Epoch: 100, Time: 0.0256, Loss: 0.0039, TrainAcc: 1.0000, ValAcc: 0.4173, ES: 13/500 | BestVal=0.4228@E87
+Epoch: 110, Time: 0.0256, Loss: 0.0024, TrainAcc: 1.0000, ValAcc: 0.4173, ES: 23/500 | BestVal=0.4228@E87
+Epoch: 120, Time: 0.0256, Loss: 0.0025, TrainAcc: 1.0000, ValAcc: 0.4061, ES: 33/500 | BestVal=0.4228@E87
+Epoch: 130, Time: 0.0256, Loss: 0.0016, TrainAcc: 1.0000, ValAcc: 0.4162, ES: 43/500 | BestVal=0.4228@E87
+Epoch: 140, Time: 0.0256, Loss: 0.0021, TrainAcc: 1.0000, ValAcc: 0.3955, ES: 53/500 | BestVal=0.4228@E87
+Epoch: 150, Time: 0.0256, Loss: 0.0016, TrainAcc: 1.0000, ValAcc: 0.4142, ES: 63/500 | BestVal=0.4228@E87
+Epoch: 160, Time: 0.0256, Loss: 0.0020, TrainAcc: 1.0000, ValAcc: 0.4211, ES: 73/500 | BestVal=0.4228@E87
+Epoch: 170, Time: 0.0256, Loss: 0.0014, TrainAcc: 1.0000, ValAcc: 0.4098, ES: 83/500 | BestVal=0.4228@E87
+Epoch: 180, Time: 0.0256, Loss: 0.0058, TrainAcc: 1.0000, ValAcc: 0.4143, ES: 93/500 | BestVal=0.4228@E87
+Epoch: 190, Time: 0.0256, Loss: 0.0027, TrainAcc: 1.0000, ValAcc: 0.4062, ES: 103/500 | BestVal=0.4228@E87
+Finished running train at 11-21 00:11:13, running time = 5.75s.
+[ogb] ValAcc: 0.4228, TestAcc: 0.4235
+
+Labeled samping in training set: 100/46198, ratio: 100%!!
+Loading OGB features...
+Constructing a large graph ...
+Finished large graph construction!...
+
+Number of parameters: 43944
+Start running train at 11-21 00:11:14
+Epoch: 0, Time: 0.0328, Loss: 4.6923, TrainAcc: 0.0300, ValAcc: 0.0153, ES: 00/500 | BestVal=0.0153@E0
+Epoch: 10, Time: 0.0306, Loss: 0.5635, TrainAcc: 0.8800, ValAcc: 0.1588, ES: 00/500 | BestVal=0.1588@E10
+Epoch: 20, Time: 0.0305, Loss: 0.1432, TrainAcc: 1.0000, ValAcc: 0.3602, ES: 00/500 | BestVal=0.3602@E20
+Epoch: 30, Time: 0.0301, Loss: 0.0639, TrainAcc: 1.0000, ValAcc: 0.4060, ES: 00/500 | BestVal=0.4060@E30
+Epoch: 40, Time: 0.0256, Loss: 0.0157, TrainAcc: 1.0000, ValAcc: 0.4008, ES: 10/500 | BestVal=0.4060@E30
+Epoch: 50, Time: 0.0256, Loss: 0.0071, TrainAcc: 1.0000, ValAcc: 0.3825, ES: 20/500 | BestVal=0.4060@E30
+Epoch: 60, Time: 0.0256, Loss: 0.0047, TrainAcc: 1.0000, ValAcc: 0.3900, ES: 30/500 | BestVal=0.4060@E30
+Epoch: 70, Time: 0.0310, Loss: 0.0028, TrainAcc: 1.0000, ValAcc: 0.4105, ES: 00/500 | BestVal=0.4105@E70
+Epoch: 80, Time: 0.0256, Loss: 0.0033, TrainAcc: 1.0000, ValAcc: 0.3817, ES: 08/500 | BestVal=0.4108@E72
+Epoch: 90, Time: 0.0256, Loss: 0.0040, TrainAcc: 1.0000, ValAcc: 0.3991, ES: 18/500 | BestVal=0.4108@E72
+Epoch: 100, Time: 0.0256, Loss: 0.0025, TrainAcc: 1.0000, ValAcc: 0.4079, ES: 02/500 | BestVal=0.4115@E98
+Epoch: 110, Time: 0.0256, Loss: 0.0013, TrainAcc: 1.0000, ValAcc: 0.3979, ES: 12/500 | BestVal=0.4115@E98
+Epoch: 120, Time: 0.0256, Loss: 0.0040, TrainAcc: 1.0000, ValAcc: 0.3930, ES: 22/500 | BestVal=0.4115@E98
+Epoch: 130, Time: 0.0256, Loss: 0.0010, TrainAcc: 1.0000, ValAcc: 0.3947, ES: 32/500 | BestVal=0.4115@E98
+Epoch: 140, Time: 0.0256, Loss: 0.0010, TrainAcc: 1.0000, ValAcc: 0.3949, ES: 42/500 | BestVal=0.4115@E98
+Epoch: 150, Time: 0.0256, Loss: 0.0014, TrainAcc: 1.0000, ValAcc: 0.3946, ES: 52/500 | BestVal=0.4115@E98
+Epoch: 160, Time: 0.0256, Loss: 0.0011, TrainAcc: 1.0000, ValAcc: 0.3894, ES: 62/500 | BestVal=0.4115@E98
+Epoch: 170, Time: 0.0256, Loss: 0.0007, TrainAcc: 1.0000, ValAcc: 0.3992, ES: 72/500 | BestVal=0.4115@E98
+Epoch: 180, Time: 0.0256, Loss: 0.0006, TrainAcc: 1.0000, ValAcc: 0.3942, ES: 82/500 | BestVal=0.4115@E98
+Epoch: 190, Time: 0.0256, Loss: 0.0007, TrainAcc: 1.0000, ValAcc: 0.3957, ES: 92/500 | BestVal=0.4115@E98
+Finished running train at 11-21 00:11:19, running time = 5.34s.
+[ogb] ValAcc: 0.4115, TestAcc: 0.4096
+
+Labeled samping in training set: 100/46198, ratio: 100%!!
+Loading OGB features...
+Constructing a large graph ...
+Finished large graph construction!...
+
+Number of parameters: 43944
+Start running train at 11-21 00:11:20
+Epoch: 0, Time: 0.0363, Loss: 4.9702, TrainAcc: 0.0000, ValAcc: 0.0061, ES: 00/500 | BestVal=0.0061@E0
+Epoch: 10, Time: 0.0256, Loss: 0.8065, TrainAcc: 0.8000, ValAcc: 0.2931, ES: 02/500 | BestVal=0.3048@E8
+Epoch: 20, Time: 0.0321, Loss: 0.2545, TrainAcc: 0.9700, ValAcc: 0.3979, ES: 00/500 | BestVal=0.3979@E20
+Epoch: 30, Time: 0.0256, Loss: 0.1013, TrainAcc: 0.9700, ValAcc: 0.4108, ES: 05/500 | BestVal=0.4149@E25
+Epoch: 40, Time: 0.0256, Loss: 0.0391, TrainAcc: 1.0000, ValAcc: 0.3844, ES: 06/500 | BestVal=0.4232@E34
+Epoch: 50, Time: 0.0256, Loss: 0.0169, TrainAcc: 1.0000, ValAcc: 0.4003, ES: 16/500 | BestVal=0.4232@E34
+Epoch: 60, Time: 0.0256, Loss: 0.0107, TrainAcc: 1.0000, ValAcc: 0.4104, ES: 26/500 | BestVal=0.4232@E34
+Epoch: 70, Time: 0.0256, Loss: 0.0373, TrainAcc: 0.9900, ValAcc: 0.4035, ES: 05/500 | BestVal=0.4253@E65
+Epoch: 80, Time: 0.0313, Loss: 0.0034, TrainAcc: 1.0000, ValAcc: 0.4345, ES: 00/500 | BestVal=0.4345@E80
+Epoch: 90, Time: 0.0256, Loss: 0.0106, TrainAcc: 1.0000, ValAcc: 0.3978, ES: 10/500 | BestVal=0.4345@E80
+Epoch: 100, Time: 0.0256, Loss: 0.0050, TrainAcc: 1.0000, ValAcc: 0.4220, ES: 20/500 | BestVal=0.4345@E80
+Epoch: 110, Time: 0.0256, Loss: 0.0046, TrainAcc: 1.0000, ValAcc: 0.4302, ES: 30/500 | BestVal=0.4345@E80
+Epoch: 120, Time: 0.0256, Loss: 0.0081, TrainAcc: 1.0000, ValAcc: 0.4321, ES: 40/500 | BestVal=0.4345@E80
+Epoch: 130, Time: 0.0256, Loss: 0.0019, TrainAcc: 1.0000, ValAcc: 0.4277, ES: 07/500 | BestVal=0.4353@E123
+Epoch: 140, Time: 0.0256, Loss: 0.0024, TrainAcc: 1.0000, ValAcc: 0.4224, ES: 17/500 | BestVal=0.4353@E123
+Epoch: 150, Time: 0.0256, Loss: 0.0013, TrainAcc: 1.0000, ValAcc: 0.4229, ES: 27/500 | BestVal=0.4353@E123
+Epoch: 160, Time: 0.0256, Loss: 0.0012, TrainAcc: 1.0000, ValAcc: 0.4367, ES: 05/500 | BestVal=0.4399@E155
+Epoch: 170, Time: 0.0256, Loss: 0.0015, TrainAcc: 1.0000, ValAcc: 0.4313, ES: 15/500 | BestVal=0.4399@E155
+Epoch: 180, Time: 0.0256, Loss: 0.0039, TrainAcc: 1.0000, ValAcc: 0.4314, ES: 25/500 | BestVal=0.4399@E155
+Epoch: 190, Time: 0.0256, Loss: 0.0012, TrainAcc: 1.0000, ValAcc: 0.4232, ES: 35/500 | BestVal=0.4399@E155
+Finished running train at 11-21 00:11:26, running time = 5.50s.
+[ogb] ValAcc: 0.4399, TestAcc: 0.4213
+
+Labeled samping in training set: 100/46198, ratio: 100%!!
+Loading OGB features...
+Constructing a large graph ...
+Finished large graph construction!...
+
+Number of parameters: 43944
+Start running train at 11-21 00:11:27
+Epoch: 0, Time: 0.0329, Loss: 3.7322, TrainAcc: 0.0400, ValAcc: 0.0070, ES: 00/500 | BestVal=0.0070@E0
+Epoch: 10, Time: 0.0308, Loss: 0.6916, TrainAcc: 0.8500, ValAcc: 0.1927, ES: 00/500 | BestVal=0.1927@E10
+Epoch: 20, Time: 0.0305, Loss: 0.2025, TrainAcc: 0.9800, ValAcc: 0.3789, ES: 00/500 | BestVal=0.3789@E20
+Epoch: 30, Time: 0.0256, Loss: 0.0718, TrainAcc: 0.9900, ValAcc: 0.3744, ES: 07/500 | BestVal=0.3995@E23
+Epoch: 40, Time: 0.0309, Loss: 0.0198, TrainAcc: 1.0000, ValAcc: 0.4051, ES: 00/500 | BestVal=0.4051@E40
+Epoch: 50, Time: 0.0256, Loss: 0.0115, TrainAcc: 1.0000, ValAcc: 0.4070, ES: 04/500 | BestVal=0.4177@E46
+Epoch: 60, Time: 0.0256, Loss: 0.0112, TrainAcc: 1.0000, ValAcc: 0.4079, ES: 14/500 | BestVal=0.4177@E46
+Epoch: 70, Time: 0.0256, Loss: 0.0053, TrainAcc: 1.0000, ValAcc: 0.4088, ES: 24/500 | BestVal=0.4177@E46
+Epoch: 80, Time: 0.0256, Loss: 0.0083, TrainAcc: 1.0000, ValAcc: 0.4065, ES: 34/500 | BestVal=0.4177@E46
+Epoch: 90, Time: 0.0256, Loss: 0.0019, TrainAcc: 1.0000, ValAcc: 0.4067, ES: 44/500 | BestVal=0.4177@E46
+Epoch: 100, Time: 0.0256, Loss: 0.0037, TrainAcc: 1.0000, ValAcc: 0.4168, ES: 54/500 | BestVal=0.4177@E46
+Epoch: 110, Time: 0.0256, Loss: 0.0019, TrainAcc: 1.0000, ValAcc: 0.4055, ES: 64/500 | BestVal=0.4177@E46
+Epoch: 120, Time: 0.0256, Loss: 0.0012, TrainAcc: 1.0000, ValAcc: 0.4089, ES: 74/500 | BestVal=0.4177@E46
+Epoch: 130, Time: 0.0256, Loss: 0.0025, TrainAcc: 1.0000, ValAcc: 0.4060, ES: 84/500 | BestVal=0.4177@E46
+Epoch: 140, Time: 0.0256, Loss: 0.0018, TrainAcc: 1.0000, ValAcc: 0.3995, ES: 94/500 | BestVal=0.4177@E46
+Epoch: 150, Time: 0.0256, Loss: 0.0044, TrainAcc: 1.0000, ValAcc: 0.4115, ES: 104/500 | BestVal=0.4177@E46
+Epoch: 160, Time: 0.0256, Loss: 0.0015, TrainAcc: 1.0000, ValAcc: 0.4104, ES: 114/500 | BestVal=0.4177@E46
+Epoch: 170, Time: 0.0256, Loss: 0.0009, TrainAcc: 1.0000, ValAcc: 0.4005, ES: 124/500 | BestVal=0.4177@E46
+Epoch: 180, Time: 0.0256, Loss: 0.0019, TrainAcc: 1.0000, ValAcc: 0.4071, ES: 134/500 | BestVal=0.4177@E46
+Epoch: 190, Time: 0.0256, Loss: 0.0009, TrainAcc: 1.0000, ValAcc: 0.3939, ES: 144/500 | BestVal=0.4177@E46
+Finished running train at 11-21 00:11:32, running time = 5.31s.
+[ogb] ValAcc: 0.4177, TestAcc: 0.4147
+
+Labeled samping in training set: 100/46198, ratio: 100%!!
+Loading OGB features...
+Constructing a large graph ...
+Finished large graph construction!...
+
+Number of parameters: 43944
+Start running train at 11-21 00:11:33
+Epoch: 0, Time: 0.0323, Loss: 3.9558, TrainAcc: 0.0300, ValAcc: 0.0094, ES: 00/500 | BestVal=0.0094@E0
+Epoch: 10, Time: 0.0304, Loss: 0.7726, TrainAcc: 0.8200, ValAcc: 0.2745, ES: 00/500 | BestVal=0.2745@E10
+Epoch: 20, Time: 0.0317, Loss: 0.1956, TrainAcc: 0.9700, ValAcc: 0.3951, ES: 00/500 | BestVal=0.3951@E20
+Epoch: 30, Time: 0.0256, Loss: 0.0737, TrainAcc: 1.0000, ValAcc: 0.4258, ES: 02/500 | BestVal=0.4305@E28
+Epoch: 40, Time: 0.0256, Loss: 0.0259, TrainAcc: 1.0000, ValAcc: 0.4298, ES: 03/500 | BestVal=0.4399@E37
+Epoch: 50, Time: 0.0256, Loss: 0.0270, TrainAcc: 0.9900, ValAcc: 0.4350, ES: 13/500 | BestVal=0.4399@E37
+Epoch: 60, Time: 0.0258, Loss: 0.0045, TrainAcc: 1.0000, ValAcc: 0.4504, ES: 01/500 | BestVal=0.4508@E59
+Epoch: 70, Time: 0.0256, Loss: 0.0046, TrainAcc: 1.0000, ValAcc: 0.4277, ES: 11/500 | BestVal=0.4508@E59
+Epoch: 80, Time: 0.0256, Loss: 0.0073, TrainAcc: 1.0000, ValAcc: 0.4416, ES: 21/500 | BestVal=0.4508@E59
+Epoch: 90, Time: 0.0255, Loss: 0.0046, TrainAcc: 1.0000, ValAcc: 0.4421, ES: 31/500 | BestVal=0.4508@E59
+Epoch: 100, Time: 0.0256, Loss: 0.0017, TrainAcc: 1.0000, ValAcc: 0.4260, ES: 41/500 | BestVal=0.4508@E59
+Epoch: 110, Time: 0.0256, Loss: 0.0012, TrainAcc: 1.0000, ValAcc: 0.4379, ES: 51/500 | BestVal=0.4508@E59
+Epoch: 120, Time: 0.0256, Loss: 0.0028, TrainAcc: 1.0000, ValAcc: 0.4359, ES: 61/500 | BestVal=0.4508@E59
+Epoch: 130, Time: 0.0256, Loss: 0.0015, TrainAcc: 1.0000, ValAcc: 0.4282, ES: 71/500 | BestVal=0.4508@E59
+Epoch: 140, Time: 0.0256, Loss: 0.0015, TrainAcc: 1.0000, ValAcc: 0.4429, ES: 81/500 | BestVal=0.4508@E59
+Epoch: 150, Time: 0.0256, Loss: 0.0011, TrainAcc: 1.0000, ValAcc: 0.4369, ES: 91/500 | BestVal=0.4508@E59
+Epoch: 160, Time: 0.0256, Loss: 0.0015, TrainAcc: 1.0000, ValAcc: 0.4351, ES: 101/500 | BestVal=0.4508@E59
+Epoch: 170, Time: 0.0256, Loss: 0.0028, TrainAcc: 1.0000, ValAcc: 0.4258, ES: 111/500 | BestVal=0.4508@E59
+Epoch: 180, Time: 0.0256, Loss: 0.0008, TrainAcc: 1.0000, ValAcc: 0.4293, ES: 121/500 | BestVal=0.4508@E59
+Epoch: 190, Time: 0.0256, Loss: 0.0008, TrainAcc: 1.0000, ValAcc: 0.4304, ES: 131/500 | BestVal=0.4508@E59
+Finished running train at 11-21 00:11:39, running time = 5.32s.
+[ogb] ValAcc: 0.4508, TestAcc: 0.4455
+
+[ogb] ValACC: 0.4285 ± 0.0163, TestAcc: 0.4229 ± 0.0137
+dataset: arxiv_2023
+device: 0
+gnn:
+  model:
+    hidden_dim: 128
+    name: GCN
+    num_layers: 2
+  train:
+    K: 25
+    dropout: 0.5
+    early_stop: 500
+    epochs: 200
+    feature_type: ogb
+    lr: 0.01
+    use_dgl: False
+    wd: 0.0
+    weight_decay: 0.0005
+lm:
+  model:
+    feat_shrink: 
+    name: microsoft/deberta-base
+  train:
+    GSL_data_split: True
+    att_dropout: 0.1
+    batch_size: 9
+    cla_dropout: 0.4
+    dropout: 0.3
+    epochs: 4
+    eval_patience: 50000
+    grad_acc_steps: 1
+    lr: 0.0001
+    use_gpt: False
+    warmup_epochs: 0.6
+    weight_decay: 0.0
+ratio: 100
+runs: 5
+seed: 4
+An import exception occurred
+Labeled samping in training set: 150/46198, ratio: 150%!!
+Loading OGB features...
+Constructing a large graph ...
+Finished large graph construction!...
+
+Number of parameters: 43944
+Start running train at 11-21 00:11:55
+Epoch: 0, Time: 0.0617, Loss: 4.0127, TrainAcc: 0.0333, ValAcc: 0.0065, ES: 00/500 | BestVal=0.0065@E0
+Epoch: 10, Time: 0.0321, Loss: 1.1101, TrainAcc: 0.7133, ValAcc: 0.2421, ES: 00/500 | BestVal=0.2421@E10
+Epoch: 20, Time: 0.0317, Loss: 0.4310, TrainAcc: 0.9200, ValAcc: 0.3459, ES: 00/500 | BestVal=0.3459@E20
+Epoch: 30, Time: 0.0258, Loss: 0.1596, TrainAcc: 1.0000, ValAcc: 0.3751, ES: 01/500 | BestVal=0.3882@E29
+Epoch: 40, Time: 0.0307, Loss: 0.0486, TrainAcc: 1.0000, ValAcc: 0.4000, ES: 00/500 | BestVal=0.4000@E40
+Epoch: 50, Time: 0.0303, Loss: 0.0345, TrainAcc: 1.0000, ValAcc: 0.4298, ES: 00/500 | BestVal=0.4298@E50
+Epoch: 60, Time: 0.0256, Loss: 0.0198, TrainAcc: 1.0000, ValAcc: 0.4160, ES: 07/500 | BestVal=0.4298@E53
+Epoch: 70, Time: 0.0256, Loss: 0.0128, TrainAcc: 1.0000, ValAcc: 0.4269, ES: 17/500 | BestVal=0.4298@E53
+Epoch: 80, Time: 0.0256, Loss: 0.0081, TrainAcc: 1.0000, ValAcc: 0.4292, ES: 07/500 | BestVal=0.4302@E73
+Epoch: 90, Time: 0.0257, Loss: 0.0114, TrainAcc: 0.9933, ValAcc: 0.4255, ES: 05/500 | BestVal=0.4320@E85
+Epoch: 100, Time: 0.0256, Loss: 0.0063, TrainAcc: 1.0000, ValAcc: 0.4265, ES: 07/500 | BestVal=0.4329@E93
+Epoch: 110, Time: 0.0256, Loss: 0.0035, TrainAcc: 1.0000, ValAcc: 0.4200, ES: 17/500 | BestVal=0.4329@E93
+Epoch: 120, Time: 0.0256, Loss: 0.0051, TrainAcc: 1.0000, ValAcc: 0.4242, ES: 27/500 | BestVal=0.4329@E93
+Epoch: 130, Time: 0.0257, Loss: 0.0040, TrainAcc: 1.0000, ValAcc: 0.4278, ES: 37/500 | BestVal=0.4329@E93
+Epoch: 140, Time: 0.0256, Loss: 0.0048, TrainAcc: 1.0000, ValAcc: 0.4267, ES: 07/500 | BestVal=0.4329@E133
+Epoch: 150, Time: 0.0308, Loss: 0.0018, TrainAcc: 1.0000, ValAcc: 0.4345, ES: 00/500 | BestVal=0.4345@E150
+Epoch: 160, Time: 0.0256, Loss: 0.0028, TrainAcc: 1.0000, ValAcc: 0.4210, ES: 09/500 | BestVal=0.4352@E151
+Epoch: 170, Time: 0.0256, Loss: 0.0027, TrainAcc: 1.0000, ValAcc: 0.4133, ES: 19/500 | BestVal=0.4352@E151
+Epoch: 180, Time: 0.0256, Loss: 0.0071, TrainAcc: 1.0000, ValAcc: 0.4193, ES: 29/500 | BestVal=0.4352@E151
+Epoch: 190, Time: 0.0256, Loss: 0.0017, TrainAcc: 1.0000, ValAcc: 0.4250, ES: 39/500 | BestVal=0.4352@E151
+Finished running train at 11-21 00:12:01, running time = 5.83s.
+[ogb] ValAcc: 0.4352, TestAcc: 0.4358
+
+Labeled samping in training set: 150/46198, ratio: 150%!!
+Loading OGB features...
+Constructing a large graph ...
+Finished large graph construction!...
+
+Number of parameters: 43944
+Start running train at 11-21 00:12:02
+Epoch: 0, Time: 0.0320, Loss: 4.9025, TrainAcc: 0.0200, ValAcc: 0.0156, ES: 00/500 | BestVal=0.0156@E0
+Epoch: 10, Time: 0.0308, Loss: 0.9337, TrainAcc: 0.7800, ValAcc: 0.2004, ES: 00/500 | BestVal=0.2004@E10
+Epoch: 20, Time: 0.0312, Loss: 0.3480, TrainAcc: 0.9600, ValAcc: 0.3820, ES: 00/500 | BestVal=0.3820@E20
+Epoch: 30, Time: 0.0256, Loss: 0.1395, TrainAcc: 0.9867, ValAcc: 0.3854, ES: 04/500 | BestVal=0.4132@E26
+Epoch: 40, Time: 0.0257, Loss: 0.0444, TrainAcc: 1.0000, ValAcc: 0.4209, ES: 01/500 | BestVal=0.4211@E39
+Epoch: 50, Time: 0.0256, Loss: 0.0212, TrainAcc: 0.9933, ValAcc: 0.4114, ES: 11/500 | BestVal=0.4211@E39
+Epoch: 60, Time: 0.0256, Loss: 0.0107, TrainAcc: 1.0000, ValAcc: 0.4134, ES: 21/500 | BestVal=0.4211@E39
+Epoch: 70, Time: 0.0256, Loss: 0.0099, TrainAcc: 1.0000, ValAcc: 0.3996, ES: 31/500 | BestVal=0.4211@E39
+Epoch: 80, Time: 0.0256, Loss: 0.0057, TrainAcc: 1.0000, ValAcc: 0.4039, ES: 41/500 | BestVal=0.4211@E39
+Epoch: 90, Time: 0.0256, Loss: 0.0070, TrainAcc: 1.0000, ValAcc: 0.3978, ES: 51/500 | BestVal=0.4211@E39
+Epoch: 100, Time: 0.0256, Loss: 0.0043, TrainAcc: 1.0000, ValAcc: 0.4017, ES: 61/500 | BestVal=0.4211@E39
+Epoch: 110, Time: 0.0256, Loss: 0.0030, TrainAcc: 1.0000, ValAcc: 0.4049, ES: 71/500 | BestVal=0.4211@E39
+Epoch: 120, Time: 0.0256, Loss: 0.0082, TrainAcc: 1.0000, ValAcc: 0.3934, ES: 81/500 | BestVal=0.4211@E39
+Epoch: 130, Time: 0.0256, Loss: 0.0023, TrainAcc: 1.0000, ValAcc: 0.4078, ES: 91/500 | BestVal=0.4211@E39
+Epoch: 140, Time: 0.0256, Loss: 0.0028, TrainAcc: 1.0000, ValAcc: 0.4027, ES: 101/500 | BestVal=0.4211@E39
+Epoch: 150, Time: 0.0256, Loss: 0.0028, TrainAcc: 1.0000, ValAcc: 0.3870, ES: 111/500 | BestVal=0.4211@E39
+Epoch: 160, Time: 0.0256, Loss: 0.0025, TrainAcc: 1.0000, ValAcc: 0.3893, ES: 121/500 | BestVal=0.4211@E39
+Epoch: 170, Time: 0.0256, Loss: 0.0030, TrainAcc: 1.0000, ValAcc: 0.3804, ES: 131/500 | BestVal=0.4211@E39
+Epoch: 180, Time: 0.0256, Loss: 0.0013, TrainAcc: 1.0000, ValAcc: 0.3938, ES: 141/500 | BestVal=0.4211@E39
+Epoch: 190, Time: 0.0256, Loss: 0.0012, TrainAcc: 1.0000, ValAcc: 0.4092, ES: 151/500 | BestVal=0.4211@E39
+Finished running train at 11-21 00:12:07, running time = 5.30s.
+[ogb] ValAcc: 0.4211, TestAcc: 0.4211
+
+Labeled samping in training set: 150/46198, ratio: 150%!!
+Loading OGB features...
+Constructing a large graph ...
+Finished large graph construction!...
+
+Number of parameters: 43944
+Start running train at 11-21 00:12:08
+Epoch: 0, Time: 0.0322, Loss: 4.8910, TrainAcc: 0.0000, ValAcc: 0.0063, ES: 00/500 | BestVal=0.0063@E0
+Epoch: 10, Time: 0.0311, Loss: 1.0001, TrainAcc: 0.7267, ValAcc: 0.2152, ES: 00/500 | BestVal=0.2152@E10
+Epoch: 20, Time: 0.0256, Loss: 0.4030, TrainAcc: 0.9133, ValAcc: 0.4102, ES: 01/500 | BestVal=0.4213@E19
+Epoch: 30, Time: 0.0256, Loss: 0.1631, TrainAcc: 0.9667, ValAcc: 0.4148, ES: 03/500 | BestVal=0.4269@E27
+Epoch: 40, Time: 0.0257, Loss: 0.0606, TrainAcc: 1.0000, ValAcc: 0.4415, ES: 01/500 | BestVal=0.4424@E39
+Epoch: 50, Time: 0.0256, Loss: 0.0254, TrainAcc: 1.0000, ValAcc: 0.4389, ES: 11/500 | BestVal=0.4424@E39
+Epoch: 60, Time: 0.0256, Loss: 0.0149, TrainAcc: 1.0000, ValAcc: 0.4263, ES: 21/500 | BestVal=0.4424@E39
+Epoch: 70, Time: 0.0310, Loss: 0.0277, TrainAcc: 0.9933, ValAcc: 0.4461, ES: 00/500 | BestVal=0.4461@E70
+Epoch: 80, Time: 0.0256, Loss: 0.0058, TrainAcc: 1.0000, ValAcc: 0.4325, ES: 10/500 | BestVal=0.4461@E70
+Epoch: 90, Time: 0.0256, Loss: 0.0083, TrainAcc: 1.0000, ValAcc: 0.4299, ES: 20/500 | BestVal=0.4461@E70
+Epoch: 100, Time: 0.0256, Loss: 0.0065, TrainAcc: 1.0000, ValAcc: 0.4342, ES: 30/500 | BestVal=0.4461@E70
+Epoch: 110, Time: 0.0256, Loss: 0.0048, TrainAcc: 1.0000, ValAcc: 0.4280, ES: 40/500 | BestVal=0.4461@E70
+Epoch: 120, Time: 0.0256, Loss: 0.0069, TrainAcc: 1.0000, ValAcc: 0.4353, ES: 50/500 | BestVal=0.4461@E70
+Epoch: 130, Time: 0.0256, Loss: 0.0028, TrainAcc: 1.0000, ValAcc: 0.4274, ES: 60/500 | BestVal=0.4461@E70
+Epoch: 140, Time: 0.0256, Loss: 0.0034, TrainAcc: 1.0000, ValAcc: 0.4302, ES: 70/500 | BestVal=0.4461@E70
+Epoch: 150, Time: 0.0256, Loss: 0.0022, TrainAcc: 1.0000, ValAcc: 0.4360, ES: 80/500 | BestVal=0.4461@E70
+Epoch: 160, Time: 0.0256, Loss: 0.0018, TrainAcc: 1.0000, ValAcc: 0.4341, ES: 90/500 | BestVal=0.4461@E70
+Epoch: 170, Time: 0.0256, Loss: 0.0021, TrainAcc: 1.0000, ValAcc: 0.4278, ES: 100/500 | BestVal=0.4461@E70
+Epoch: 180, Time: 0.0256, Loss: 0.0030, TrainAcc: 1.0000, ValAcc: 0.4319, ES: 110/500 | BestVal=0.4461@E70
+Epoch: 190, Time: 0.0256, Loss: 0.0018, TrainAcc: 1.0000, ValAcc: 0.4346, ES: 120/500 | BestVal=0.4461@E70
+Finished running train at 11-21 00:12:13, running time = 5.30s.
+[ogb] ValAcc: 0.4461, TestAcc: 0.4304
+
+Labeled samping in training set: 150/46198, ratio: 150%!!
+Loading OGB features...
+Constructing a large graph ...
+Finished large graph construction!...
+
+Number of parameters: 43944
+Start running train at 11-21 00:12:15
+Epoch: 0, Time: 0.0326, Loss: 3.7088, TrainAcc: 0.0533, ValAcc: 0.0202, ES: 00/500 | BestVal=0.0202@E0
+Epoch: 10, Time: 0.0305, Loss: 1.0776, TrainAcc: 0.7067, ValAcc: 0.1642, ES: 00/500 | BestVal=0.1642@E10
+Epoch: 20, Time: 0.0256, Loss: 0.4829, TrainAcc: 0.9067, ValAcc: 0.3989, ES: 01/500 | BestVal=0.4003@E19
+Epoch: 30, Time: 0.0309, Loss: 0.1788, TrainAcc: 0.9600, ValAcc: 0.4184, ES: 00/500 | BestVal=0.4184@E30
+Epoch: 40, Time: 0.0256, Loss: 0.0941, TrainAcc: 0.9800, ValAcc: 0.4245, ES: 02/500 | BestVal=0.4250@E38
+Epoch: 50, Time: 0.0256, Loss: 0.0296, TrainAcc: 1.0000, ValAcc: 0.4272, ES: 05/500 | BestVal=0.4400@E45
+Epoch: 60, Time: 0.0311, Loss: 0.0188, TrainAcc: 1.0000, ValAcc: 0.4357, ES: 15/500 | BestVal=0.4400@E45
+Epoch: 70, Time: 0.0256, Loss: 0.0088, TrainAcc: 1.0000, ValAcc: 0.4326, ES: 25/500 | BestVal=0.4400@E45
+Epoch: 80, Time: 0.0257, Loss: 0.0060, TrainAcc: 1.0000, ValAcc: 0.4332, ES: 35/500 | BestVal=0.4400@E45
+Epoch: 90, Time: 0.0256, Loss: 0.0054, TrainAcc: 1.0000, ValAcc: 0.4356, ES: 45/500 | BestVal=0.4400@E45
+Epoch: 100, Time: 0.0256, Loss: 0.0037, TrainAcc: 1.0000, ValAcc: 0.4297, ES: 55/500 | BestVal=0.4400@E45
+Epoch: 110, Time: 0.0256, Loss: 0.0041, TrainAcc: 1.0000, ValAcc: 0.4249, ES: 65/500 | BestVal=0.4400@E45
+Epoch: 120, Time: 0.0256, Loss: 0.0045, TrainAcc: 1.0000, ValAcc: 0.4295, ES: 75/500 | BestVal=0.4400@E45
+Epoch: 130, Time: 0.0256, Loss: 0.0037, TrainAcc: 1.0000, ValAcc: 0.4277, ES: 85/500 | BestVal=0.4400@E45
+Epoch: 140, Time: 0.0256, Loss: 0.0041, TrainAcc: 1.0000, ValAcc: 0.4342, ES: 95/500 | BestVal=0.4400@E45
+Epoch: 150, Time: 0.0256, Loss: 0.0038, TrainAcc: 1.0000, ValAcc: 0.4275, ES: 105/500 | BestVal=0.4400@E45
+Epoch: 160, Time: 0.0256, Loss: 0.0031, TrainAcc: 1.0000, ValAcc: 0.4293, ES: 115/500 | BestVal=0.4400@E45
+Epoch: 170, Time: 0.0256, Loss: 0.0032, TrainAcc: 1.0000, ValAcc: 0.4221, ES: 125/500 | BestVal=0.4400@E45
+Epoch: 180, Time: 0.0256, Loss: 0.0028, TrainAcc: 1.0000, ValAcc: 0.4126, ES: 135/500 | BestVal=0.4400@E45
+Epoch: 190, Time: 0.0256, Loss: 0.0022, TrainAcc: 1.0000, ValAcc: 0.4247, ES: 145/500 | BestVal=0.4400@E45
+Finished running train at 11-21 00:12:20, running time = 5.28s.
+[ogb] ValAcc: 0.4400, TestAcc: 0.4376
+
+Labeled samping in training set: 150/46198, ratio: 150%!!
+Loading OGB features...
+Constructing a large graph ...
+Finished large graph construction!...
+
+Number of parameters: 43944
+Start running train at 11-21 00:12:21
+Epoch: 0, Time: 0.0329, Loss: 4.1214, TrainAcc: 0.0200, ValAcc: 0.0128, ES: 00/500 | BestVal=0.0128@E0
+Epoch: 10, Time: 0.0310, Loss: 1.1151, TrainAcc: 0.7333, ValAcc: 0.1422, ES: 00/500 | BestVal=0.1422@E10
+Epoch: 20, Time: 0.0305, Loss: 0.4489, TrainAcc: 0.8867, ValAcc: 0.3937, ES: 00/500 | BestVal=0.3937@E20
+Epoch: 30, Time: 0.0256, Loss: 0.1800, TrainAcc: 0.9600, ValAcc: 0.4120, ES: 06/500 | BestVal=0.4195@E24
+Epoch: 40, Time: 0.0256, Loss: 0.0606, TrainAcc: 1.0000, ValAcc: 0.4334, ES: 02/500 | BestVal=0.4386@E38
+Epoch: 50, Time: 0.0256, Loss: 0.0338, TrainAcc: 1.0000, ValAcc: 0.4462, ES: 02/500 | BestVal=0.4534@E48
+Epoch: 60, Time: 0.0256, Loss: 0.0149, TrainAcc: 1.0000, ValAcc: 0.4439, ES: 12/500 | BestVal=0.4534@E48
+Epoch: 70, Time: 0.0256, Loss: 0.0085, TrainAcc: 1.0000, ValAcc: 0.4424, ES: 22/500 | BestVal=0.4534@E48
+Epoch: 80, Time: 0.0256, Loss: 0.0103, TrainAcc: 1.0000, ValAcc: 0.4307, ES: 32/500 | BestVal=0.4534@E48
+Epoch: 90, Time: 0.0256, Loss: 0.0065, TrainAcc: 1.0000, ValAcc: 0.4423, ES: 42/500 | BestVal=0.4534@E48
+Epoch: 100, Time: 0.0256, Loss: 0.0043, TrainAcc: 1.0000, ValAcc: 0.4302, ES: 52/500 | BestVal=0.4534@E48
+Epoch: 110, Time: 0.0256, Loss: 0.0031, TrainAcc: 1.0000, ValAcc: 0.4481, ES: 62/500 | BestVal=0.4534@E48
+Epoch: 120, Time: 0.0256, Loss: 0.0035, TrainAcc: 1.0000, ValAcc: 0.4397, ES: 72/500 | BestVal=0.4534@E48
+Epoch: 130, Time: 0.0256, Loss: 0.0130, TrainAcc: 0.9933, ValAcc: 0.4495, ES: 82/500 | BestVal=0.4534@E48
+Epoch: 140, Time: 0.0256, Loss: 0.0029, TrainAcc: 1.0000, ValAcc: 0.4398, ES: 05/500 | BestVal=0.4538@E135
+Epoch: 150, Time: 0.0256, Loss: 0.0029, TrainAcc: 1.0000, ValAcc: 0.4383, ES: 15/500 | BestVal=0.4538@E135
+Epoch: 160, Time: 0.0256, Loss: 0.0129, TrainAcc: 0.9933, ValAcc: 0.4297, ES: 25/500 | BestVal=0.4538@E135
+Epoch: 170, Time: 0.0256, Loss: 0.0038, TrainAcc: 1.0000, ValAcc: 0.4244, ES: 35/500 | BestVal=0.4538@E135
+Epoch: 180, Time: 0.0256, Loss: 0.0013, TrainAcc: 1.0000, ValAcc: 0.4426, ES: 45/500 | BestVal=0.4538@E135
+Epoch: 190, Time: 0.0257, Loss: 0.0018, TrainAcc: 1.0000, ValAcc: 0.4424, ES: 55/500 | BestVal=0.4538@E135
+Finished running train at 11-21 00:12:26, running time = 5.32s.
+[ogb] ValAcc: 0.4538, TestAcc: 0.4459
+
+[ogb] ValACC: 0.4392 ± 0.0123, TestAcc: 0.4342 ± 0.0092
+dataset: arxiv_2023
+device: 0
+gnn:
+  model:
+    hidden_dim: 128
+    name: GCN
+    num_layers: 2
+  train:
+    K: 25
+    dropout: 0.5
+    early_stop: 500
+    epochs: 200
+    feature_type: ogb
+    lr: 0.01
+    use_dgl: False
+    wd: 0.0
+    weight_decay: 0.0005
+lm:
+  model:
+    feat_shrink: 
+    name: microsoft/deberta-base
+  train:
+    GSL_data_split: True
+    att_dropout: 0.1
+    batch_size: 9
+    cla_dropout: 0.4
+    dropout: 0.3
+    epochs: 4
+    eval_patience: 50000
+    grad_acc_steps: 1
+    lr: 0.0001
+    use_gpt: False
+    warmup_epochs: 0.6
+    weight_decay: 0.0
+ratio: 150
+runs: 5
+seed: 4
+An import exception occurred
+Labeled samping in training set: 300/46198, ratio: 300%!!
+Loading OGB features...
+Constructing a large graph ...
+Finished large graph construction!...
+
+Number of parameters: 43944
+Start running train at 11-21 00:12:38
+Epoch: 0, Time: 0.0542, Loss: 4.0185, TrainAcc: 0.0267, ValAcc: 0.0109, ES: 00/500 | BestVal=0.0109@E0
+Epoch: 10, Time: 0.0320, Loss: 1.3843, TrainAcc: 0.6000, ValAcc: 0.3763, ES: 00/500 | BestVal=0.3763@E10
+Epoch: 20, Time: 0.0314, Loss: 0.7890, TrainAcc: 0.7867, ValAcc: 0.4435, ES: 00/500 | BestVal=0.4435@E20
+Epoch: 30, Time: 0.0256, Loss: 0.4234, TrainAcc: 0.9033, ValAcc: 0.4091, ES: 10/500 | BestVal=0.4435@E20
+Epoch: 40, Time: 0.0256, Loss: 0.1933, TrainAcc: 0.9700, ValAcc: 0.4483, ES: 01/500 | BestVal=0.4530@E39
+Epoch: 50, Time: 0.0318, Loss: 0.1100, TrainAcc: 0.9867, ValAcc: 0.4687, ES: 00/500 | BestVal=0.4687@E50
+Epoch: 60, Time: 0.0256, Loss: 0.0616, TrainAcc: 0.9933, ValAcc: 0.4529, ES: 10/500 | BestVal=0.4687@E50
+Epoch: 70, Time: 0.0256, Loss: 0.0375, TrainAcc: 0.9967, ValAcc: 0.4530, ES: 20/500 | BestVal=0.4687@E50
+Epoch: 80, Time: 0.0256, Loss: 0.0331, TrainAcc: 0.9933, ValAcc: 0.4447, ES: 30/500 | BestVal=0.4687@E50
+Epoch: 90, Time: 0.0256, Loss: 0.0236, TrainAcc: 1.0000, ValAcc: 0.4460, ES: 40/500 | BestVal=0.4687@E50
+Epoch: 100, Time: 0.0256, Loss: 0.0242, TrainAcc: 0.9967, ValAcc: 0.4544, ES: 50/500 | BestVal=0.4687@E50
+Epoch: 110, Time: 0.0256, Loss: 0.0202, TrainAcc: 0.9967, ValAcc: 0.4541, ES: 60/500 | BestVal=0.4687@E50
+Epoch: 120, Time: 0.0256, Loss: 0.0170, TrainAcc: 1.0000, ValAcc: 0.4571, ES: 70/500 | BestVal=0.4687@E50
+Epoch: 130, Time: 0.0256, Loss: 0.0198, TrainAcc: 0.9967, ValAcc: 0.4460, ES: 80/500 | BestVal=0.4687@E50
+Epoch: 140, Time: 0.0256, Loss: 0.0125, TrainAcc: 1.0000, ValAcc: 0.4452, ES: 90/500 | BestVal=0.4687@E50
+Epoch: 150, Time: 0.0256, Loss: 0.0109, TrainAcc: 1.0000, ValAcc: 0.4568, ES: 100/500 | BestVal=0.4687@E50
+Epoch: 160, Time: 0.0256, Loss: 0.0102, TrainAcc: 1.0000, ValAcc: 0.4494, ES: 110/500 | BestVal=0.4687@E50
+Epoch: 170, Time: 0.0256, Loss: 0.0098, TrainAcc: 1.0000, ValAcc: 0.4406, ES: 120/500 | BestVal=0.4687@E50
+Epoch: 180, Time: 0.0256, Loss: 0.0081, TrainAcc: 1.0000, ValAcc: 0.4371, ES: 130/500 | BestVal=0.4687@E50
+Epoch: 190, Time: 0.0256, Loss: 0.0107, TrainAcc: 1.0000, ValAcc: 0.4494, ES: 140/500 | BestVal=0.4687@E50
+Finished running train at 11-21 00:12:44, running time = 5.49s.
+[ogb] ValAcc: 0.4687, TestAcc: 0.4694
+
+Labeled samping in training set: 300/46198, ratio: 300%!!
+Loading OGB features...
+Constructing a large graph ...
+Finished large graph construction!...
+
+Number of parameters: 43944
+Start running train at 11-21 00:12:45
+Epoch: 0, Time: 0.0352, Loss: 4.9527, TrainAcc: 0.0200, ValAcc: 0.0167, ES: 00/500 | BestVal=0.0167@E0
+Epoch: 10, Time: 0.0303, Loss: 1.3060, TrainAcc: 0.6367, ValAcc: 0.2268, ES: 00/500 | BestVal=0.2268@E10
+Epoch: 20, Time: 0.0314, Loss: 0.7146, TrainAcc: 0.8100, ValAcc: 0.4234, ES: 00/500 | BestVal=0.4234@E20
+Epoch: 30, Time: 0.0313, Loss: 0.3673, TrainAcc: 0.9467, ValAcc: 0.4635, ES: 00/500 | BestVal=0.4635@E30
+Epoch: 40, Time: 0.0256, Loss: 0.1656, TrainAcc: 0.9833, ValAcc: 0.4528, ES: 09/500 | BestVal=0.4701@E31
+Epoch: 50, Time: 0.0256, Loss: 0.0802, TrainAcc: 0.9967, ValAcc: 0.4519, ES: 19/500 | BestVal=0.4701@E31
+Epoch: 60, Time: 0.0256, Loss: 0.0581, TrainAcc: 0.9967, ValAcc: 0.4215, ES: 29/500 | BestVal=0.4701@E31
+Epoch: 70, Time: 0.0256, Loss: 0.0398, TrainAcc: 0.9967, ValAcc: 0.4402, ES: 39/500 | BestVal=0.4701@E31
+Epoch: 80, Time: 0.0256, Loss: 0.0301, TrainAcc: 0.9967, ValAcc: 0.4109, ES: 49/500 | BestVal=0.4701@E31
+Epoch: 90, Time: 0.0256, Loss: 0.0170, TrainAcc: 1.0000, ValAcc: 0.4292, ES: 59/500 | BestVal=0.4701@E31
+Epoch: 100, Time: 0.0256, Loss: 0.0151, TrainAcc: 1.0000, ValAcc: 0.4265, ES: 69/500 | BestVal=0.4701@E31
+Epoch: 110, Time: 0.0256, Loss: 0.0108, TrainAcc: 1.0000, ValAcc: 0.4503, ES: 79/500 | BestVal=0.4701@E31
+Epoch: 120, Time: 0.0256, Loss: 0.0122, TrainAcc: 1.0000, ValAcc: 0.4335, ES: 89/500 | BestVal=0.4701@E31
+Epoch: 130, Time: 0.0256, Loss: 0.0076, TrainAcc: 1.0000, ValAcc: 0.4320, ES: 99/500 | BestVal=0.4701@E31
+Epoch: 140, Time: 0.0256, Loss: 0.0075, TrainAcc: 1.0000, ValAcc: 0.4333, ES: 109/500 | BestVal=0.4701@E31
+Epoch: 150, Time: 0.0256, Loss: 0.0087, TrainAcc: 1.0000, ValAcc: 0.4153, ES: 119/500 | BestVal=0.4701@E31
+Epoch: 160, Time: 0.0256, Loss: 0.0075, TrainAcc: 1.0000, ValAcc: 0.4459, ES: 129/500 | BestVal=0.4701@E31
+Epoch: 170, Time: 0.0256, Loss: 0.0054, TrainAcc: 1.0000, ValAcc: 0.4472, ES: 139/500 | BestVal=0.4701@E31
+Epoch: 180, Time: 0.0256, Loss: 0.0080, TrainAcc: 1.0000, ValAcc: 0.4485, ES: 149/500 | BestVal=0.4701@E31
+Epoch: 190, Time: 0.0256, Loss: 0.0104, TrainAcc: 1.0000, ValAcc: 0.4354, ES: 159/500 | BestVal=0.4701@E31
+Finished running train at 11-21 00:12:50, running time = 5.25s.
+[ogb] ValAcc: 0.4701, TestAcc: 0.4718
+
+Labeled samping in training set: 300/46198, ratio: 300%!!
+Loading OGB features...
+Constructing a large graph ...
+Finished large graph construction!...
+
+Number of parameters: 43944
+Start running train at 11-21 00:12:51
+Epoch: 0, Time: 0.0330, Loss: 4.7765, TrainAcc: 0.0067, ValAcc: 0.0065, ES: 00/500 | BestVal=0.0065@E0
+Epoch: 10, Time: 0.0311, Loss: 1.4599, TrainAcc: 0.6167, ValAcc: 0.2878, ES: 00/500 | BestVal=0.2878@E10
+Epoch: 20, Time: 0.0312, Loss: 0.8281, TrainAcc: 0.7833, ValAcc: 0.4210, ES: 00/500 | BestVal=0.4210@E20
+Epoch: 30, Time: 0.0256, Loss: 0.4447, TrainAcc: 0.8633, ValAcc: 0.4689, ES: 03/500 | BestVal=0.4803@E27
+Epoch: 40, Time: 0.0256, Loss: 0.2205, TrainAcc: 0.9600, ValAcc: 0.4715, ES: 13/500 | BestVal=0.4803@E27
+Epoch: 50, Time: 0.0255, Loss: 0.1243, TrainAcc: 0.9733, ValAcc: 0.4526, ES: 09/500 | BestVal=0.4838@E41
+Epoch: 60, Time: 0.0256, Loss: 0.0822, TrainAcc: 0.9833, ValAcc: 0.4502, ES: 19/500 | BestVal=0.4838@E41
+Epoch: 70, Time: 0.0256, Loss: 0.0783, TrainAcc: 0.9933, ValAcc: 0.4502, ES: 29/500 | BestVal=0.4838@E41
+Epoch: 80, Time: 0.0256, Loss: 0.0406, TrainAcc: 0.9967, ValAcc: 0.4532, ES: 39/500 | BestVal=0.4838@E41
+Epoch: 90, Time: 0.0256, Loss: 0.0621, TrainAcc: 0.9933, ValAcc: 0.3738, ES: 49/500 | BestVal=0.4838@E41
+Epoch: 100, Time: 0.0256, Loss: 0.0284, TrainAcc: 1.0000, ValAcc: 0.4446, ES: 59/500 | BestVal=0.4838@E41
+Epoch: 110, Time: 0.0256, Loss: 0.0247, TrainAcc: 1.0000, ValAcc: 0.4601, ES: 69/500 | BestVal=0.4838@E41
+Epoch: 120, Time: 0.0256, Loss: 0.0213, TrainAcc: 1.0000, ValAcc: 0.4510, ES: 79/500 | BestVal=0.4838@E41
+Epoch: 130, Time: 0.0256, Loss: 0.0145, TrainAcc: 1.0000, ValAcc: 0.4419, ES: 89/500 | BestVal=0.4838@E41
+Epoch: 140, Time: 0.0256, Loss: 0.0213, TrainAcc: 0.9933, ValAcc: 0.4451, ES: 99/500 | BestVal=0.4838@E41
+Epoch: 150, Time: 0.0256, Loss: 0.0081, TrainAcc: 1.0000, ValAcc: 0.4465, ES: 109/500 | BestVal=0.4838@E41
+Epoch: 160, Time: 0.0256, Loss: 0.0070, TrainAcc: 1.0000, ValAcc: 0.4492, ES: 119/500 | BestVal=0.4838@E41
+Epoch: 170, Time: 0.0256, Loss: 0.0091, TrainAcc: 1.0000, ValAcc: 0.4442, ES: 129/500 | BestVal=0.4838@E41
+Epoch: 180, Time: 0.0256, Loss: 0.0060, TrainAcc: 1.0000, ValAcc: 0.4566, ES: 139/500 | BestVal=0.4838@E41
+Epoch: 190, Time: 0.0256, Loss: 0.0049, TrainAcc: 1.0000, ValAcc: 0.4438, ES: 149/500 | BestVal=0.4838@E41
+Finished running train at 11-21 00:12:57, running time = 5.26s.
+[ogb] ValAcc: 0.4838, TestAcc: 0.4759
+
+Labeled samping in training set: 300/46198, ratio: 300%!!
+Loading OGB features...
+Constructing a large graph ...
+Finished large graph construction!...
+
+Number of parameters: 43944
+Start running train at 11-21 00:12:58
+Epoch: 0, Time: 0.0326, Loss: 3.7312, TrainAcc: 0.0433, ValAcc: 0.0196, ES: 00/500 | BestVal=0.0196@E0
+Epoch: 10, Time: 0.0303, Loss: 1.4116, TrainAcc: 0.6500, ValAcc: 0.2227, ES: 00/500 | BestVal=0.2227@E10
+Epoch: 20, Time: 0.0256, Loss: 0.8540, TrainAcc: 0.7700, ValAcc: 0.4487, ES: 01/500 | BestVal=0.4490@E19
+Epoch: 30, Time: 0.0256, Loss: 0.4277, TrainAcc: 0.8933, ValAcc: 0.4700, ES: 01/500 | BestVal=0.4711@E29
+Epoch: 40, Time: 0.0256, Loss: 0.2173, TrainAcc: 0.9600, ValAcc: 0.4728, ES: 03/500 | BestVal=0.4864@E37
+Epoch: 50, Time: 0.0256, Loss: 0.1201, TrainAcc: 0.9800, ValAcc: 0.4640, ES: 09/500 | BestVal=0.4884@E41
+Epoch: 60, Time: 0.0256, Loss: 0.0709, TrainAcc: 0.9900, ValAcc: 0.4487, ES: 19/500 | BestVal=0.4884@E41
+Epoch: 70, Time: 0.0256, Loss: 0.0390, TrainAcc: 1.0000, ValAcc: 0.4455, ES: 29/500 | BestVal=0.4884@E41
+Epoch: 80, Time: 0.0256, Loss: 0.0261, TrainAcc: 0.9967, ValAcc: 0.4340, ES: 39/500 | BestVal=0.4884@E41
+Epoch: 90, Time: 0.0256, Loss: 0.0197, TrainAcc: 0.9967, ValAcc: 0.4298, ES: 49/500 | BestVal=0.4884@E41
+Epoch: 100, Time: 0.0256, Loss: 0.0212, TrainAcc: 0.9967, ValAcc: 0.4363, ES: 59/500 | BestVal=0.4884@E41
+Epoch: 110, Time: 0.0256, Loss: 0.0212, TrainAcc: 0.9967, ValAcc: 0.4259, ES: 69/500 | BestVal=0.4884@E41
+Epoch: 120, Time: 0.0256, Loss: 0.0185, TrainAcc: 0.9967, ValAcc: 0.4376, ES: 79/500 | BestVal=0.4884@E41
+Epoch: 130, Time: 0.0256, Loss: 0.0159, TrainAcc: 1.0000, ValAcc: 0.4406, ES: 89/500 | BestVal=0.4884@E41
+Epoch: 140, Time: 0.0256, Loss: 0.0118, TrainAcc: 1.0000, ValAcc: 0.4166, ES: 99/500 | BestVal=0.4884@E41
+Epoch: 150, Time: 0.0256, Loss: 0.0082, TrainAcc: 1.0000, ValAcc: 0.4499, ES: 109/500 | BestVal=0.4884@E41
+Epoch: 160, Time: 0.0256, Loss: 0.0102, TrainAcc: 1.0000, ValAcc: 0.4440, ES: 119/500 | BestVal=0.4884@E41
+Epoch: 170, Time: 0.0256, Loss: 0.0094, TrainAcc: 1.0000, ValAcc: 0.4460, ES: 129/500 | BestVal=0.4884@E41
+Epoch: 180, Time: 0.0256, Loss: 0.0055, TrainAcc: 1.0000, ValAcc: 0.4557, ES: 139/500 | BestVal=0.4884@E41
+Epoch: 190, Time: 0.0256, Loss: 0.0070, TrainAcc: 1.0000, ValAcc: 0.4510, ES: 149/500 | BestVal=0.4884@E41
+Finished running train at 11-21 00:13:03, running time = 5.27s.
+[ogb] ValAcc: 0.4884, TestAcc: 0.4887
+
+Labeled samping in training set: 300/46198, ratio: 300%!!
+Loading OGB features...
+Constructing a large graph ...
+Finished large graph construction!...
+
+Number of parameters: 43944
+Start running train at 11-21 00:13:04
+Epoch: 0, Time: 0.0320, Loss: 4.1309, TrainAcc: 0.0133, ValAcc: 0.0069, ES: 00/500 | BestVal=0.0069@E0
+Epoch: 10, Time: 0.0332, Loss: 1.4348, TrainAcc: 0.6333, ValAcc: 0.2814, ES: 00/500 | BestVal=0.2814@E10
+Epoch: 20, Time: 0.0256, Loss: 0.7715, TrainAcc: 0.7933, ValAcc: 0.4344, ES: 01/500 | BestVal=0.4346@E19
+Epoch: 30, Time: 0.0307, Loss: 0.4044, TrainAcc: 0.9133, ValAcc: 0.4669, ES: 00/500 | BestVal=0.4669@E30
+Epoch: 40, Time: 0.0256, Loss: 0.1885, TrainAcc: 0.9700, ValAcc: 0.4667, ES: 09/500 | BestVal=0.4703@E31
+Epoch: 50, Time: 0.0256, Loss: 0.0976, TrainAcc: 0.9867, ValAcc: 0.4692, ES: 09/500 | BestVal=0.4781@E41
+Epoch: 60, Time: 0.0256, Loss: 0.0511, TrainAcc: 1.0000, ValAcc: 0.4681, ES: 19/500 | BestVal=0.4781@E41
+Epoch: 70, Time: 0.0256, Loss: 0.0365, TrainAcc: 0.9967, ValAcc: 0.4671, ES: 29/500 | BestVal=0.4781@E41
+Epoch: 80, Time: 0.0256, Loss: 0.0337, TrainAcc: 0.9900, ValAcc: 0.4620, ES: 39/500 | BestVal=0.4781@E41
+Epoch: 90, Time: 0.0256, Loss: 0.0160, TrainAcc: 1.0000, ValAcc: 0.4655, ES: 49/500 | BestVal=0.4781@E41
+Epoch: 100, Time: 0.0256, Loss: 0.0189, TrainAcc: 0.9933, ValAcc: 0.4639, ES: 59/500 | BestVal=0.4781@E41
+Epoch: 110, Time: 0.0255, Loss: 0.0126, TrainAcc: 1.0000, ValAcc: 0.4609, ES: 69/500 | BestVal=0.4781@E41
+Epoch: 120, Time: 0.0255, Loss: 0.0116, TrainAcc: 1.0000, ValAcc: 0.4592, ES: 79/500 | BestVal=0.4781@E41
+Epoch: 130, Time: 0.0256, Loss: 0.0135, TrainAcc: 1.0000, ValAcc: 0.4646, ES: 89/500 | BestVal=0.4781@E41
+Epoch: 140, Time: 0.0256, Loss: 0.0078, TrainAcc: 1.0000, ValAcc: 0.4517, ES: 99/500 | BestVal=0.4781@E41
+Epoch: 150, Time: 0.0255, Loss: 0.0081, TrainAcc: 1.0000, ValAcc: 0.4577, ES: 109/500 | BestVal=0.4781@E41
+Epoch: 160, Time: 0.0255, Loss: 0.0078, TrainAcc: 1.0000, ValAcc: 0.4490, ES: 119/500 | BestVal=0.4781@E41
+Epoch: 170, Time: 0.0256, Loss: 0.0120, TrainAcc: 0.9933, ValAcc: 0.4423, ES: 129/500 | BestVal=0.4781@E41
+Epoch: 180, Time: 0.0256, Loss: 0.0099, TrainAcc: 1.0000, ValAcc: 0.4600, ES: 139/500 | BestVal=0.4781@E41
+Epoch: 190, Time: 0.0255, Loss: 0.0096, TrainAcc: 1.0000, ValAcc: 0.4426, ES: 149/500 | BestVal=0.4781@E41
+Finished running train at 11-21 00:13:09, running time = 5.29s.
+[ogb] ValAcc: 0.4781, TestAcc: 0.4800
+
+[ogb] ValACC: 0.4778 ± 0.0085, TestAcc: 0.4771 ± 0.0076
+dataset: arxiv_2023
+device: 0
+gnn:
+  model:
+    hidden_dim: 128
+    name: GCN
+    num_layers: 2
+  train:
+    K: 25
+    dropout: 0.5
+    early_stop: 500
+    epochs: 200
+    feature_type: ogb
+    lr: 0.01
+    use_dgl: False
+    wd: 0.0
+    weight_decay: 0.0005
+lm:
+  model:
+    feat_shrink: 
+    name: microsoft/deberta-base
+  train:
+    GSL_data_split: True
+    att_dropout: 0.1
+    batch_size: 9
+    cla_dropout: 0.4
+    dropout: 0.3
+    epochs: 4
+    eval_patience: 50000
+    grad_acc_steps: 1
+    lr: 0.0001
+    use_gpt: False
+    warmup_epochs: 0.6
+    weight_decay: 0.0
+ratio: 300
+runs: 5
+seed: 4
+An import exception occurred
+Labeled samping in training set: 500/46198, ratio: 500%!!
+Loading OGB features...
+Constructing a large graph ...
+Finished large graph construction!...
+
+Number of parameters: 43944
+Start running train at 11-21 00:13:24
+Epoch: 0, Time: 0.0585, Loss: 4.0130, TrainAcc: 0.0280, ValAcc: 0.0081, ES: 00/500 | BestVal=0.0081@E0
+Epoch: 10, Time: 0.0316, Loss: 1.5556, TrainAcc: 0.5820, ValAcc: 0.2437, ES: 00/500 | BestVal=0.2437@E10
+Epoch: 20, Time: 0.0308, Loss: 1.0149, TrainAcc: 0.7060, ValAcc: 0.4457, ES: 00/500 | BestVal=0.4457@E20
+Epoch: 30, Time: 0.0313, Loss: 0.6716, TrainAcc: 0.8220, ValAcc: 0.4629, ES: 00/500 | BestVal=0.4629@E30
+Epoch: 40, Time: 0.0256, Loss: 0.3913, TrainAcc: 0.9140, ValAcc: 0.4867, ES: 03/500 | BestVal=0.4903@E37
+Epoch: 50, Time: 0.0256, Loss: 0.2988, TrainAcc: 0.9040, ValAcc: 0.4611, ES: 13/500 | BestVal=0.4903@E37
+Epoch: 60, Time: 0.0256, Loss: 0.1573, TrainAcc: 0.9640, ValAcc: 0.4254, ES: 23/500 | BestVal=0.4903@E37
+Epoch: 70, Time: 0.0256, Loss: 0.1023, TrainAcc: 0.9840, ValAcc: 0.3953, ES: 33/500 | BestVal=0.4903@E37
+Epoch: 80, Time: 0.0256, Loss: 0.1032, TrainAcc: 0.9700, ValAcc: 0.3512, ES: 43/500 | BestVal=0.4903@E37
+Epoch: 90, Time: 0.0256, Loss: 0.0662, TrainAcc: 0.9880, ValAcc: 0.4426, ES: 53/500 | BestVal=0.4903@E37
+Epoch: 100, Time: 0.0256, Loss: 0.0524, TrainAcc: 0.9900, ValAcc: 0.4419, ES: 63/500 | BestVal=0.4903@E37
+Epoch: 110, Time: 0.0256, Loss: 0.0466, TrainAcc: 0.9940, ValAcc: 0.4186, ES: 73/500 | BestVal=0.4903@E37
+Epoch: 120, Time: 0.0256, Loss: 0.0350, TrainAcc: 0.9920, ValAcc: 0.4038, ES: 83/500 | BestVal=0.4903@E37
+Epoch: 130, Time: 0.0256, Loss: 0.0326, TrainAcc: 0.9980, ValAcc: 0.4045, ES: 93/500 | BestVal=0.4903@E37
+Epoch: 140, Time: 0.0256, Loss: 0.0347, TrainAcc: 0.9940, ValAcc: 0.4085, ES: 103/500 | BestVal=0.4903@E37
+Epoch: 150, Time: 0.0256, Loss: 0.0188, TrainAcc: 0.9980, ValAcc: 0.4218, ES: 113/500 | BestVal=0.4903@E37
+Epoch: 160, Time: 0.0256, Loss: 0.0265, TrainAcc: 0.9960, ValAcc: 0.4318, ES: 123/500 | BestVal=0.4903@E37
+Epoch: 170, Time: 0.0256, Loss: 0.0205, TrainAcc: 0.9960, ValAcc: 0.4487, ES: 133/500 | BestVal=0.4903@E37
+Epoch: 180, Time: 0.0256, Loss: 0.0144, TrainAcc: 1.0000, ValAcc: 0.4391, ES: 143/500 | BestVal=0.4903@E37
+Epoch: 190, Time: 0.0256, Loss: 0.0196, TrainAcc: 0.9960, ValAcc: 0.4282, ES: 153/500 | BestVal=0.4903@E37
+Finished running train at 11-21 00:13:30, running time = 5.65s.
+[ogb] ValAcc: 0.4903, TestAcc: 0.4891
+
+Labeled samping in training set: 500/46198, ratio: 500%!!
+Loading OGB features...
+Constructing a large graph ...
+Finished large graph construction!...
+
+Number of parameters: 43944
+Start running train at 11-21 00:13:31
+Epoch: 0, Time: 0.0333, Loss: 4.9816, TrainAcc: 0.0160, ValAcc: 0.0163, ES: 00/500 | BestVal=0.0163@E0
+Epoch: 10, Time: 0.0312, Loss: 1.5583, TrainAcc: 0.5780, ValAcc: 0.1843, ES: 00/500 | BestVal=0.1843@E10
+Epoch: 20, Time: 0.0318, Loss: 1.0506, TrainAcc: 0.7080, ValAcc: 0.4363, ES: 00/500 | BestVal=0.4363@E20
+Epoch: 30, Time: 0.0348, Loss: 0.6995, TrainAcc: 0.8000, ValAcc: 0.4826, ES: 00/500 | BestVal=0.4826@E30
+Epoch: 40, Time: 0.0256, Loss: 0.3972, TrainAcc: 0.8920, ValAcc: 0.4696, ES: 07/500 | BestVal=0.4867@E33
+Epoch: 50, Time: 0.0256, Loss: 0.2671, TrainAcc: 0.9320, ValAcc: 0.4512, ES: 17/500 | BestVal=0.4867@E33
+Epoch: 60, Time: 0.0256, Loss: 0.1436, TrainAcc: 0.9740, ValAcc: 0.3698, ES: 27/500 | BestVal=0.4867@E33
+Epoch: 70, Time: 0.0256, Loss: 0.1267, TrainAcc: 0.9720, ValAcc: 0.3712, ES: 37/500 | BestVal=0.4867@E33
+Epoch: 80, Time: 0.0256, Loss: 0.0846, TrainAcc: 0.9860, ValAcc: 0.3698, ES: 47/500 | BestVal=0.4867@E33
+Epoch: 90, Time: 0.0256, Loss: 0.0595, TrainAcc: 0.9920, ValAcc: 0.3593, ES: 57/500 | BestVal=0.4867@E33
+Epoch: 100, Time: 0.0256, Loss: 0.0481, TrainAcc: 0.9960, ValAcc: 0.3001, ES: 67/500 | BestVal=0.4867@E33
+Epoch: 110, Time: 0.0256, Loss: 0.0391, TrainAcc: 0.9960, ValAcc: 0.3869, ES: 77/500 | BestVal=0.4867@E33
+Epoch: 120, Time: 0.0256, Loss: 0.0336, TrainAcc: 0.9920, ValAcc: 0.3470, ES: 87/500 | BestVal=0.4867@E33
+Epoch: 130, Time: 0.0256, Loss: 0.0230, TrainAcc: 1.0000, ValAcc: 0.3469, ES: 97/500 | BestVal=0.4867@E33
+Epoch: 140, Time: 0.0256, Loss: 0.0241, TrainAcc: 0.9980, ValAcc: 0.3660, ES: 107/500 | BestVal=0.4867@E33
+Epoch: 150, Time: 0.0256, Loss: 0.0238, TrainAcc: 0.9940, ValAcc: 0.3714, ES: 117/500 | BestVal=0.4867@E33
+Epoch: 160, Time: 0.0257, Loss: 0.0377, TrainAcc: 0.9920, ValAcc: 0.3754, ES: 127/500 | BestVal=0.4867@E33
+Epoch: 170, Time: 0.0257, Loss: 0.0279, TrainAcc: 0.9940, ValAcc: 0.3726, ES: 137/500 | BestVal=0.4867@E33
+Epoch: 180, Time: 0.0256, Loss: 0.0287, TrainAcc: 0.9940, ValAcc: 0.3856, ES: 147/500 | BestVal=0.4867@E33
+Epoch: 190, Time: 0.0256, Loss: 0.0258, TrainAcc: 0.9920, ValAcc: 0.3942, ES: 157/500 | BestVal=0.4867@E33
+Finished running train at 11-21 00:13:36, running time = 5.30s.
+[ogb] ValAcc: 0.4867, TestAcc: 0.4889
+
+Labeled samping in training set: 500/46198, ratio: 500%!!
+Loading OGB features...
+Constructing a large graph ...
+Finished large graph construction!...
+
+Number of parameters: 43944
+Start running train at 11-21 00:13:37
+Epoch: 0, Time: 0.0315, Loss: 4.7900, TrainAcc: 0.0040, ValAcc: 0.0093, ES: 00/500 | BestVal=0.0093@E0
+Epoch: 10, Time: 0.0309, Loss: 1.6272, TrainAcc: 0.5840, ValAcc: 0.1722, ES: 00/500 | BestVal=0.1722@E10
+Epoch: 20, Time: 0.0307, Loss: 1.0790, TrainAcc: 0.7060, ValAcc: 0.4646, ES: 00/500 | BestVal=0.4646@E20
+Epoch: 30, Time: 0.0309, Loss: 0.7403, TrainAcc: 0.7880, ValAcc: 0.4992, ES: 00/500 | BestVal=0.4992@E30
+Epoch: 40, Time: 0.0256, Loss: 0.4581, TrainAcc: 0.8760, ValAcc: 0.5103, ES: 02/500 | BestVal=0.5109@E38
+Epoch: 50, Time: 0.0256, Loss: 0.3007, TrainAcc: 0.9240, ValAcc: 0.4995, ES: 08/500 | BestVal=0.5141@E42
+Epoch: 60, Time: 0.0256, Loss: 0.2069, TrainAcc: 0.9620, ValAcc: 0.4641, ES: 18/500 | BestVal=0.5141@E42
+Epoch: 70, Time: 0.0256, Loss: 0.1741, TrainAcc: 0.9640, ValAcc: 0.4619, ES: 28/500 | BestVal=0.5141@E42
+Epoch: 80, Time: 0.0256, Loss: 0.1445, TrainAcc: 0.9700, ValAcc: 0.4431, ES: 38/500 | BestVal=0.5141@E42
+Epoch: 90, Time: 0.0256, Loss: 0.0919, TrainAcc: 0.9900, ValAcc: 0.4537, ES: 48/500 | BestVal=0.5141@E42
+Epoch: 100, Time: 0.0256, Loss: 0.0575, TrainAcc: 0.9920, ValAcc: 0.4649, ES: 58/500 | BestVal=0.5141@E42
+Epoch: 110, Time: 0.0256, Loss: 0.0412, TrainAcc: 0.9980, ValAcc: 0.4703, ES: 68/500 | BestVal=0.5141@E42
+Epoch: 120, Time: 0.0256, Loss: 0.0417, TrainAcc: 0.9980, ValAcc: 0.4628, ES: 78/500 | BestVal=0.5141@E42
+Epoch: 130, Time: 0.0256, Loss: 0.0391, TrainAcc: 0.9920, ValAcc: 0.4439, ES: 88/500 | BestVal=0.5141@E42
+Epoch: 140, Time: 0.0256, Loss: 0.0329, TrainAcc: 0.9940, ValAcc: 0.4352, ES: 98/500 | BestVal=0.5141@E42
+Epoch: 150, Time: 0.0256, Loss: 0.0264, TrainAcc: 0.9960, ValAcc: 0.4566, ES: 108/500 | BestVal=0.5141@E42
+Epoch: 160, Time: 0.0256, Loss: 0.0269, TrainAcc: 0.9920, ValAcc: 0.4552, ES: 118/500 | BestVal=0.5141@E42
+Epoch: 170, Time: 0.0256, Loss: 0.0242, TrainAcc: 0.9980, ValAcc: 0.4410, ES: 128/500 | BestVal=0.5141@E42
+Epoch: 180, Time: 0.0256, Loss: 0.0162, TrainAcc: 1.0000, ValAcc: 0.4473, ES: 138/500 | BestVal=0.5141@E42
+Epoch: 190, Time: 0.0256, Loss: 0.0153, TrainAcc: 0.9980, ValAcc: 0.4448, ES: 148/500 | BestVal=0.5141@E42
+Finished running train at 11-21 00:13:43, running time = 5.31s.
+[ogb] ValAcc: 0.5141, TestAcc: 0.5002
+
+Labeled samping in training set: 500/46198, ratio: 500%!!
+Loading OGB features...
+Constructing a large graph ...
+Finished large graph construction!...
+
+Number of parameters: 43944
+Start running train at 11-21 00:13:44
+Epoch: 0, Time: 0.0316, Loss: 3.7189, TrainAcc: 0.0460, ValAcc: 0.0206, ES: 00/500 | BestVal=0.0206@E0
+Epoch: 10, Time: 0.0310, Loss: 1.5651, TrainAcc: 0.6020, ValAcc: 0.2727, ES: 00/500 | BestVal=0.2727@E10
+Epoch: 20, Time: 0.0257, Loss: 1.1052, TrainAcc: 0.6860, ValAcc: 0.4405, ES: 01/500 | BestVal=0.4425@E19
+Epoch: 30, Time: 0.0256, Loss: 0.6866, TrainAcc: 0.7960, ValAcc: 0.4814, ES: 02/500 | BestVal=0.4871@E28
+Epoch: 40, Time: 0.0311, Loss: 0.4324, TrainAcc: 0.8780, ValAcc: 0.4994, ES: 00/500 | BestVal=0.4994@E40
+Epoch: 50, Time: 0.0256, Loss: 0.2583, TrainAcc: 0.9360, ValAcc: 0.4699, ES: 10/500 | BestVal=0.4994@E40
+Epoch: 60, Time: 0.0256, Loss: 0.1980, TrainAcc: 0.9420, ValAcc: 0.4931, ES: 20/500 | BestVal=0.4994@E40
+Epoch: 70, Time: 0.0256, Loss: 0.1075, TrainAcc: 0.9800, ValAcc: 0.4696, ES: 30/500 | BestVal=0.4994@E40
+Epoch: 80, Time: 0.0256, Loss: 0.1024, TrainAcc: 0.9760, ValAcc: 0.4626, ES: 40/500 | BestVal=0.4994@E40
+Epoch: 90, Time: 0.0257, Loss: 0.0620, TrainAcc: 0.9920, ValAcc: 0.4740, ES: 50/500 | BestVal=0.4994@E40
+Epoch: 100, Time: 0.0257, Loss: 0.0534, TrainAcc: 0.9940, ValAcc: 0.4621, ES: 60/500 | BestVal=0.4994@E40
+Epoch: 110, Time: 0.0257, Loss: 0.0514, TrainAcc: 0.9920, ValAcc: 0.4528, ES: 70/500 | BestVal=0.4994@E40
+Epoch: 120, Time: 0.0256, Loss: 0.0265, TrainAcc: 1.0000, ValAcc: 0.4714, ES: 80/500 | BestVal=0.4994@E40
+Epoch: 130, Time: 0.0256, Loss: 0.0266, TrainAcc: 0.9960, ValAcc: 0.4575, ES: 90/500 | BestVal=0.4994@E40
+Epoch: 140, Time: 0.0256, Loss: 0.0243, TrainAcc: 0.9960, ValAcc: 0.4571, ES: 100/500 | BestVal=0.4994@E40
+Epoch: 150, Time: 0.0256, Loss: 0.0205, TrainAcc: 0.9980, ValAcc: 0.4468, ES: 110/500 | BestVal=0.4994@E40
+Epoch: 160, Time: 0.0256, Loss: 0.0214, TrainAcc: 1.0000, ValAcc: 0.4326, ES: 120/500 | BestVal=0.4994@E40
+Epoch: 170, Time: 0.0256, Loss: 0.0175, TrainAcc: 0.9980, ValAcc: 0.4644, ES: 130/500 | BestVal=0.4994@E40
+Epoch: 180, Time: 0.0256, Loss: 0.0341, TrainAcc: 0.9980, ValAcc: 0.4447, ES: 140/500 | BestVal=0.4994@E40
+Epoch: 190, Time: 0.0256, Loss: 0.0183, TrainAcc: 0.9980, ValAcc: 0.4630, ES: 150/500 | BestVal=0.4994@E40
+Finished running train at 11-21 00:13:49, running time = 5.29s.
+[ogb] ValAcc: 0.4994, TestAcc: 0.4984
+
+Labeled samping in training set: 500/46198, ratio: 500%!!
+Loading OGB features...
+Constructing a large graph ...
+Finished large graph construction!...
+
+Number of parameters: 43944
+Start running train at 11-21 00:13:50
+Epoch: 0, Time: 0.0322, Loss: 4.2099, TrainAcc: 0.0120, ValAcc: 0.0056, ES: 00/500 | BestVal=0.0056@E0
+Epoch: 10, Time: 0.0321, Loss: 1.6668, TrainAcc: 0.5620, ValAcc: 0.2884, ES: 00/500 | BestVal=0.2884@E10
+Epoch: 20, Time: 0.0304, Loss: 1.1164, TrainAcc: 0.6680, ValAcc: 0.4505, ES: 00/500 | BestVal=0.4505@E20
+Epoch: 30, Time: 0.0257, Loss: 0.7521, TrainAcc: 0.8040, ValAcc: 0.4936, ES: 01/500 | BestVal=0.5000@E29
+Epoch: 40, Time: 0.0256, Loss: 0.4796, TrainAcc: 0.8760, ValAcc: 0.5014, ES: 07/500 | BestVal=0.5057@E33
+Epoch: 50, Time: 0.0256, Loss: 0.2995, TrainAcc: 0.9300, ValAcc: 0.4851, ES: 17/500 | BestVal=0.5057@E33
+Epoch: 60, Time: 0.0256, Loss: 0.1930, TrainAcc: 0.9660, ValAcc: 0.4860, ES: 27/500 | BestVal=0.5057@E33
+Epoch: 70, Time: 0.0256, Loss: 0.1267, TrainAcc: 0.9780, ValAcc: 0.4568, ES: 37/500 | BestVal=0.5057@E33
+Epoch: 80, Time: 0.0255, Loss: 0.1161, TrainAcc: 0.9720, ValAcc: 0.4343, ES: 47/500 | BestVal=0.5057@E33
+Epoch: 90, Time: 0.0256, Loss: 0.0850, TrainAcc: 0.9880, ValAcc: 0.4663, ES: 57/500 | BestVal=0.5057@E33
+Epoch: 100, Time: 0.0256, Loss: 0.0592, TrainAcc: 0.9920, ValAcc: 0.4694, ES: 67/500 | BestVal=0.5057@E33
+Epoch: 110, Time: 0.0256, Loss: 0.0440, TrainAcc: 0.9980, ValAcc: 0.4593, ES: 77/500 | BestVal=0.5057@E33
+Epoch: 120, Time: 0.0256, Loss: 0.0465, TrainAcc: 0.9980, ValAcc: 0.4564, ES: 87/500 | BestVal=0.5057@E33
+Epoch: 130, Time: 0.0256, Loss: 0.0396, TrainAcc: 0.9980, ValAcc: 0.4276, ES: 97/500 | BestVal=0.5057@E33
+Epoch: 140, Time: 0.0256, Loss: 0.0465, TrainAcc: 0.9940, ValAcc: 0.4377, ES: 107/500 | BestVal=0.5057@E33
+Epoch: 150, Time: 0.0256, Loss: 0.0342, TrainAcc: 0.9920, ValAcc: 0.4519, ES: 117/500 | BestVal=0.5057@E33
+Epoch: 160, Time: 0.0256, Loss: 0.0309, TrainAcc: 0.9920, ValAcc: 0.4614, ES: 127/500 | BestVal=0.5057@E33
+Epoch: 170, Time: 0.0256, Loss: 0.0208, TrainAcc: 0.9980, ValAcc: 0.4239, ES: 137/500 | BestVal=0.5057@E33
+Epoch: 180, Time: 0.0256, Loss: 0.0175, TrainAcc: 0.9960, ValAcc: 0.4580, ES: 147/500 | BestVal=0.5057@E33
+Epoch: 190, Time: 0.0256, Loss: 0.0311, TrainAcc: 0.9960, ValAcc: 0.4064, ES: 157/500 | BestVal=0.5057@E33
+Finished running train at 11-21 00:13:55, running time = 5.29s.
+[ogb] ValAcc: 0.5057, TestAcc: 0.5113
+
+[ogb] ValACC: 0.4992 ± 0.0112, TestAcc: 0.4976 ± 0.0093
+dataset: arxiv_2023
+device: 0
+gnn:
+  model:
+    hidden_dim: 128
+    name: GCN
+    num_layers: 2
+  train:
+    K: 25
+    dropout: 0.5
+    early_stop: 500
+    epochs: 200
+    feature_type: ogb
+    lr: 0.01
+    use_dgl: False
+    wd: 0.0
+    weight_decay: 0.0005
+lm:
+  model:
+    feat_shrink: 
+    name: microsoft/deberta-base
+  train:
+    GSL_data_split: True
+    att_dropout: 0.1
+    batch_size: 9
+    cla_dropout: 0.4
+    dropout: 0.3
+    epochs: 4
+    eval_patience: 50000
+    grad_acc_steps: 1
+    lr: 0.0001
+    use_gpt: False
+    warmup_epochs: 0.6
+    weight_decay: 0.0
+ratio: 500
+runs: 5
+seed: 4
+An import exception occurred
+Labeled samping in training set: 1000/46198, ratio: 1000%!!
+Loading OGB features...
+Constructing a large graph ...
+Finished large graph construction!...
+
+Number of parameters: 43944
+Start running train at 11-21 00:14:08
+Epoch: 0, Time: 0.0541, Loss: 4.0564, TrainAcc: 0.0250, ValAcc: 0.0236, ES: 00/500 | BestVal=0.0236@E0
+Epoch: 10, Time: 0.0341, Loss: 1.7594, TrainAcc: 0.5420, ValAcc: 0.2153, ES: 00/500 | BestVal=0.2153@E10
+Epoch: 20, Time: 0.0316, Loss: 1.3208, TrainAcc: 0.6140, ValAcc: 0.4609, ES: 00/500 | BestVal=0.4609@E20
+Epoch: 30, Time: 0.0310, Loss: 1.0400, TrainAcc: 0.7010, ValAcc: 0.4900, ES: 00/500 | BestVal=0.4900@E30
+Epoch: 40, Time: 0.0257, Loss: 0.7753, TrainAcc: 0.7660, ValAcc: 0.5262, ES: 01/500 | BestVal=0.5265@E39
+Epoch: 50, Time: 0.0256, Loss: 0.5989, TrainAcc: 0.8340, ValAcc: 0.5002, ES: 07/500 | BestVal=0.5289@E43
+Epoch: 60, Time: 0.0256, Loss: 0.4484, TrainAcc: 0.8710, ValAcc: 0.5110, ES: 17/500 | BestVal=0.5289@E43
+Epoch: 70, Time: 0.0256, Loss: 0.3655, TrainAcc: 0.8960, ValAcc: 0.4683, ES: 27/500 | BestVal=0.5289@E43
+Epoch: 80, Time: 0.0256, Loss: 0.3050, TrainAcc: 0.9210, ValAcc: 0.4934, ES: 37/500 | BestVal=0.5289@E43
+Epoch: 90, Time: 0.0257, Loss: 0.2586, TrainAcc: 0.9270, ValAcc: 0.4582, ES: 47/500 | BestVal=0.5289@E43
+Epoch: 100, Time: 0.0256, Loss: 0.2046, TrainAcc: 0.9540, ValAcc: 0.4409, ES: 57/500 | BestVal=0.5289@E43
+Epoch: 110, Time: 0.0257, Loss: 0.2114, TrainAcc: 0.9380, ValAcc: 0.4643, ES: 67/500 | BestVal=0.5289@E43
+Epoch: 120, Time: 0.0256, Loss: 0.1901, TrainAcc: 0.9520, ValAcc: 0.4692, ES: 77/500 | BestVal=0.5289@E43
+Epoch: 130, Time: 0.0256, Loss: 0.1576, TrainAcc: 0.9600, ValAcc: 0.3655, ES: 87/500 | BestVal=0.5289@E43
+Epoch: 140, Time: 0.0256, Loss: 0.1388, TrainAcc: 0.9650, ValAcc: 0.4049, ES: 97/500 | BestVal=0.5289@E43
+Epoch: 150, Time: 0.0257, Loss: 0.1197, TrainAcc: 0.9660, ValAcc: 0.3501, ES: 107/500 | BestVal=0.5289@E43
+Epoch: 160, Time: 0.0256, Loss: 0.1064, TrainAcc: 0.9750, ValAcc: 0.4619, ES: 117/500 | BestVal=0.5289@E43
+Epoch: 170, Time: 0.0256, Loss: 0.0884, TrainAcc: 0.9790, ValAcc: 0.4079, ES: 127/500 | BestVal=0.5289@E43
+Epoch: 180, Time: 0.0257, Loss: 0.0848, TrainAcc: 0.9840, ValAcc: 0.4097, ES: 137/500 | BestVal=0.5289@E43
+Epoch: 190, Time: 0.0256, Loss: 0.1030, TrainAcc: 0.9690, ValAcc: 0.4239, ES: 147/500 | BestVal=0.5289@E43
+Finished running train at 11-21 00:14:13, running time = 5.56s.
+[ogb] ValAcc: 0.5289, TestAcc: 0.5227
+
+Labeled samping in training set: 1000/46198, ratio: 1000%!!
+Loading OGB features...
+Constructing a large graph ...
+Finished large graph construction!...
+
+Number of parameters: 43944
+Start running train at 11-21 00:14:14
+Epoch: 0, Time: 0.0322, Loss: 4.9419, TrainAcc: 0.0150, ValAcc: 0.0166, ES: 00/500 | BestVal=0.0166@E0
+Epoch: 10, Time: 0.0308, Loss: 1.7276, TrainAcc: 0.5470, ValAcc: 0.1680, ES: 00/500 | BestVal=0.1680@E10
+Epoch: 20, Time: 0.0314, Loss: 1.3237, TrainAcc: 0.6150, ValAcc: 0.4631, ES: 00/500 | BestVal=0.4631@E20
+Epoch: 30, Time: 0.0314, Loss: 1.0360, TrainAcc: 0.6960, ValAcc: 0.5060, ES: 00/500 | BestVal=0.5060@E30
+Epoch: 40, Time: 0.0256, Loss: 0.7984, TrainAcc: 0.7520, ValAcc: 0.5156, ES: 03/500 | BestVal=0.5215@E37
+Epoch: 50, Time: 0.0257, Loss: 0.6234, TrainAcc: 0.8070, ValAcc: 0.5150, ES: 01/500 | BestVal=0.5254@E49
+Epoch: 60, Time: 0.0256, Loss: 0.4848, TrainAcc: 0.8530, ValAcc: 0.4823, ES: 11/500 | BestVal=0.5254@E49
+Epoch: 70, Time: 0.0256, Loss: 0.4037, TrainAcc: 0.8780, ValAcc: 0.4852, ES: 21/500 | BestVal=0.5254@E49
+Epoch: 80, Time: 0.0256, Loss: 0.3658, TrainAcc: 0.8950, ValAcc: 0.4739, ES: 31/500 | BestVal=0.5254@E49
+Epoch: 90, Time: 0.0256, Loss: 0.2676, TrainAcc: 0.9250, ValAcc: 0.4018, ES: 41/500 | BestVal=0.5254@E49
+Epoch: 100, Time: 0.0256, Loss: 0.2345, TrainAcc: 0.9370, ValAcc: 0.3198, ES: 51/500 | BestVal=0.5254@E49
+Epoch: 110, Time: 0.0256, Loss: 0.1734, TrainAcc: 0.9530, ValAcc: 0.3985, ES: 61/500 | BestVal=0.5254@E49
+Epoch: 120, Time: 0.0256, Loss: 0.1596, TrainAcc: 0.9550, ValAcc: 0.3463, ES: 71/500 | BestVal=0.5254@E49
+Epoch: 130, Time: 0.0256, Loss: 0.1432, TrainAcc: 0.9630, ValAcc: 0.4203, ES: 81/500 | BestVal=0.5254@E49
+Epoch: 140, Time: 0.0256, Loss: 0.1193, TrainAcc: 0.9700, ValAcc: 0.4036, ES: 91/500 | BestVal=0.5254@E49
+Epoch: 150, Time: 0.0256, Loss: 0.1146, TrainAcc: 0.9700, ValAcc: 0.3774, ES: 101/500 | BestVal=0.5254@E49
+Epoch: 160, Time: 0.0256, Loss: 0.1043, TrainAcc: 0.9760, ValAcc: 0.4240, ES: 111/500 | BestVal=0.5254@E49
+Epoch: 170, Time: 0.0256, Loss: 0.0926, TrainAcc: 0.9750, ValAcc: 0.3882, ES: 121/500 | BestVal=0.5254@E49
+Epoch: 180, Time: 0.0256, Loss: 0.0888, TrainAcc: 0.9810, ValAcc: 0.4057, ES: 131/500 | BestVal=0.5254@E49
+Epoch: 190, Time: 0.0257, Loss: 0.0807, TrainAcc: 0.9780, ValAcc: 0.3752, ES: 141/500 | BestVal=0.5254@E49
+Finished running train at 11-21 00:14:20, running time = 5.31s.
+[ogb] ValAcc: 0.5254, TestAcc: 0.5233
+
+Labeled samping in training set: 1000/46198, ratio: 1000%!!
+Loading OGB features...
+Constructing a large graph ...
+Finished large graph construction!...
+
+Number of parameters: 43944
+Start running train at 11-21 00:14:21
+Epoch: 0, Time: 0.0340, Loss: 4.8105, TrainAcc: 0.0100, ValAcc: 0.0034, ES: 00/500 | BestVal=0.0034@E0
+Epoch: 10, Time: 0.0317, Loss: 1.7570, TrainAcc: 0.5490, ValAcc: 0.2381, ES: 00/500 | BestVal=0.2381@E10
+Epoch: 20, Time: 0.0308, Loss: 1.3607, TrainAcc: 0.6160, ValAcc: 0.5049, ES: 00/500 | BestVal=0.5049@E20
+Epoch: 30, Time: 0.0256, Loss: 1.0493, TrainAcc: 0.6900, ValAcc: 0.5096, ES: 07/500 | BestVal=0.5215@E23
+Epoch: 40, Time: 0.0257, Loss: 0.7922, TrainAcc: 0.7580, ValAcc: 0.5425, ES: 01/500 | BestVal=0.5446@E39
+Epoch: 50, Time: 0.0257, Loss: 0.5951, TrainAcc: 0.8240, ValAcc: 0.5237, ES: 11/500 | BestVal=0.5446@E39
+Epoch: 60, Time: 0.0256, Loss: 0.4569, TrainAcc: 0.8620, ValAcc: 0.5249, ES: 21/500 | BestVal=0.5446@E39
+Epoch: 70, Time: 0.0257, Loss: 0.3708, TrainAcc: 0.8990, ValAcc: 0.4598, ES: 31/500 | BestVal=0.5446@E39
+Epoch: 80, Time: 0.0256, Loss: 0.2813, TrainAcc: 0.9250, ValAcc: 0.4716, ES: 41/500 | BestVal=0.5446@E39
+Epoch: 90, Time: 0.0257, Loss: 0.2534, TrainAcc: 0.9170, ValAcc: 0.4393, ES: 51/500 | BestVal=0.5446@E39
+Epoch: 100, Time: 0.0256, Loss: 0.2074, TrainAcc: 0.9450, ValAcc: 0.4581, ES: 61/500 | BestVal=0.5446@E39
+Epoch: 110, Time: 0.0256, Loss: 0.1691, TrainAcc: 0.9600, ValAcc: 0.4671, ES: 71/500 | BestVal=0.5446@E39
+Epoch: 120, Time: 0.0256, Loss: 0.1438, TrainAcc: 0.9610, ValAcc: 0.4256, ES: 81/500 | BestVal=0.5446@E39
+Epoch: 130, Time: 0.0256, Loss: 0.1249, TrainAcc: 0.9740, ValAcc: 0.4596, ES: 91/500 | BestVal=0.5446@E39
+Epoch: 140, Time: 0.0256, Loss: 0.1393, TrainAcc: 0.9650, ValAcc: 0.4603, ES: 101/500 | BestVal=0.5446@E39
+Epoch: 150, Time: 0.0256, Loss: 0.0861, TrainAcc: 0.9860, ValAcc: 0.4637, ES: 111/500 | BestVal=0.5446@E39
+Epoch: 160, Time: 0.0256, Loss: 0.0896, TrainAcc: 0.9740, ValAcc: 0.4767, ES: 121/500 | BestVal=0.5446@E39
+Epoch: 170, Time: 0.0256, Loss: 0.1103, TrainAcc: 0.9730, ValAcc: 0.4904, ES: 131/500 | BestVal=0.5446@E39
+Epoch: 180, Time: 0.0256, Loss: 0.0811, TrainAcc: 0.9840, ValAcc: 0.4657, ES: 141/500 | BestVal=0.5446@E39
+Epoch: 190, Time: 0.0257, Loss: 0.0807, TrainAcc: 0.9770, ValAcc: 0.4616, ES: 151/500 | BestVal=0.5446@E39
+Finished running train at 11-21 00:14:26, running time = 5.29s.
+[ogb] ValAcc: 0.5446, TestAcc: 0.5363
+
+Labeled samping in training set: 1000/46198, ratio: 1000%!!
+Loading OGB features...
+Constructing a large graph ...
+Finished large graph construction!...
+
+Number of parameters: 43944
+Start running train at 11-21 00:14:27
+Epoch: 0, Time: 0.0323, Loss: 3.6773, TrainAcc: 0.0510, ValAcc: 0.0205, ES: 00/500 | BestVal=0.0205@E0
+Epoch: 10, Time: 0.0302, Loss: 1.7269, TrainAcc: 0.5530, ValAcc: 0.2326, ES: 00/500 | BestVal=0.2326@E10
+Epoch: 20, Time: 0.0309, Loss: 1.3080, TrainAcc: 0.6410, ValAcc: 0.4894, ES: 00/500 | BestVal=0.4894@E20
+Epoch: 30, Time: 0.0257, Loss: 0.9880, TrainAcc: 0.7200, ValAcc: 0.5222, ES: 01/500 | BestVal=0.5231@E29
+Epoch: 40, Time: 0.0326, Loss: 0.7490, TrainAcc: 0.7980, ValAcc: 0.5290, ES: 00/500 | BestVal=0.5290@E40
+Epoch: 50, Time: 0.0256, Loss: 0.5642, TrainAcc: 0.8330, ValAcc: 0.5045, ES: 09/500 | BestVal=0.5325@E41
+Epoch: 60, Time: 0.0256, Loss: 0.4494, TrainAcc: 0.8660, ValAcc: 0.4804, ES: 19/500 | BestVal=0.5325@E41
+Epoch: 70, Time: 0.0256, Loss: 0.3597, TrainAcc: 0.9020, ValAcc: 0.4354, ES: 29/500 | BestVal=0.5325@E41
+Epoch: 80, Time: 0.0256, Loss: 0.2675, TrainAcc: 0.9240, ValAcc: 0.4443, ES: 39/500 | BestVal=0.5325@E41
+Epoch: 90, Time: 0.0256, Loss: 0.2242, TrainAcc: 0.9470, ValAcc: 0.4305, ES: 49/500 | BestVal=0.5325@E41
+Epoch: 100, Time: 0.0256, Loss: 0.1848, TrainAcc: 0.9450, ValAcc: 0.3855, ES: 59/500 | BestVal=0.5325@E41
+Epoch: 110, Time: 0.0256, Loss: 0.1591, TrainAcc: 0.9560, ValAcc: 0.4045, ES: 69/500 | BestVal=0.5325@E41
+Epoch: 120, Time: 0.0256, Loss: 0.1473, TrainAcc: 0.9570, ValAcc: 0.4185, ES: 79/500 | BestVal=0.5325@E41
+Epoch: 130, Time: 0.0256, Loss: 0.1358, TrainAcc: 0.9650, ValAcc: 0.3905, ES: 89/500 | BestVal=0.5325@E41
+Epoch: 140, Time: 0.0256, Loss: 0.1081, TrainAcc: 0.9710, ValAcc: 0.4552, ES: 99/500 | BestVal=0.5325@E41
+Epoch: 150, Time: 0.0256, Loss: 0.1042, TrainAcc: 0.9690, ValAcc: 0.4501, ES: 109/500 | BestVal=0.5325@E41
+Epoch: 160, Time: 0.0256, Loss: 0.0959, TrainAcc: 0.9790, ValAcc: 0.4361, ES: 119/500 | BestVal=0.5325@E41
+Epoch: 170, Time: 0.0257, Loss: 0.0857, TrainAcc: 0.9810, ValAcc: 0.4603, ES: 129/500 | BestVal=0.5325@E41
+Epoch: 180, Time: 0.0257, Loss: 0.0710, TrainAcc: 0.9840, ValAcc: 0.4630, ES: 139/500 | BestVal=0.5325@E41
+Epoch: 190, Time: 0.0256, Loss: 0.0795, TrainAcc: 0.9800, ValAcc: 0.4619, ES: 149/500 | BestVal=0.5325@E41
+Finished running train at 11-21 00:14:32, running time = 5.32s.
+[ogb] ValAcc: 0.5325, TestAcc: 0.5273
+
+Labeled samping in training set: 1000/46198, ratio: 1000%!!
+Loading OGB features...
+Constructing a large graph ...
+Finished large graph construction!...
+
+Number of parameters: 43944
+Start running train at 11-21 00:14:34
+Epoch: 0, Time: 0.0325, Loss: 4.1710, TrainAcc: 0.0150, ValAcc: 0.0052, ES: 00/500 | BestVal=0.0052@E0
+Epoch: 10, Time: 0.0308, Loss: 1.8524, TrainAcc: 0.5190, ValAcc: 0.2775, ES: 00/500 | BestVal=0.2775@E10
+Epoch: 20, Time: 0.0315, Loss: 1.4174, TrainAcc: 0.6010, ValAcc: 0.4755, ES: 00/500 | BestVal=0.4755@E20
+Epoch: 30, Time: 0.0258, Loss: 1.1091, TrainAcc: 0.6780, ValAcc: 0.5145, ES: 01/500 | BestVal=0.5173@E29
+Epoch: 40, Time: 0.0259, Loss: 0.8689, TrainAcc: 0.7320, ValAcc: 0.5206, ES: 01/500 | BestVal=0.5269@E39
+Epoch: 50, Time: 0.0256, Loss: 0.6864, TrainAcc: 0.7780, ValAcc: 0.4910, ES: 11/500 | BestVal=0.5269@E39
+Epoch: 60, Time: 0.0256, Loss: 0.5550, TrainAcc: 0.8220, ValAcc: 0.4635, ES: 21/500 | BestVal=0.5269@E39
+Epoch: 70, Time: 0.0257, Loss: 0.4220, TrainAcc: 0.8720, ValAcc: 0.4365, ES: 31/500 | BestVal=0.5269@E39
+Epoch: 80, Time: 0.0256, Loss: 0.3274, TrainAcc: 0.9130, ValAcc: 0.4328, ES: 41/500 | BestVal=0.5269@E39
+Epoch: 90, Time: 0.0256, Loss: 0.3090, TrainAcc: 0.9140, ValAcc: 0.3252, ES: 51/500 | BestVal=0.5269@E39
+Epoch: 100, Time: 0.0256, Loss: 0.2507, TrainAcc: 0.9340, ValAcc: 0.3501, ES: 61/500 | BestVal=0.5269@E39
+Epoch: 110, Time: 0.0256, Loss: 0.2344, TrainAcc: 0.9350, ValAcc: 0.3150, ES: 71/500 | BestVal=0.5269@E39
+Epoch: 120, Time: 0.0256, Loss: 0.1749, TrainAcc: 0.9590, ValAcc: 0.4464, ES: 81/500 | BestVal=0.5269@E39
+Epoch: 130, Time: 0.0257, Loss: 0.1595, TrainAcc: 0.9590, ValAcc: 0.3569, ES: 91/500 | BestVal=0.5269@E39
+Epoch: 140, Time: 0.0257, Loss: 0.1307, TrainAcc: 0.9700, ValAcc: 0.3675, ES: 101/500 | BestVal=0.5269@E39
+Epoch: 150, Time: 0.0257, Loss: 0.1186, TrainAcc: 0.9700, ValAcc: 0.4409, ES: 111/500 | BestVal=0.5269@E39
+Epoch: 160, Time: 0.0256, Loss: 0.1092, TrainAcc: 0.9700, ValAcc: 0.4221, ES: 121/500 | BestVal=0.5269@E39
+Epoch: 170, Time: 0.0257, Loss: 0.0975, TrainAcc: 0.9800, ValAcc: 0.4402, ES: 131/500 | BestVal=0.5269@E39
+Epoch: 180, Time: 0.0257, Loss: 0.0943, TrainAcc: 0.9750, ValAcc: 0.4521, ES: 141/500 | BestVal=0.5269@E39
+Epoch: 190, Time: 0.0256, Loss: 0.0863, TrainAcc: 0.9800, ValAcc: 0.4654, ES: 151/500 | BestVal=0.5269@E39
+Finished running train at 11-21 00:14:39, running time = 5.30s.
+[ogb] ValAcc: 0.5269, TestAcc: 0.5303
+
+[ogb] ValACC: 0.5317 ± 0.0077, TestAcc: 0.5280 ± 0.0056
+dataset: arxiv_2023
+device: 0
+gnn:
+  model:
+    hidden_dim: 128
+    name: GCN
+    num_layers: 2
+  train:
+    K: 25
+    dropout: 0.5
+    early_stop: 500
+    epochs: 200
+    feature_type: ogb
+    lr: 0.01
+    use_dgl: False
+    wd: 0.0
+    weight_decay: 0.0005
+lm:
+  model:
+    feat_shrink: 
+    name: microsoft/deberta-base
+  train:
+    GSL_data_split: True
+    att_dropout: 0.1
+    batch_size: 9
+    cla_dropout: 0.4
+    dropout: 0.3
+    epochs: 4
+    eval_patience: 50000
+    grad_acc_steps: 1
+    lr: 0.0001
+    use_gpt: False
+    warmup_epochs: 0.6
+    weight_decay: 0.0
+ratio: 1000
+runs: 5
+seed: 4

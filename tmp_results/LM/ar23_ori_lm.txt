@@ -1,0 +1,726 @@
+
+ hyper params: output/arxiv_2023_#_train_LMs/microsoft/deberta-base-seed0-labels50-lr0.001 
+
+Before Check, remove_indices in train_mask:  27668
+Before Check, remove_indices in val_mask:  0
+Before Check, remove_indices in test_mask:  0
+Labeled samping in training set: 50/46198, ratio: 50%!!
+Check remove_indices in train_mask: 0
+Check remove_indices in val_mask: 0
+Check remove_indices in test_mask: 0
+Before pseudo labling, labeled samples in training set: 50/46198, ratio: 50%!!
+
+Number of parameters: 138632488
+Start running train at 11-22 00:24:49
+{'train_runtime': 9.5959, 'train_samples_per_second': 20.842, 'train_steps_per_second': 0.417, 'train_loss': 3.6587085723876953, 'epoch': 4.0}
+Created directory prt_lm/arxiv_2023_#_train_LMs/microsoft/
+LM saved to prt_lm/arxiv_2023_#_train_LMs/microsoft/deberta-base-seed0-labels50-lr0.001.ckpt
+Finished running train at 11-22 00:25:04, running time = 15.25s.
+Start running eval_and_save at 11-22 00:25:04
+[LM] TrainAcc: 0.0000, ValAcc: 0.0048, TestAcc: 0.0044
+
+Finished running eval_and_save at 11-22 00:26:40, running time = 1.61min.
+
+ hyper params: output/arxiv_2023_#_train_LMs/microsoft/deberta-base-seed1-labels50-lr0.001 
+
+Before Check, remove_indices in train_mask:  27668
+Before Check, remove_indices in val_mask:  0
+Before Check, remove_indices in test_mask:  0
+Labeled samping in training set: 50/46198, ratio: 50%!!
+Check remove_indices in train_mask: 0
+Check remove_indices in val_mask: 0
+Check remove_indices in test_mask: 0
+Before pseudo labling, labeled samples in training set: 50/46198, ratio: 50%!!
+
+Number of parameters: 138632488
+Start running train at 11-22 00:27:15
+{'train_runtime': 4.3108, 'train_samples_per_second': 46.395, 'train_steps_per_second': 0.928, 'train_loss': 3.7421226501464844, 'epoch': 4.0}
+LM saved to prt_lm/arxiv_2023_#_train_LMs/microsoft/deberta-base-seed1-labels50-lr0.001.ckpt
+Finished running train at 11-22 00:27:22, running time = 7.60s.
+Start running eval_and_save at 11-22 00:27:22
+[LM] TrainAcc: 0.0800, ValAcc: 0.0066, TestAcc: 0.0067
+
+Finished running eval_and_save at 11-22 00:29:00, running time = 1.63min.
+
+ hyper params: output/arxiv_2023_#_train_LMs/microsoft/deberta-base-seed2-labels50-lr0.001 
+
+Before Check, remove_indices in train_mask:  27668
+Before Check, remove_indices in val_mask:  0
+Before Check, remove_indices in test_mask:  0
+Labeled samping in training set: 50/46198, ratio: 50%!!
+Check remove_indices in train_mask: 0
+Check remove_indices in val_mask: 0
+Check remove_indices in test_mask: 0
+Before pseudo labling, labeled samples in training set: 50/46198, ratio: 50%!!
+
+Number of parameters: 138632488
+Start running train at 11-22 00:29:34
+{'train_runtime': 3.5086, 'train_samples_per_second': 57.003, 'train_steps_per_second': 1.14, 'train_loss': 3.725709915161133, 'epoch': 4.0}
+LM saved to prt_lm/arxiv_2023_#_train_LMs/microsoft/deberta-base-seed2-labels50-lr0.001.ckpt
+Finished running train at 11-22 00:29:40, running time = 6.48s.
+Start running eval_and_save at 11-22 00:29:40
+[LM] TrainAcc: 0.0000, ValAcc: 0.0000, TestAcc: 0.0000
+
+Finished running eval_and_save at 11-22 00:31:18, running time = 1.63min.
+
+ hyper params: output/arxiv_2023_#_train_LMs/microsoft/deberta-base-seed3-labels50-lr0.001 
+
+Before Check, remove_indices in train_mask:  27668
+Before Check, remove_indices in val_mask:  0
+Before Check, remove_indices in test_mask:  0
+Labeled samping in training set: 50/46198, ratio: 50%!!
+Check remove_indices in train_mask: 0
+Check remove_indices in val_mask: 0
+Check remove_indices in test_mask: 0
+Before pseudo labling, labeled samples in training set: 50/46198, ratio: 50%!!
+
+Number of parameters: 138632488
+Start running train at 11-22 00:31:53
+{'train_runtime': 3.7159, 'train_samples_per_second': 53.823, 'train_steps_per_second': 1.076, 'train_loss': 3.7267165184020996, 'epoch': 4.0}
+LM saved to prt_lm/arxiv_2023_#_train_LMs/microsoft/deberta-base-seed3-labels50-lr0.001.ckpt
+Finished running train at 11-22 00:32:00, running time = 7.00s.
+Start running eval_and_save at 11-22 00:32:00
+[LM] TrainAcc: 0.0200, ValAcc: 0.0004, TestAcc: 0.0005
+
+Finished running eval_and_save at 11-22 00:33:39, running time = 1.65min.
+
+ hyper params: output/arxiv_2023_#_train_LMs/microsoft/deberta-base-seed4-labels50-lr0.001 
+
+Before Check, remove_indices in train_mask:  27668
+Before Check, remove_indices in val_mask:  0
+Before Check, remove_indices in test_mask:  0
+Labeled samping in training set: 50/46198, ratio: 50%!!
+Check remove_indices in train_mask: 0
+Check remove_indices in val_mask: 0
+Check remove_indices in test_mask: 0
+Before pseudo labling, labeled samples in training set: 50/46198, ratio: 50%!!
+
+Number of parameters: 138632488
+Start running train at 11-22 00:34:12
+{'train_runtime': 3.8853, 'train_samples_per_second': 51.477, 'train_steps_per_second': 1.03, 'train_loss': 3.7588977813720703, 'epoch': 4.0}
+LM saved to prt_lm/arxiv_2023_#_train_LMs/microsoft/deberta-base-seed4-labels50-lr0.001.ckpt
+Finished running train at 11-22 00:34:20, running time = 7.57s.
+Start running eval_and_save at 11-22 00:34:20
+[LM] TrainAcc: 0.0400, ValAcc: 0.0169, TestAcc: 0.0173
+
+Finished running eval_and_save at 11-22 00:35:58, running time = 1.64min.
+TrainAcc: 0.0280 ± 0.0335
+ValAcc: 0.0057 ± 0.0068
+TestAcc: 0.0058 ± 0.0070
+dataset: arxiv_2023
+device: 0
+gnn:
+  model:
+    hidden_dim: 128
+    name: GCN
+    num_layers: 2
+  train:
+    K: 100
+    dropout: 0.5
+    early_stop: 500
+    epochs: 200
+    feature_type: TA
+    lr: 0.001
+    use_dgl: False
+    wd: 0.0
+    weight_decay: 0.0005
+lm:
+  model:
+    feat_shrink: 
+    name: microsoft/deberta-base
+  train:
+    GSL_data_split: True
+    att_dropout: 0.1
+    batch_size: 9
+    cla_dropout: 0.4
+    dropout: 0.3
+    epochs: 4
+    eval_patience: 50000
+    grad_acc_steps: 1
+    lr: 0.001
+    use_gpt: False
+    warmup_epochs: 0.6
+    weight_decay: 0.0
+ratio: 50
+runs: 5
+seed: 4
+
+ hyper params: output/arxiv_2023_#_train_LMs/microsoft/deberta-base-seed0-labels100-lr0.001 
+
+Before Check, remove_indices in train_mask:  27618
+Before Check, remove_indices in val_mask:  0
+Before Check, remove_indices in test_mask:  0
+Labeled samping in training set: 100/46198, ratio: 100%!!
+Check remove_indices in train_mask: 0
+Check remove_indices in val_mask: 0
+Check remove_indices in test_mask: 0
+Before pseudo labling, labeled samples in training set: 100/46198, ratio: 100%!!
+
+Number of parameters: 138632488
+Start running train at 11-22 00:37:03
+{'train_runtime': 11.6895, 'train_samples_per_second': 34.219, 'train_steps_per_second': 0.684, 'train_loss': 3.6835567951202393, 'epoch': 4.0}
+LM saved to prt_lm/arxiv_2023_#_train_LMs/microsoft/deberta-base-seed0-labels100-lr0.001.ckpt
+Finished running train at 11-22 00:37:18, running time = 15.27s.
+Start running eval_and_save at 11-22 00:37:18
+[LM] TrainAcc: 0.0000, ValAcc: 0.0048, TestAcc: 0.0044
+
+Finished running eval_and_save at 11-22 00:38:55, running time = 1.61min.
+
+ hyper params: output/arxiv_2023_#_train_LMs/microsoft/deberta-base-seed1-labels100-lr0.001 
+
+Before Check, remove_indices in train_mask:  27618
+Before Check, remove_indices in val_mask:  0
+Before Check, remove_indices in test_mask:  0
+Labeled samping in training set: 100/46198, ratio: 100%!!
+Check remove_indices in train_mask: 0
+Check remove_indices in val_mask: 0
+Check remove_indices in test_mask: 0
+Before pseudo labling, labeled samples in training set: 100/46198, ratio: 100%!!
+
+Number of parameters: 138632488
+Start running train at 11-22 00:39:29
+{'train_runtime': 5.7328, 'train_samples_per_second': 69.774, 'train_steps_per_second': 1.395, 'train_loss': 3.737365245819092, 'epoch': 4.0}
+LM saved to prt_lm/arxiv_2023_#_train_LMs/microsoft/deberta-base-seed1-labels100-lr0.001.ckpt
+Finished running train at 11-22 00:39:37, running time = 8.21s.
+Start running eval_and_save at 11-22 00:39:37
+[LM] TrainAcc: 0.2700, ValAcc: 0.1987, TestAcc: 0.1971
+
+Finished running eval_and_save at 11-22 00:41:15, running time = 1.62min.
+
+ hyper params: output/arxiv_2023_#_train_LMs/microsoft/deberta-base-seed2-labels100-lr0.001 
+
+Before Check, remove_indices in train_mask:  27618
+Before Check, remove_indices in val_mask:  0
+Before Check, remove_indices in test_mask:  0
+Labeled samping in training set: 100/46198, ratio: 100%!!
+Check remove_indices in train_mask: 0
+Check remove_indices in val_mask: 0
+Check remove_indices in test_mask: 0
+Before pseudo labling, labeled samples in training set: 100/46198, ratio: 100%!!
+
+Number of parameters: 138632488
+Start running train at 11-22 00:41:48
+{'train_runtime': 5.9174, 'train_samples_per_second': 67.597, 'train_steps_per_second': 1.352, 'train_loss': 3.6582722663879395, 'epoch': 4.0}
+LM saved to prt_lm/arxiv_2023_#_train_LMs/microsoft/deberta-base-seed2-labels100-lr0.001.ckpt
+Finished running train at 11-22 00:41:57, running time = 8.94s.
+Start running eval_and_save at 11-22 00:41:57
+[LM] TrainAcc: 0.0000, ValAcc: 0.0000, TestAcc: 0.0000
+
+Finished running eval_and_save at 11-22 00:43:35, running time = 1.63min.
+
+ hyper params: output/arxiv_2023_#_train_LMs/microsoft/deberta-base-seed3-labels100-lr0.001 
+
+Before Check, remove_indices in train_mask:  27618
+Before Check, remove_indices in val_mask:  0
+Before Check, remove_indices in test_mask:  0
+Labeled samping in training set: 100/46198, ratio: 100%!!
+Check remove_indices in train_mask: 0
+Check remove_indices in val_mask: 0
+Check remove_indices in test_mask: 0
+Before pseudo labling, labeled samples in training set: 100/46198, ratio: 100%!!
+
+Number of parameters: 138632488
+Start running train at 11-22 00:44:09
+{'train_runtime': 6.2896, 'train_samples_per_second': 63.597, 'train_steps_per_second': 1.272, 'train_loss': 3.7492787837982178, 'epoch': 4.0}
+LM saved to prt_lm/arxiv_2023_#_train_LMs/microsoft/deberta-base-seed3-labels100-lr0.001.ckpt
+Finished running train at 11-22 00:44:19, running time = 9.57s.
+Start running eval_and_save at 11-22 00:44:19
+[LM] TrainAcc: 0.0100, ValAcc: 0.0004, TestAcc: 0.0005
+
+Finished running eval_and_save at 11-22 00:45:57, running time = 1.64min.
+
+ hyper params: output/arxiv_2023_#_train_LMs/microsoft/deberta-base-seed4-labels100-lr0.001 
+
+Before Check, remove_indices in train_mask:  27618
+Before Check, remove_indices in val_mask:  0
+Before Check, remove_indices in test_mask:  0
+Labeled samping in training set: 100/46198, ratio: 100%!!
+Check remove_indices in train_mask: 0
+Check remove_indices in val_mask: 0
+Check remove_indices in test_mask: 0
+Before pseudo labling, labeled samples in training set: 100/46198, ratio: 100%!!
+
+Number of parameters: 138632488
+Start running train at 11-22 00:46:33
+{'train_runtime': 6.4718, 'train_samples_per_second': 61.806, 'train_steps_per_second': 1.236, 'train_loss': 3.7676331996917725, 'epoch': 4.0}
+LM saved to prt_lm/arxiv_2023_#_train_LMs/microsoft/deberta-base-seed4-labels100-lr0.001.ckpt
+Finished running train at 11-22 00:46:43, running time = 10.21s.
+Start running eval_and_save at 11-22 00:46:43
+[LM] TrainAcc: 0.1900, ValAcc: 0.2232, TestAcc: 0.2214
+
+Finished running eval_and_save at 11-22 00:48:21, running time = 1.63min.
+TrainAcc: 0.0940 ± 0.1274
+ValAcc: 0.0854 ± 0.1149
+TestAcc: 0.0847 ± 0.1140
+dataset: arxiv_2023
+device: 0
+gnn:
+  model:
+    hidden_dim: 128
+    name: GCN
+    num_layers: 2
+  train:
+    K: 100
+    dropout: 0.5
+    early_stop: 500
+    epochs: 200
+    feature_type: TA
+    lr: 0.001
+    use_dgl: False
+    wd: 0.0
+    weight_decay: 0.0005
+lm:
+  model:
+    feat_shrink: 
+    name: microsoft/deberta-base
+  train:
+    GSL_data_split: True
+    att_dropout: 0.1
+    batch_size: 9
+    cla_dropout: 0.4
+    dropout: 0.3
+    epochs: 4
+    eval_patience: 50000
+    grad_acc_steps: 1
+    lr: 0.001
+    use_gpt: False
+    warmup_epochs: 0.6
+    weight_decay: 0.0
+ratio: 100
+runs: 5
+seed: 4
+
+ hyper params: output/arxiv_2023_#_train_LMs/microsoft/deberta-base-seed0-labels150-lr0.001 
+
+Before Check, remove_indices in train_mask:  27568
+Before Check, remove_indices in val_mask:  0
+Before Check, remove_indices in test_mask:  0
+Labeled samping in training set: 150/46198, ratio: 150%!!
+Check remove_indices in train_mask: 0
+Check remove_indices in val_mask: 0
+Check remove_indices in test_mask: 0
+Before pseudo labling, labeled samples in training set: 150/46198, ratio: 150%!!
+
+Number of parameters: 138632488
+Start running train at 11-22 00:49:30
+{'train_runtime': 16.0735, 'train_samples_per_second': 37.328, 'train_steps_per_second': 0.995, 'train_loss': 3.618978977203369, 'epoch': 4.0}
+LM saved to prt_lm/arxiv_2023_#_train_LMs/microsoft/deberta-base-seed0-labels150-lr0.001.ckpt
+Finished running train at 11-22 00:49:50, running time = 19.74s.
+Start running eval_and_save at 11-22 00:49:50
+[LM] TrainAcc: 0.2800, ValAcc: 0.2308, TestAcc: 0.2323
+
+Finished running eval_and_save at 11-22 00:51:27, running time = 1.62min.
+
+ hyper params: output/arxiv_2023_#_train_LMs/microsoft/deberta-base-seed1-labels150-lr0.001 
+
+Before Check, remove_indices in train_mask:  27568
+Before Check, remove_indices in val_mask:  0
+Before Check, remove_indices in test_mask:  0
+Labeled samping in training set: 150/46198, ratio: 150%!!
+Check remove_indices in train_mask: 0
+Check remove_indices in val_mask: 0
+Check remove_indices in test_mask: 0
+Before pseudo labling, labeled samples in training set: 150/46198, ratio: 150%!!
+
+Number of parameters: 138632488
+Start running train at 11-22 00:52:01
+{'train_runtime': 10.1524, 'train_samples_per_second': 59.1, 'train_steps_per_second': 1.576, 'train_loss': 3.5902047157287598, 'epoch': 4.0}
+LM saved to prt_lm/arxiv_2023_#_train_LMs/microsoft/deberta-base-seed1-labels150-lr0.001.ckpt
+Finished running train at 11-22 00:52:14, running time = 12.70s.
+Start running eval_and_save at 11-22 00:52:14
+[LM] TrainAcc: 0.1467, ValAcc: 0.2134, TestAcc: 0.2066
+
+Finished running eval_and_save at 11-22 00:53:51, running time = 1.63min.
+
+ hyper params: output/arxiv_2023_#_train_LMs/microsoft/deberta-base-seed2-labels150-lr0.001 
+
+Before Check, remove_indices in train_mask:  27568
+Before Check, remove_indices in val_mask:  0
+Before Check, remove_indices in test_mask:  0
+Labeled samping in training set: 150/46198, ratio: 150%!!
+Check remove_indices in train_mask: 0
+Check remove_indices in val_mask: 0
+Check remove_indices in test_mask: 0
+Before pseudo labling, labeled samples in training set: 150/46198, ratio: 150%!!
+
+Number of parameters: 138632488
+Start running train at 11-22 00:54:26
+{'train_runtime': 10.5498, 'train_samples_per_second': 56.873, 'train_steps_per_second': 1.517, 'train_loss': 3.6038613319396973, 'epoch': 4.0}
+LM saved to prt_lm/arxiv_2023_#_train_LMs/microsoft/deberta-base-seed2-labels150-lr0.001.ckpt
+Finished running train at 11-22 00:54:40, running time = 13.45s.
+Start running eval_and_save at 11-22 00:54:40
+[LM] TrainAcc: 0.2667, ValAcc: 0.2446, TestAcc: 0.2254
+
+Finished running eval_and_save at 11-22 00:56:19, running time = 1.66min.
+
+ hyper params: output/arxiv_2023_#_train_LMs/microsoft/deberta-base-seed3-labels150-lr0.001 
+
+Before Check, remove_indices in train_mask:  27568
+Before Check, remove_indices in val_mask:  0
+Before Check, remove_indices in test_mask:  0
+Labeled samping in training set: 150/46198, ratio: 150%!!
+Check remove_indices in train_mask: 0
+Check remove_indices in val_mask: 0
+Check remove_indices in test_mask: 0
+Before pseudo labling, labeled samples in training set: 150/46198, ratio: 150%!!
+
+Number of parameters: 138632488
+Start running train at 11-22 00:56:54
+{'train_runtime': 10.672, 'train_samples_per_second': 56.222, 'train_steps_per_second': 1.499, 'train_loss': 3.540989875793457, 'epoch': 4.0}
+LM saved to prt_lm/arxiv_2023_#_train_LMs/microsoft/deberta-base-seed3-labels150-lr0.001.ckpt
+Finished running train at 11-22 00:57:08, running time = 14.00s.
+Start running eval_and_save at 11-22 00:57:08
+[LM] TrainAcc: 0.2533, ValAcc: 0.2312, TestAcc: 0.2348
+
+Finished running eval_and_save at 11-22 00:58:47, running time = 1.65min.
+
+ hyper params: output/arxiv_2023_#_train_LMs/microsoft/deberta-base-seed4-labels150-lr0.001 
+
+Before Check, remove_indices in train_mask:  27568
+Before Check, remove_indices in val_mask:  0
+Before Check, remove_indices in test_mask:  0
+Labeled samping in training set: 150/46198, ratio: 150%!!
+Check remove_indices in train_mask: 0
+Check remove_indices in val_mask: 0
+Check remove_indices in test_mask: 0
+Before pseudo labling, labeled samples in training set: 150/46198, ratio: 150%!!
+
+Number of parameters: 138632488
+Start running train at 11-22 00:59:24
+{'train_runtime': 10.862, 'train_samples_per_second': 55.239, 'train_steps_per_second': 1.473, 'train_loss': 3.5761568546295166, 'epoch': 4.0}
+LM saved to prt_lm/arxiv_2023_#_train_LMs/microsoft/deberta-base-seed4-labels150-lr0.001.ckpt
+Finished running train at 11-22 00:59:39, running time = 14.76s.
+Start running eval_and_save at 11-22 00:59:39
+[LM] TrainAcc: 0.2267, ValAcc: 0.2025, TestAcc: 0.2027
+
+Finished running eval_and_save at 11-22 01:01:19, running time = 1.67min.
+TrainAcc: 0.2347 ± 0.0530
+ValAcc: 0.2245 ± 0.0165
+TestAcc: 0.2204 ± 0.0148
+dataset: arxiv_2023
+device: 0
+gnn:
+  model:
+    hidden_dim: 128
+    name: GCN
+    num_layers: 2
+  train:
+    K: 100
+    dropout: 0.5
+    early_stop: 500
+    epochs: 200
+    feature_type: TA
+    lr: 0.001
+    use_dgl: False
+    wd: 0.0
+    weight_decay: 0.0005
+lm:
+  model:
+    feat_shrink: 
+    name: microsoft/deberta-base
+  train:
+    GSL_data_split: True
+    att_dropout: 0.1
+    batch_size: 9
+    cla_dropout: 0.4
+    dropout: 0.3
+    epochs: 4
+    eval_patience: 50000
+    grad_acc_steps: 1
+    lr: 0.001
+    use_gpt: False
+    warmup_epochs: 0.6
+    weight_decay: 0.0
+ratio: 150
+runs: 5
+seed: 4
+
+ hyper params: output/arxiv_2023_#_train_LMs/microsoft/deberta-base-seed0-labels300-lr0.001 
+
+Before Check, remove_indices in train_mask:  27418
+Before Check, remove_indices in val_mask:  0
+Before Check, remove_indices in test_mask:  0
+Labeled samping in training set: 300/46198, ratio: 300%!!
+Check remove_indices in train_mask: 0
+Check remove_indices in val_mask: 0
+Check remove_indices in test_mask: 0
+Before pseudo labling, labeled samples in training set: 300/46198, ratio: 300%!!
+
+Number of parameters: 138632488
+Start running train at 11-22 01:02:27
+{'train_runtime': 25.4449, 'train_samples_per_second': 47.161, 'train_steps_per_second': 1.258, 'train_loss': 3.3803300857543945, 'epoch': 4.0}
+LM saved to prt_lm/arxiv_2023_#_train_LMs/microsoft/deberta-base-seed0-labels300-lr0.001.ckpt
+Finished running train at 11-22 01:02:56, running time = 29.10s.
+Start running eval_and_save at 11-22 01:02:56
+[LM] TrainAcc: 0.4167, ValAcc: 0.3276, TestAcc: 0.3281
+
+Finished running eval_and_save at 11-22 01:04:33, running time = 1.61min.
+
+ hyper params: output/arxiv_2023_#_train_LMs/microsoft/deberta-base-seed1-labels300-lr0.001 
+
+Before Check, remove_indices in train_mask:  27418
+Before Check, remove_indices in val_mask:  0
+Before Check, remove_indices in test_mask:  0
+Labeled samping in training set: 300/46198, ratio: 300%!!
+Check remove_indices in train_mask: 0
+Check remove_indices in val_mask: 0
+Check remove_indices in test_mask: 0
+Before pseudo labling, labeled samples in training set: 300/46198, ratio: 300%!!
+
+Number of parameters: 138632488
+Start running train at 11-22 01:05:06
+{'train_runtime': 20.37, 'train_samples_per_second': 58.91, 'train_steps_per_second': 1.571, 'train_loss': 3.3769497871398926, 'epoch': 4.0}
+LM saved to prt_lm/arxiv_2023_#_train_LMs/microsoft/deberta-base-seed1-labels300-lr0.001.ckpt
+Finished running train at 11-22 01:05:29, running time = 22.92s.
+Start running eval_and_save at 11-22 01:05:29
+[LM] TrainAcc: 0.4067, ValAcc: 0.3330, TestAcc: 0.3290
+
+Finished running eval_and_save at 11-22 01:07:07, running time = 1.63min.
+
+ hyper params: output/arxiv_2023_#_train_LMs/microsoft/deberta-base-seed2-labels300-lr0.001 
+
+Before Check, remove_indices in train_mask:  27418
+Before Check, remove_indices in val_mask:  0
+Before Check, remove_indices in test_mask:  0
+Labeled samping in training set: 300/46198, ratio: 300%!!
+Check remove_indices in train_mask: 0
+Check remove_indices in val_mask: 0
+Check remove_indices in test_mask: 0
+Before pseudo labling, labeled samples in training set: 300/46198, ratio: 300%!!
+
+Number of parameters: 138632488
+Start running train at 11-22 01:07:41
+{'train_runtime': 19.273, 'train_samples_per_second': 62.263, 'train_steps_per_second': 1.66, 'train_loss': 3.3685834407806396, 'epoch': 4.0}
+LM saved to prt_lm/arxiv_2023_#_train_LMs/microsoft/deberta-base-seed2-labels300-lr0.001.ckpt
+Finished running train at 11-22 01:08:03, running time = 22.21s.
+Start running eval_and_save at 11-22 01:08:03
+[LM] TrainAcc: 0.3233, ValAcc: 0.3143, TestAcc: 0.3005
+
+Finished running eval_and_save at 11-22 01:09:44, running time = 1.68min.
+
+ hyper params: output/arxiv_2023_#_train_LMs/microsoft/deberta-base-seed3-labels300-lr0.001 
+
+Before Check, remove_indices in train_mask:  27418
+Before Check, remove_indices in val_mask:  0
+Before Check, remove_indices in test_mask:  0
+Labeled samping in training set: 300/46198, ratio: 300%!!
+Check remove_indices in train_mask: 0
+Check remove_indices in val_mask: 0
+Check remove_indices in test_mask: 0
+Before pseudo labling, labeled samples in training set: 300/46198, ratio: 300%!!
+
+Number of parameters: 138632488
+Start running train at 11-22 01:10:20
+{'train_runtime': 19.4896, 'train_samples_per_second': 61.571, 'train_steps_per_second': 1.642, 'train_loss': 3.3422861099243164, 'epoch': 4.0}
+LM saved to prt_lm/arxiv_2023_#_train_LMs/microsoft/deberta-base-seed3-labels300-lr0.001.ckpt
+Finished running train at 11-22 01:10:43, running time = 22.88s.
+Start running eval_and_save at 11-22 01:10:43
+[LM] TrainAcc: 0.3367, ValAcc: 0.2831, TestAcc: 0.2787
+
+Finished running eval_and_save at 11-22 01:12:22, running time = 1.66min.
+
+ hyper params: output/arxiv_2023_#_train_LMs/microsoft/deberta-base-seed4-labels300-lr0.001 
+
+Before Check, remove_indices in train_mask:  27418
+Before Check, remove_indices in val_mask:  0
+Before Check, remove_indices in test_mask:  0
+Labeled samping in training set: 300/46198, ratio: 300%!!
+Check remove_indices in train_mask: 0
+Check remove_indices in val_mask: 0
+Check remove_indices in test_mask: 0
+Before pseudo labling, labeled samples in training set: 300/46198, ratio: 300%!!
+
+Number of parameters: 138632488
+Start running train at 11-22 01:12:58
+{'train_runtime': 19.7456, 'train_samples_per_second': 60.773, 'train_steps_per_second': 1.621, 'train_loss': 3.377009391784668, 'epoch': 4.0}
+LM saved to prt_lm/arxiv_2023_#_train_LMs/microsoft/deberta-base-seed4-labels300-lr0.001.ckpt
+Finished running train at 11-22 01:13:22, running time = 23.49s.
+Start running eval_and_save at 11-22 01:13:22
+[LM] TrainAcc: 0.2900, ValAcc: 0.2511, TestAcc: 0.2496
+
+Finished running eval_and_save at 11-22 01:15:03, running time = 1.68min.
+TrainAcc: 0.3547 ± 0.0549
+ValAcc: 0.3018 ± 0.0343
+TestAcc: 0.2972 ± 0.0339
+dataset: arxiv_2023
+device: 0
+gnn:
+  model:
+    hidden_dim: 128
+    name: GCN
+    num_layers: 2
+  train:
+    K: 100
+    dropout: 0.5
+    early_stop: 500
+    epochs: 200
+    feature_type: TA
+    lr: 0.001
+    use_dgl: False
+    wd: 0.0
+    weight_decay: 0.0005
+lm:
+  model:
+    feat_shrink: 
+    name: microsoft/deberta-base
+  train:
+    GSL_data_split: True
+    att_dropout: 0.1
+    batch_size: 9
+    cla_dropout: 0.4
+    dropout: 0.3
+    epochs: 4
+    eval_patience: 50000
+    grad_acc_steps: 1
+    lr: 0.001
+    use_gpt: False
+    warmup_epochs: 0.6
+    weight_decay: 0.0
+ratio: 300
+runs: 5
+seed: 4
+
+ hyper params: output/arxiv_2023_#_train_LMs/microsoft/deberta-base-seed0-labels500-lr0.001 
+
+Before Check, remove_indices in train_mask:  27218
+Before Check, remove_indices in val_mask:  0
+Before Check, remove_indices in test_mask:  0
+Labeled samping in training set: 500/46198, ratio: 500%!!
+Check remove_indices in train_mask: 0
+Check remove_indices in val_mask: 0
+Check remove_indices in test_mask: 0
+Before pseudo labling, labeled samples in training set: 500/46198, ratio: 500%!!
+
+Number of parameters: 138632488
+Start running train at 11-22 01:16:12
+{'train_runtime': 37.1858, 'train_samples_per_second': 53.784, 'train_steps_per_second': 1.398, 'train_loss': 3.134742443378155, 'epoch': 4.0}
+LM saved to prt_lm/arxiv_2023_#_train_LMs/microsoft/deberta-base-seed0-labels500-lr0.001.ckpt
+Finished running train at 11-22 01:16:53, running time = 40.62s.
+Start running eval_and_save at 11-22 01:16:53
+[LM] TrainAcc: 0.6900, ValAcc: 0.5698, TestAcc: 0.5636
+
+Finished running eval_and_save at 11-22 01:18:30, running time = 1.61min.
+
+ hyper params: output/arxiv_2023_#_train_LMs/microsoft/deberta-base-seed1-labels500-lr0.001 
+
+Before Check, remove_indices in train_mask:  27218
+Before Check, remove_indices in val_mask:  0
+Before Check, remove_indices in test_mask:  0
+Labeled samping in training set: 500/46198, ratio: 500%!!
+Check remove_indices in train_mask: 0
+Check remove_indices in val_mask: 0
+Check remove_indices in test_mask: 0
+Before pseudo labling, labeled samples in training set: 500/46198, ratio: 500%!!
+
+Number of parameters: 138632488
+Start running train at 11-22 01:19:04
+{'train_runtime': 31.2379, 'train_samples_per_second': 64.025, 'train_steps_per_second': 1.665, 'train_loss': 3.175577603853666, 'epoch': 4.0}
+LM saved to prt_lm/arxiv_2023_#_train_LMs/microsoft/deberta-base-seed1-labels500-lr0.001.ckpt
+Finished running train at 11-22 01:19:37, running time = 33.75s.
+Start running eval_and_save at 11-22 01:19:37
+[LM] TrainAcc: 0.6680, ValAcc: 0.5304, TestAcc: 0.5369
+
+Finished running eval_and_save at 11-22 01:21:17, running time = 1.66min.
+
+ hyper params: output/arxiv_2023_#_train_LMs/microsoft/deberta-base-seed2-labels500-lr0.001 
+
+Before Check, remove_indices in train_mask:  27218
+Before Check, remove_indices in val_mask:  0
+Before Check, remove_indices in test_mask:  0
+Labeled samping in training set: 500/46198, ratio: 500%!!
+Check remove_indices in train_mask: 0
+Check remove_indices in val_mask: 0
+Check remove_indices in test_mask: 0
+Before pseudo labling, labeled samples in training set: 500/46198, ratio: 500%!!
+
+Number of parameters: 138632488
+Start running train at 11-22 01:21:52
+{'train_runtime': 31.6144, 'train_samples_per_second': 63.262, 'train_steps_per_second': 1.645, 'train_loss': 3.1546880281888523, 'epoch': 4.0}
+LM saved to prt_lm/arxiv_2023_#_train_LMs/microsoft/deberta-base-seed2-labels500-lr0.001.ckpt
+Finished running train at 11-22 01:22:26, running time = 34.55s.
+Start running eval_and_save at 11-22 01:22:26
+[LM] TrainAcc: 0.6900, ValAcc: 0.5920, TestAcc: 0.5830
+
+Finished running eval_and_save at 11-22 01:24:05, running time = 1.66min.
+
+ hyper params: output/arxiv_2023_#_train_LMs/microsoft/deberta-base-seed3-labels500-lr0.001 
+
+Before Check, remove_indices in train_mask:  27218
+Before Check, remove_indices in val_mask:  0
+Before Check, remove_indices in test_mask:  0
+Labeled samping in training set: 500/46198, ratio: 500%!!
+Check remove_indices in train_mask: 0
+Check remove_indices in val_mask: 0
+Check remove_indices in test_mask: 0
+Before pseudo labling, labeled samples in training set: 500/46198, ratio: 500%!!
+
+Number of parameters: 138632488
+Start running train at 11-22 01:24:41
+{'train_runtime': 32.3468, 'train_samples_per_second': 61.83, 'train_steps_per_second': 1.608, 'train_loss': 3.149355961726262, 'epoch': 4.0}
+LM saved to prt_lm/arxiv_2023_#_train_LMs/microsoft/deberta-base-seed3-labels500-lr0.001.ckpt
+Finished running train at 11-22 01:25:17, running time = 35.68s.
+Start running eval_and_save at 11-22 01:25:17
+[LM] TrainAcc: 0.6800, ValAcc: 0.5437, TestAcc: 0.5473
+
+Finished running eval_and_save at 11-22 01:26:56, running time = 1.66min.
+
+ hyper params: output/arxiv_2023_#_train_LMs/microsoft/deberta-base-seed4-labels500-lr0.001 
+
+Before Check, remove_indices in train_mask:  27218
+Before Check, remove_indices in val_mask:  0
+Before Check, remove_indices in test_mask:  0
+Labeled samping in training set: 500/46198, ratio: 500%!!
+Check remove_indices in train_mask: 0
+Check remove_indices in val_mask: 0
+Check remove_indices in test_mask: 0
+Before pseudo labling, labeled samples in training set: 500/46198, ratio: 500%!!
+
+Number of parameters: 138632488
+Start running train at 11-22 01:27:33
+{'train_runtime': 33.2281, 'train_samples_per_second': 60.19, 'train_steps_per_second': 1.565, 'train_loss': 3.180220970740685, 'epoch': 4.0}
+LM saved to prt_lm/arxiv_2023_#_train_LMs/microsoft/deberta-base-seed4-labels500-lr0.001.ckpt
+Finished running train at 11-22 01:28:10, running time = 37.07s.
+Start running eval_and_save at 11-22 01:28:10
+[LM] TrainAcc: 0.6680, ValAcc: 0.5804, TestAcc: 0.5789
+
+Finished running eval_and_save at 11-22 01:29:49, running time = 1.64min.
+TrainAcc: 0.6792 ± 0.0110
+ValAcc: 0.5633 ± 0.0256
+TestAcc: 0.5619 ± 0.0198
+dataset: arxiv_2023
+device: 0
+gnn:
+  model:
+    hidden_dim: 128
+    name: GCN
+    num_layers: 2
+  train:
+    K: 100
+    dropout: 0.5
+    early_stop: 500
+    epochs: 200
+    feature_type: TA
+    lr: 0.001
+    use_dgl: False
+    wd: 0.0
+    weight_decay: 0.0005
+lm:
+  model:
+    feat_shrink: 
+    name: microsoft/deberta-base
+  train:
+    GSL_data_split: True
+    att_dropout: 0.1
+    batch_size: 9
+    cla_dropout: 0.4
+    dropout: 0.3
+    epochs: 4
+    eval_patience: 50000
+    grad_acc_steps: 1
+    lr: 0.001
+    use_gpt: False
+    warmup_epochs: 0.6
+    weight_decay: 0.0
+ratio: 500
+runs: 5
+seed: 4
