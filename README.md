@@ -4,6 +4,16 @@ Codes for paper [Scale-Free Graph-Language Models](https://openreview.net/forum?
 
 <img src="./sfgl.jpg">
 
+
+## Contributions
+
+1. *We identify two key challenges in existing GLMs: {artificial structural assumptions in graph generation} and {unreliable LM finetuning for text embedding}. We propose addressing these challenges simultaneously by exploring a well-grounded graph structural prior.*
+
+2. *We leverage the scale-free edge distribution in real networks as our graph structural prior. Our empirical validation and analysis reveal that a KNN graph, constructed using cosine similarity with an appropriately chosen k, effectively approximates a scale-free network.*
+
+3. *To the best of our knowledge, the proposed SFGL is the first work to unify graph generation and text embedding within a GLM framework, highlighting the synergistic potential of GNNs and LMs under a scale-free structural prior.*
+
+
 ## Datasets
 
 Datasets can be download from  [here](https://github.com/XiaoxinHe/TAPE). Please place the downloaded files in the folder `dataset`.
