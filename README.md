@@ -1,7 +1,8 @@
 # Scale-Free Graph-Language Models (ICLR 2025)
-Codes for the ICLR 2025 paper `Scale-Free Graph-Language Models`.
+Codes for paper [Scale-Free Graph-Language Models](https://openreview.net/forum?id=nFcgay1Yo9)
 
-[Paper](https://openreview.net/forum?id=nFcgay1Yo9)
+
+<img src="./sfgl.jpg">
 
 ## Datasets
 
